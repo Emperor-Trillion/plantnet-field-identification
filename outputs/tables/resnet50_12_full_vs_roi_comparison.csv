@@ -1,0 +1,6 @@
+Metric,Full_Image,Cropped_ROI,Improvement
+Top-1 Accuracy,0.5303,0.6515,0.1212
+Top-5 Accuracy,0.6667,0.7121,0.0455
+Mean Confidence,0.6116999983787537,0.6182000041007996,0.006500000134110451
+Median Confidence,0.626,0.6534,0.0274
+Images Compared,66.0,66.0,0.0

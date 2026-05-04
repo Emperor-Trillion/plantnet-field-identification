@@ -1,0 +1,151 @@
+image_id,total_rois,unique_genera,unique_species,genera_list,species_list,is_multi_genus,is_multi_species
+Albaninė Šilagėlė.JPG,4,4,4,"Hyoscyamus, Papaver, Dendrobium, Anemone","Hyoscyamus albus L., Papaver sp. (uncertain), Dendrobium sp. (uncertain), Anemone sp. (uncertain)",True,True
+DSCF1430-2.JPG,5,2,2,"Centranthus, Alocasia","Centranthus sp. (uncertain), Alocasia zebrina Schott ex Van Houtte",True,True
+DSCF1431-2.JPG,7,1,1,Tradescantia,Tradescantia sp. (uncertain),False,False
+DSCF1441-2.JPG,2,1,1,Trifolium,Trifolium pratense L.,False,False
+DSCF1442-2.JPG,4,2,2,"Daphne, Petiveria","Daphne sp. (uncertain), Petiveria sp. (uncertain)",True,True
+DSCF1487-2.JPG,2,1,1,Punica,Punica granatum L.,False,False
+DSCF1504-2.JPG,2,2,2,"Pelargonium, Punica","Pelargonium sp. (uncertain), Punica granatum L.",True,True
+DSCF1505-2.JPG,2,1,1,Punica,Punica granatum L.,False,False
+DSCF1511-2.JPG,4,1,1,Calycanthus,Calycanthus floridus L.,False,False
+DSCF1532-2.JPG,2,1,2,Punica,"Punica sp. (uncertain), Punica granatum L.",False,True
+DSCF1560-2.JPG,6,5,6,"Trifolium, Daphne, Dendrobium, Pelargonium, Hebe","Trifolium sp. (uncertain), Daphne sp. (uncertain), Trifolium pratense L., Dendrobium sp. (uncertain), Pelargonium sp. (uncertain), Hebe sp. (uncertain)",True,True
+DSCF1563-2.JPG,5,4,4,"Lamium, Zamioculcas, Lupinus, Hebe","Lamium sp. (uncertain), Zamioculcas sp. (uncertain), Lupinus polyphyllus Lindl., Hebe sp. (uncertain)",True,True
+DSCF1564-2.JPG,6,3,3,"Pereskia, Freesia, Daphne","Pereskia sp. (uncertain), Freesia sp. (uncertain), Daphne sp. (uncertain)",True,True
+DSCF1571-2.JPG,3,3,3,"Trifolium, Papaver, Daphne","Trifolium sp. (uncertain), Papaver somniferum L., Daphne sp. (uncertain)",True,True
+DSCF1573-2.JPG,5,4,5,"Lupinus, Hypericum, Cobaea, Freesia","Lupinus sp. (uncertain), Hypericum sp. (uncertain), Cobaea sp. (uncertain), Freesia sp. (uncertain), Freesia refracta (Jacq.) Klatt",True,True
+DSCF1575-2.JPG,7,7,7,"Daphne, Tradescantia, Pelargonium, Hebe, Lupinus, Barringtonia, Pereskia","Daphne sp. (uncertain), Tradescantia sp. (uncertain), Pelargonium sp. (uncertain), Hebe sp. (uncertain), Lupinus sp. (uncertain), Barringtonia sp. (uncertain), Pereskia sp. (uncertain)",True,True
+DSCF8139-2.JPG,6,2,2,"Daphne, Epipactis","Daphne sp. (uncertain), Epipactis sp. (uncertain)",True,True
+DSCF8141-2.JPG,5,3,3,"Cymbalaria, Alocasia, Trifolium","Cymbalaria sp. (uncertain), Alocasia sp. (uncertain), Trifolium sp. (uncertain)",True,True
+DSCF8145-2.JPG,6,1,1,Hyoscyamus,Hyoscyamus albus L.,False,False
+DSCF8148-2.JPG,3,0,0,,,False,False
+DSCF8151-2.JPG,5,1,1,Chaerophyllum,Chaerophyllum temulum L.,False,False
+DSCF8154-2.JPG,7,1,1,Petiveria,Petiveria alliacea L.,False,False
+DSCF8155-2.JPG,4,1,1,Anthericum,Anthericum sp. (uncertain),False,False
+DSCF8157-2.JPG,6,1,1,Thesium,Thesium sp. (uncertain),False,False
+DSCF8158-2.JPG,5,2,2,"Calendula, Danthonia","Calendula sp. (uncertain), Danthonia sp. (uncertain)",True,True
+DSCF8161-2.JPG,5,2,2,"Daphne, Pelargonium","Daphne sp. (uncertain), Pelargonium sp. (uncertain)",True,True
+DSCF8163-2.JPG,2,1,1,Pelargonium,Pelargonium sp. (uncertain),False,False
+DSCF8165-2.JPG,4,0,0,,,False,False
+DSC_5562[.jpg,2,1,1,Acacia,Acacia sp. (uncertain),False,False
+DSC_5566.JPG,5,3,4,"Perovskia, Acacia, Sedum","Perovskia sp. (uncertain), Acacia sp. (uncertain), Sedum sp. (uncertain), Sedum dasyphyllum L.",True,True
+DSC_5575.JPG,5,3,4,"Cucurbita, Acacia, Sedum","Cucurbita sp. (uncertain), Acacia sp. (uncertain), Acacia baileyana F.Muell., Sedum sp. (uncertain)",True,True
+DSC_5677.JPG,2,1,1,Tagetes,Tagetes erecta L.,False,False
+DSC_5681.JPG,4,3,3,"Dryas, Anemone, Tagetes","Dryas sp. (uncertain), Anemone sp. (uncertain), Tagetes sp. (uncertain)",True,True
+DSC_5682.JPG,3,0,0,,,False,False
+DSC_5683.JPG,3,1,1,Pelargonium,Pelargonium sp. (uncertain),False,False
+DSC_5687.JPG,3,1,1,Pyracantha,Pyracantha sp. (uncertain),False,False
+DSC_5691.JPG,3,3,3,"Acacia, Daucus, Lamium","Acacia retinodes Schltdl., Daucus sp. (uncertain), Lamium sp. (uncertain)",True,True
+DSC_5692.JPG,3,3,3,"Daucus, Nothofagus, Cenchrus","Daucus carota L., Nothofagus sp. (uncertain), Cenchrus sp. (uncertain)",True,True
+DSC_5710.JPG,5,3,4,"Maytenus, Garrya, Acacia","Maytenus sp. (uncertain), Garrya sp. (uncertain), Acacia dealbata Link, Acacia sp. (uncertain)",True,True
+DSC_5770.JPG,2,1,2,Sedum,"Sedum sp. (uncertain), Sedum acre L.",False,True
+DSC_5779.JPG,5,2,2,"Meum, Casuarina","Meum sp. (uncertain), Casuarina sp. (uncertain)",True,True
+DSC_5783sds.JPG,2,1,1,Acacia,Acacia dealbata Link,False,False
+DSC_8394124.JPG,3,3,3,"Acacia, Tagetes, Dalbergia","Acacia dealbata Link, Tagetes sp. (uncertain), Dalbergia sp. (uncertain)",True,True
+DSC_8400.JPG,2,1,1,Anemone,Anemone hepatica L.,False,False
+DSC_8404.JPG,3,2,2,"Mercurialis, Clethra","Mercurialis perennis L., Clethra sp. (uncertain)",True,True
+DSC_8407.JPG,5,2,2,"Lavandula, Barbarea","Lavandula sp. (uncertain), Barbarea sp. (uncertain)",True,True
+DSC_8408.JPG,2,2,2,"Daphne, Sedum","Daphne sp. (uncertain), Sedum sp. (uncertain)",True,True
+DSC_8566.JPG,4,0,0,,,False,False
+DSC_8626.JPG,5,1,3,Anemone,"Anemone pulsatilla L., Anemone coronaria L., Anemone sp. (uncertain)",False,True
+DSC_8628.JPG,2,1,1,Anemone,Anemone alpina L.,False,False
+DSC_8630.JPG,3,3,3,"Daucus, Smilax, Anemone","Daucus sp. (uncertain), Smilax sp. (uncertain), Anemone alpina L.",True,True
+DSC_8635.JPG,2,1,1,Hippophae,Hippophae sp. (uncertain),False,False
+DSC_8636.JPG,9,5,6,"Anemone, Tradescantia, Papaver, Freesia, Lamium","Anemone sp. (uncertain), Tradescantia sp. (uncertain), Papaver alpinum L., Anemone pulsatilla L., Freesia refracta (Jacq.) Klatt, Lamium maculatum (L.) L.",True,True
+DSC_8637.JPG,8,5,5,"Tradescantia, Anemone, Lamium, Trifolium, Freesia","Tradescantia pallida (Rose) D.R.Hunt, Anemone pulsatilla L., Lamium maculatum (L.) L., Trifolium sp. (uncertain), Freesia sp. (uncertain)",True,True
+DSC_8638.JPG,10,6,6,"Papaver, Tradescantia, Anemone, Lamium, Punica, Cirsium","Papaver alpinum L., Tradescantia sp. (uncertain), Anemone sp. (uncertain), Lamium sp. (uncertain), Punica sp. (uncertain), Cirsium sp. (uncertain)",True,True
+DSC_8639.JPG,9,4,5,"Erucastrum, Sedum, Lamium, Anemone","Erucastrum sp. (uncertain), Sedum sp. (uncertain), Lamium sp. (uncertain), Anemone sp. (uncertain), Lamium amplexicaule L.",True,True
+DSC_8642.JPG,4,3,3,"Fragaria, Sedum, Limnanthes","Fragaria sp. (uncertain), Sedum dasyphyllum L., Limnanthes sp. (uncertain)",True,True
+DSC_8644.JPG,4,2,2,"Cymbalaria, Anemone","Cymbalaria sp. (uncertain), Anemone sp. (uncertain)",True,True
+DSC_8645.JPG,4,1,1,Anemone,Anemone sp. (uncertain),False,False
+DSC_8646.JPG,4,1,1,Anemone,Anemone sp. (uncertain),False,False
+DSC_8647.JPG,3,0,0,,,False,False
+DSC_8648.JPG,3,1,1,Acacia,Acacia sp. (uncertain),False,False
+DSC_8650.JPG,5,4,4,"Daucus, Anemone, Hyoscyamus, Hypericum","Daucus sp. (uncertain), Anemone alpina L., Hyoscyamus sp. (uncertain), Hypericum sp. (uncertain)",True,True
+DSC_8651.JPG,7,3,3,"Ophrys, Anemone, Punica","Ophrys sp. (uncertain), Anemone sp. (uncertain), Punica sp. (uncertain)",True,True
+DSC_8652.JPG,5,5,5,"Anemone, Mercurialis, Lamium, Cucurbita, Trifolium","Anemone alpina L., Mercurialis sp. (uncertain), Lamium sp. (uncertain), Cucurbita sp. (uncertain), Trifolium sp. (uncertain)",True,True
+DSC_8654.JPG,9,6,6,"Trachelospermum, Lactuca, Hypericum, Sedum, Cucurbita, Lamium","Trachelospermum sp. (uncertain), Lactuca sp. (uncertain), Hypericum sp. (uncertain), Sedum sp. (uncertain), Cucurbita sp. (uncertain), Lamium galeobdolon (L.) L.",True,True
+DSC_8658.JPG,2,2,2,"Lavandula, Anemone","Lavandula sp. (uncertain), Anemone pulsatilla L.",True,True
+DSC_8661.JPG,6,3,4,"Lavandula, Cirsium, Lithodora","Lavandula angustifolia Mill., Lavandula sp. (uncertain), Cirsium sp. (uncertain), Lithodora fruticosa (L.) Griseb.",True,True
+DSC_8711.JPG,2,2,2,"Trifolium, Barbarea","Trifolium sp. (uncertain), Barbarea sp. (uncertain)",True,True
+DSC_8747.JPG,4,1,2,Trifolium,"Trifolium sp. (uncertain), Trifolium campestre Schreb.",False,True
+DSC_8908.JPG,6,5,6,"Trifolium, Alcea, Daphne, Barbarea, Epipactis","Trifolium sp. (uncertain), Alcea rosea L., Daphne cneorum L., Barbarea vulgaris R.Br., Daphne sp. (uncertain), Epipactis sp. (uncertain)",True,True
+DSC_8909.JPG,3,3,3,"Thapsia, Hypericum, Sedum","Thapsia sp. (uncertain), Hypericum perforatum L., Sedum sp. (uncertain)",True,True
+DSC_8910.JPG,2,2,2,"Sedum, Thapsia","Sedum sp. (uncertain), Thapsia sp. (uncertain)",True,True
+DSC_8916.JPG,5,4,4,"Anemone, Smilax, Barbarea, Hypericum","Anemone sp. (uncertain), Smilax sp. (uncertain), Barbarea sp. (uncertain), Hypericum sp. (uncertain)",True,True
+DSC_8917.JPG,3,2,2,"Pelargonium, Pyracantha","Pelargonium sp. (uncertain), Pyracantha sp. (uncertain)",True,True
+DSC_8918.JPG,4,2,2,"Anemone, Epipactis","Anemone sp. (uncertain), Epipactis atrorubens (Hoffm.) Besser",True,True
+DSC_8920.JPG,5,1,1,Morinda,Morinda sp. (uncertain),False,False
+DSC_8922.JPG,4,0,0,,,False,False
+DSC_8924.JPG,2,2,2,"Acalypha, Liriodendron","Acalypha sp. (uncertain), Liriodendron sp. (uncertain)",True,True
+DSC_8926.JPG,6,5,5,"Duchesnea, Anemone, Cymbalaria, Barbarea, Limbarda","Duchesnea indica (Andrews) Teschem., Anemone sp. (uncertain), Cymbalaria sp. (uncertain), Barbarea sp. (uncertain), Limbarda sp. (uncertain)",True,True
+DSC_8927.JPG,5,4,4,"Fragaria, Duchesnea, Hypericum, Calendula","Fragaria vesca L., Duchesnea sp. (uncertain), Hypericum sp. (uncertain), Calendula sp. (uncertain)",True,True
+DSC_8929.JPG,6,3,3,"Melilotus, Fragaria, Hypericum","Melilotus albus Medik., Fragaria sp. (uncertain), Hypericum sp. (uncertain)",True,True
+DSC_8930.JPG,4,1,1,Kniphofia,Kniphofia sp. (uncertain),False,False
+DSC_8931.JPG,9,5,5,"Lupinus, Anemone, Daucus, Metasequoia, Limbarda","Lupinus sp. (uncertain), Anemone sp. (uncertain), Daucus sp. (uncertain), Metasequoia sp. (uncertain), Limbarda sp. (uncertain)",True,True
+DSC_8932.JPG,3,3,3,"Trifolium, Cenchrus, Barbarea","Trifolium sp. (uncertain), Cenchrus setaceus (Forssk.) Morrone, Barbarea sp. (uncertain)",True,True
+DSC_8934.JPG,3,3,3,"Daphne, Pelargonium, Lamium","Daphne cneorum L., Pelargonium sp. (uncertain), Lamium sp. (uncertain)",True,True
+DSC_8936.JPG,3,3,3,"Pelargonium, Barbarea, Anemone","Pelargonium sp. (uncertain), Barbarea sp. (uncertain), Anemone sp. (uncertain)",True,True
+DSC_8938.JPG,3,1,1,Anemone,Anemone pulsatilla L.,False,False
+DSC_8940.JPG,4,4,4,"Punica, Asystasia, Lavandula, Noccaea","Punica granatum L., Asystasia sp. (uncertain), Lavandula sp. (uncertain), Noccaea sp. (uncertain)",True,True
+DSC_8942.JPG,4,4,4,"Pyracantha, Trifolium, Lavandula, Noccaea","Pyracantha sp. (uncertain), Trifolium sp. (uncertain), Lavandula sp. (uncertain), Noccaea sp. (uncertain)",True,True
+DSC_8943.JPG,6,5,6,"Barbarea, Acacia, Anemone, Lavandula, Kniphofia","Barbarea sp. (uncertain), Acacia sp. (uncertain), Anemone sp. (uncertain), Lavandula angustifolia Mill., Kniphofia sp. (uncertain), Anemone pulsatilla L.",True,True
+DSC_8944.JPG,4,1,1,Fragaria,Fragaria sp. (uncertain),False,False
+DSC_8945.JPG,4,1,1,Lithodora,Lithodora sp. (uncertain),False,False
+DSC_8946.JPG,3,3,3,"Lithodora, Noccaea, Lupinus","Lithodora fruticosa (L.) Griseb., Noccaea rotundifolia (L.) Moench, Lupinus sp. (uncertain)",True,True
+DSC_8947.JPG,2,1,1,Ophrys,Ophrys sp. (uncertain),False,False
+DSC_8948.JPG,3,2,2,"Sedum, Barbarea","Sedum sp. (uncertain), Barbarea vulgaris R.Br.",True,True
+DSC_8949.JPG,3,1,1,Sedum,Sedum sp. (uncertain),False,False
+DSC_8954.JPG,3,1,1,Daphne,Daphne sp. (uncertain),False,False
+DSC_8956.JPG,3,1,1,Sedum,Sedum sp. (uncertain),False,False
+DSC_8957.JPG,4,1,1,Barbarea,Barbarea vulgaris R.Br.,False,False
+DSC_8958.JPG,7,5,6,"Sedum, Elodea, Acalypha, Thapsia, Empetrum","Sedum acre L., Elodea sp. (uncertain), Acalypha sp. (uncertain), Thapsia sp. (uncertain), Empetrum sp. (uncertain), Sedum makinoi Maxim.",True,True
+DSC_8962.JPG,3,3,3,"Daphne, Vanilla, Phalaris","Daphne sp. (uncertain), Vanilla sp. (uncertain), Phalaris sp. (uncertain)",True,True
+DSC_8963.JPG,4,2,2,"Schefflera, Sedum","Schefflera sp. (uncertain), Sedum sp. (uncertain)",True,True
+DSC_8964.JPG,2,2,2,"Pelargonium, Acacia","Pelargonium sp. (uncertain), Acacia sp. (uncertain)",True,True
+DSC_8966.JPG,3,0,0,,,False,False
+DSC_8967.JPG,2,1,1,Trifolium,Trifolium sp. (uncertain),False,False
+DSC_8969.JPG,2,1,1,Trifolium,Trifolium sp. (uncertain),False,False
+DSC_8970.JPG,2,0,0,,,False,False
+DSC_8971.JPG,6,2,2,"Tradescantia, Noccaea","Tradescantia sp. (uncertain), Noccaea sp. (uncertain)",True,True
+DSC_8972.JPG,2,1,1,Calendula,Calendula officinalis L.,False,False
+DSC_8977.JPG,2,1,1,Centranthus,Centranthus sp. (uncertain),False,False
+DSC_8978.JPG,4,3,3,"Eritrichium, Anemone, Lithodora","Eritrichium sp. (uncertain), Anemone sp. (uncertain), Lithodora sp. (uncertain)",True,True
+DSC_8979.JPG,9,5,5,"Barbarea, Trifolium, Pelargonium, Hypericum, Sedum","Barbarea sp. (uncertain), Trifolium sp. (uncertain), Pelargonium sp. (uncertain), Hypericum sp. (uncertain), Sedum sp. (uncertain)",True,True
+DSC_9089.jpg,6,2,2,"Mertensia, Anemone","Mertensia sp. (uncertain), Anemone sp. (uncertain)",True,True
+DSC_9090.jpg,6,2,2,"Anemone, Barringtonia","Anemone sp. (uncertain), Barringtonia sp. (uncertain)",True,True
+DSC_9468.JPG,5,4,4,"Angelica, Pyracantha, Daucus, Lathraea","Angelica archangelica L., Pyracantha sp. (uncertain), Daucus sp. (uncertain), Lathraea sp. (uncertain)",True,True
+DSC_9638.JPG,2,2,2,"Cymbalaria, Sedum","Cymbalaria sp. (uncertain), Sedum sp. (uncertain)",True,True
+DSC_9652.JPG,6,2,2,"Petiveria, Anemone","Petiveria alliacea L., Anemone sp. (uncertain)",True,True
+E. heracleoides.JPG,9,4,5,"Sedum, Centranthus, Cyphostemma, Gymnosporia","Sedum sp. (uncertain), Centranthus calcitrapae (L.) Dufr., Centranthus sp. (uncertain), Cyphostemma sp. (uncertain), Gymnosporia sp. (uncertain)",True,True
+E. umbellatum var. stellatum-1.JPG,4,2,2,"Angelica, Clethra","Angelica sp. (uncertain), Clethra alnifolia L.",True,True
+E. umbellatum var. stellatum[1].JPG,5,0,0,,,False,False
+E. umbellatum var. stellatum[2].JPG,2,2,2,"Mercurialis, Pyracantha","Mercurialis sp. (uncertain), Pyracantha coccinea M.Roem.",True,True
+E. umbellatumvar.bahiiforme(1).JPG,2,2,2,"Mercurialis, Barbarea","Mercurialis sp. (uncertain), Barbarea sp. (uncertain)",True,True
+E.umbellatum var. bahiiforme.JPG,3,3,3,"Dryas, Barbarea, Angelica","Dryas octopetala L., Barbarea sp. (uncertain), Angelica archangelica L.",True,True
+E.umbellatum var.stellatum(bendras vaizdas)-4.JPG,2,2,2,"Sedum, Ophrys","Sedum sp. (uncertain), Ophrys sp. (uncertain)",True,True
+IMGP6735.JPG,3,0,0,,,False,False
+IMGP7230.JPG,8,0,0,,,False,False
+P3240023.JPG m.jpg,2,2,2,"Anemone, Daucus","Anemone sp. (uncertain), Daucus sp. (uncertain)",True,True
+P3240048.JPG,4,3,3,"Alcea, Lavandula, Perovskia","Alcea sp. (uncertain), Lavandula stoechas L., Perovskia sp. (uncertain)",True,True
+P4240127-2.JPG,5,2,2,"Tradescantia, Calendula","Tradescantia sp. (uncertain), Calendula sp. (uncertain)",True,True
+P4240129-2.JPG,3,2,2,"Cenchrus, Lavandula","Cenchrus sp. (uncertain), Lavandula stoechas L.",True,True
+P4240139-2.JPG,5,2,2,"Ophrys, Papaver","Ophrys bertolonii Moretti, Papaver sp. (uncertain)",True,True
+P4240150-2.JPG,3,2,2,"Alliaria, Anemone","Alliaria sp. (uncertain), Anemone sp. (uncertain)",True,True
+P4240160-2.JPG,2,1,1,Lupinus,Lupinus sp. (uncertain),False,False
+P4240168-2.JPG,6,4,4,"Mercurialis, Lactuca, Acalypha, Cirsium","Mercurialis sp. (uncertain), Lactuca sativa L., Acalypha sp. (uncertain), Cirsium sp. (uncertain)",True,True
+P4240169-2.JPG,3,1,1,Sedum,Sedum sp. (uncertain),False,False
+P4260001-2.JPG,3,1,1,Ophrys,Ophrys sp. (uncertain),False,False
+P4260002-2.JPG,2,1,1,Freesia,Freesia sp. (uncertain),False,False
+P4260007-2.JPG,3,1,1,Phalaris,Phalaris sp. (uncertain),False,False
+P4260013-2.JPG,5,2,3,"Acalypha, Phedimus","Acalypha sp. (uncertain), Phedimus sp. (uncertain), Phedimus spurius (M.Bieb) 't Hart",True,True
+P4260017-2.JPG,4,2,2,"Anemone, Smilax","Anemone hepatica L., Smilax sp. (uncertain)",True,True
+P4260022-2.JPG,3,1,1,Punica,Punica granatum L.,False,False
+P4260027-2.JPG,2,1,1,Nymphaea,Nymphaea sp. (uncertain),False,False
+P4260029-2.JPG,2,1,1,Papaver,Papaver sp. (uncertain),False,False
+P4260031-2.JPG,4,2,2,"Trifolium, Cirsium","Trifolium sp. (uncertain), Cirsium sp. (uncertain)",True,True
+P4260034-2.JPG,2,2,2,"Daucus, Tradescantia","Daucus sp. (uncertain), Tradescantia sp. (uncertain)",True,True
+P4260035-2.JPG,4,2,2,"Lithodora, Sedum","Lithodora sp. (uncertain), Sedum sp. (uncertain)",True,True
+P4260053-2.JPG,4,1,1,Daphne,Daphne sp. (uncertain),False,False
+P4260062-2.JPG,6,4,4,"Mercurialis, Centranthus, Punica, Lactuca","Mercurialis sp. (uncertain), Centranthus sp. (uncertain), Punica sp. (uncertain), Lactuca sp. (uncertain)",True,True
+P4260067-2.JPG,3,3,3,"Cymbalaria, Lactuca, Sedum","Cymbalaria sp. (uncertain), Lactuca sativa L., Sedum sp. (uncertain)",True,True

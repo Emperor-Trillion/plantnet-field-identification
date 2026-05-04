@@ -1,0 +1,429 @@
+roi_id,source_image,validated_species,validated_genus,validation_method,validation_strength,include_in_metrics
+roi_0000,Albaninė Šilagėlė.JPG,Papaver alpinum L.,Papaver,good_confidence_local,strong,True
+roi_0001,Albaninė Šilagėlė.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0002,Albaninė Šilagėlė.JPG,Anemone alpina L.,Anemone,unvalidated,weak,False
+roi_0003,Albaninė Šilagėlė.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0005,DSCF1430-2.JPG,Wigandia caracasana Kunth,Wigandia,unvalidated,weak,False
+roi_0006,DSCF1430-2.JPG,Alocasia zebrina Schott ex Van Houtte,Alocasia,unvalidated,weak,False
+roi_0010,DSCF1431-2.JPG,Trifolium alpestre L.,Trifolium,good_confidence_local,strong,True
+roi_0016,DSCF1441-2.JPG,Trifolium pratense L.,Trifolium,good_confidence_local,strong,True
+roi_0018,DSCF1442-2.JPG,Daphne cneorum L.,Daphne,unvalidated,weak,False
+roi_0019,DSCF1442-2.JPG,Petiveria alliacea L.,Petiveria,unvalidated,weak,False
+roi_0022,DSCF1486-2.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0023,DSCF1487-2.JPG,Calycanthus floridus L.,Calycanthus,unvalidated,weak,False
+roi_0025,DSCF1504-2.JPG,Punica granatum L.,Punica,high_confidence_local,strong,True
+roi_0026,DSCF1504-2.JPG,Punica granatum L.,Punica,high_confidence_local,strong,True
+roi_0027,DSCF1505-2.JPG,Punica granatum L.,Punica,high_confidence_local,strong,True
+roi_0029,DSCF1506-2.JPG,Punica granatum L.,Punica,high_confidence_local,strong,True
+roi_0032,DSCF1511-2.JPG,Anthurium andraeanum Linden ex André,Anthurium,unvalidated,weak,False
+roi_0034,DSCF1512-2.JPG,Punica granatum L.,Punica,high_confidence_local,strong,True
+roi_0035,DSCF1532-2.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0036,DSCF1532-2.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0037,DSCF1541-2.JPG,Punica granatum L.,Punica,high_confidence_local,strong,True
+roi_0038,DSCF1560-2.JPG,Trifolium pratense L.,Trifolium,good_confidence_local,strong,True
+roi_0039,DSCF1560-2.JPG,Trifolium pratense L.,Trifolium,unvalidated,weak,False
+roi_0040,DSCF1560-2.JPG,Viscaria alpina (L.) G.Don,Viscaria,unvalidated,weak,False
+roi_0041,DSCF1560-2.JPG,Trifolium resupinatum L.,Trifolium,unvalidated,weak,False
+roi_0042,DSCF1560-2.JPG,Lathraea squamaria L.,Lathraea,unvalidated,weak,False
+roi_0043,DSCF1560-2.JPG,Hebe salicifolia (G.Forst.) Pennell,Hebe,unvalidated,weak,False
+roi_0044,DSCF1563-2.JPG,Trachelospermum jasminoides (Lindl.) Lem.,Trachelospermum,unvalidated,weak,False
+roi_0045,DSCF1563-2.JPG,Tradescantia fluminensis Vell.,Tradescantia,unvalidated,weak,False
+roi_0046,DSCF1563-2.JPG,Trifolium pratense L.,Trifolium,moderate_with_genus_agreement,moderate,True
+roi_0047,DSCF1563-2.JPG,Trifolium pratense L.,Trifolium,unvalidated,weak,False
+roi_0050,DSCF1564-2.JPG,Cobaea scandens Cav.,Cobaea,unvalidated,weak,False
+roi_0051,DSCF1564-2.JPG,Trifolium pratense L.,Trifolium,unvalidated,weak,False
+roi_0054,DSCF1564-2.JPG,Viscaria vulgaris Bernh.,Viscaria,unvalidated,weak,False
+roi_0055,DSCF1571-2.JPG,Trifolium medium L.,Trifolium,unvalidated,weak,False
+roi_0056,DSCF1571-2.JPG,Trifolium pratense L.,Trifolium,good_confidence_local,strong,True
+roi_0057,DSCF1571-2.JPG,Daphne mezereum L.,Daphne,high_confidence_local,strong,True
+roi_0058,DSCF1573-2.JPG,Cobaea scandens Cav.,Cobaea,good_confidence_local,strong,True
+roi_0059,DSCF1573-2.JPG,Trifolium badium Schreb.,Trifolium,moderate_with_genus_agreement,moderate,True
+roi_0060,DSCF1573-2.JPG,Trifolium alpestre L.,Trifolium,unvalidated,weak,False
+roi_0061,DSCF1573-2.JPG,Freesia x hybrida L.H.Bailey,Freesia,unvalidated,weak,False
+roi_0062,DSCF1573-2.JPG,Lathraea clandestina L.,Lathraea,unvalidated,weak,False
+roi_0063,DSCF1575-2.JPG,Trifolium alpestre L.,Trifolium,unvalidated,weak,False
+roi_0064,DSCF1575-2.JPG,Pereskia grandifolia Haw.,Pereskia,unvalidated,weak,False
+roi_0065,DSCF1575-2.JPG,Trifolium alpestre L.,Trifolium,unvalidated,weak,False
+roi_0066,DSCF1575-2.JPG,Hebe andersonii (Lindl. & J. Paxton) Cockayne,Hebe,unvalidated,weak,False
+roi_0067,DSCF1575-2.JPG,Humulus lupulus L.,Humulus,unvalidated,weak,False
+roi_0068,DSCF1575-2.JPG,Acalypha integrifolia Willd.,Acalypha,unvalidated,weak,False
+roi_0069,DSCF1575-2.JPG,Lupinus arboreus Sims,Lupinus,unvalidated,weak,False
+roi_0073,DSCF8139-2.JPG,Alcea rosea L.,Alcea,high_confidence_local,strong,True
+roi_0074,DSCF8139-2.JPG,Trifolium incarnatum L.,Trifolium,unvalidated,weak,False
+roi_0077,DSCF8141-2.JPG,Pelargonium inquinans (L.) Aiton,Pelargonium,unvalidated,weak,False
+roi_0079,DSCF8141-2.JPG,Hyoscyamus albus L.,Hyoscyamus,unvalidated,weak,False
+roi_0080,DSCF8141-2.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0084,DSCF8145-2.JPG,Lupinus polyphyllus Lindl.,Lupinus,unvalidated,weak,False
+roi_0093,DSCF8151-2.JPG,Chaerophyllum temulum L.,Chaerophyllum,unvalidated,weak,False
+roi_0098,DSCF8154-2.JPG,Acalypha integrifolia Willd.,Acalypha,unvalidated,weak,False
+roi_0105,DSCF8155-2.JPG,Phalaris minor Retz.,Phalaris,unvalidated,weak,False
+roi_0111,DSCF8157-2.JPG,Lapsana communis L.,Lapsana,unvalidated,weak,False
+roi_0113,DSCF8158-2.JPG,Haplophyton crooksii (L.D. Benson) L.D. Benson,Haplophyton,unvalidated,weak,False
+roi_0114,DSCF8158-2.JPG,Danthonia decumbens (L.) DC.,Danthonia,unvalidated,weak,False
+roi_0119,DSCF8161-2.JPG,Daphne laureola L.,Daphne,unvalidated,weak,False
+roi_0120,DSCF8161-2.JPG,Aspilia mossambicensis (Oliv.) Wild,Aspilia,unvalidated,weak,False
+roi_0123,DSCF8163-2.JPG,Epipactis microphylla (Ehrh.) Sw.,Epipactis,unvalidated,weak,False
+roi_0128,DSC_0036.JPG,Sedum sediforme (Jacq.) Pau,Sedum,high_confidence_local,strong,True
+roi_0130,DSC_5562[.jpg,Pyracantha coccinea M.Roem.,Pyracantha,unvalidated,weak,False
+roi_0131,DSC_5566.JPG,Acacia baileyana F.Muell.,Acacia,unvalidated,weak,False
+roi_0132,DSC_5566.JPG,Acacia dealbata Link,Acacia,unvalidated,weak,False
+roi_0133,DSC_5566.JPG,Acacia baileyana F.Muell.,Acacia,unvalidated,weak,False
+roi_0134,DSC_5566.JPG,Acacia baileyana F.Muell.,Acacia,unvalidated,weak,False
+roi_0135,DSC_5566.JPG,Sedum dasyphyllum L.,Sedum,high_confidence_local,strong,True
+roi_0136,DSC_5575.JPG,Cucurbita moschata Duchesne,Cucurbita,moderate_with_genus_agreement,moderate,True
+roi_0137,DSC_5575.JPG,Acacia baileyana F.Muell.,Acacia,high_confidence_local,strong,True
+roi_0138,DSC_5575.JPG,Acacia dealbata Link,Acacia,high_confidence_local,strong,True
+roi_0139,DSC_5575.JPG,Sedum dasyphyllum L.,Sedum,good_confidence_local,strong,True
+roi_0140,DSC_5575.JPG,Acacia baileyana F.Muell.,Acacia,unvalidated,weak,False
+roi_0141,DSC_5677.JPG,Kniphofia uvaria (L.) Hook.,Kniphofia,good_confidence_local,strong,True
+roi_0143,DSC_5680.JPG,Pelargonium inquinans (L.) Aiton,Pelargonium,unvalidated,weak,False
+roi_0144,DSC_5681.JPG,Anemone alpina L.,Anemone,unvalidated,weak,False
+roi_0145,DSC_5681.JPG,Dryas octopetala L.,Dryas,good_confidence_local,strong,True
+roi_0146,DSC_5681.JPG,Tagetes tenuifolia Cav.,Tagetes,unvalidated,weak,False
+roi_0152,DSC_5683.JPG,Pelargonium inquinans (L.) Aiton,Pelargonium,unvalidated,weak,False
+roi_0154,DSC_5687.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0155,DSC_5687.JPG,Pyracantha coccinea M.Roem.,Pyracantha,good_confidence_local,strong,True
+roi_0157,DSC_5690.JPG,Hypericum perforatum L.,Hypericum,unvalidated,weak,False
+roi_0158,DSC_5691.JPG,Acacia saligna (Labill.) H.L.Wendl.,Acacia,unvalidated,weak,False
+roi_0159,DSC_5691.JPG,Hippophae rhamnoides L.,Hippophae,unvalidated,weak,False
+roi_0160,DSC_5691.JPG,Helminthotheca echioides (L.) Holub,Helminthotheca,unvalidated,weak,False
+roi_0161,DSC_5692.JPG,Meum athamanticum Jacq.,Meum,unvalidated,weak,False
+roi_0162,DSC_5692.JPG,Casuarina cunninghamiana Miq.,Casuarina,moderate_with_genus_agreement,moderate,True
+roi_0163,DSC_5692.JPG,Cenchrus purpureus (Schumach.) Morrone,Cenchrus,good_confidence_local,strong,True
+roi_0164,DSC_5698.JPG,Nandina domestica Thunb.,Nandina,good_confidence_local,strong,True
+roi_0165,DSC_5701.JPG,Pyracantha coccinea M.Roem.,Pyracantha,unvalidated,weak,False
+roi_0166,DSC_5703.JPG,Lactuca sativa L.,Lactuca,high_confidence_local,strong,True
+roi_0167,DSC_5710.JPG,Acacia baileyana F.Muell.,Acacia,unvalidated,weak,False
+roi_0168,DSC_5710.JPG,Garrya elliptica Douglas ex Lindl.,Garrya,unvalidated,weak,False
+roi_0169,DSC_5710.JPG,Acacia dealbata Link,Acacia,moderate_with_genus_agreement,moderate,True
+roi_0170,DSC_5710.JPG,Holodiscus discolor (Pursh) Maxim.,Holodiscus,unvalidated,weak,False
+roi_0171,DSC_5710.JPG,Acacia baileyana F.Muell.,Acacia,unvalidated,weak,False
+roi_0172,DSC_5770.JPG,Sedum acre L.,Sedum,moderate_with_genus_agreement,moderate,True
+roi_0173,DSC_5770.JPG,Sedum acre L.,Sedum,good_confidence_local,strong,True
+roi_0176,DSC_5779.JPG,Empetrum nigrum L.,Empetrum,unvalidated,weak,False
+roi_0178,DSC_5779.JPG,Casuarina cunninghamiana Miq.,Casuarina,unvalidated,weak,False
+roi_0179,DSC_578325151.JPG,Pyracantha coccinea M.Roem.,Pyracantha,good_confidence_local,strong,True
+roi_0180,DSC_5783sds.JPG,Acacia dealbata Link,Acacia,good_confidence_local,strong,True
+roi_0181,DSC_5783sds.JPG,Hypericum perforatum L.,Hypericum,unvalidated,weak,False
+roi_0182,DSC_839222.JPG,Lamium purpureum L.,Lamium,unvalidated,weak,False
+roi_0183,DSC_8392666.JPG,Hypericum patulum Thunb.,Hypericum,unvalidated,weak,False
+roi_0184,DSC_8394124.JPG,Acacia dealbata Link,Acacia,high_confidence_local,strong,True
+roi_0185,DSC_8394124.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0186,DSC_8394124.JPG,Noccaea rotundifolia (L.) Moench,Noccaea,unvalidated,weak,False
+roi_0187,DSC_8400.JPG,Anemone hepatica L.,Anemone,high_confidence_local,strong,True
+roi_0188,DSC_8400.JPG,Anemone hepatica L.,Anemone,high_confidence_local,strong,True
+roi_0189,DSC_8404.JPG,Helminthotheca echioides (L.) Holub,Helminthotheca,unvalidated,weak,False
+roi_0191,DSC_8404.JPG,Phalaris aquatica L.,Phalaris,unvalidated,weak,False
+roi_0194,DSC_8407.JPG,Sedum album L.,Sedum,unvalidated,weak,False
+roi_0195,DSC_8407.JPG,Papaver rhaeticum Leresche,Papaver,unvalidated,weak,False
+roi_0197,DSC_8408.JPG,Lamium purpureum L.,Lamium,moderate_with_genus_agreement,moderate,True
+roi_0198,DSC_8408.JPG,Lavandula stoechas L.,Lavandula,moderate_with_genus_agreement,moderate,True
+roi_0204,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0205,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0206,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,unvalidated,weak,False
+roi_0207,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0208,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,unvalidated,weak,False
+roi_0210,DSC_8628.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0211,DSC_8630.JPG,Trifolium repens L.,Trifolium,unvalidated,weak,False
+roi_0212,DSC_8630.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0213,DSC_8630.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0214,DSC_8634.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0215,DSC_8635.JPG,Hippophae rhamnoides L.,Hippophae,unvalidated,weak,False
+roi_0216,DSC_8635.JPG,Anemone alpina L.,Anemone,good_confidence_local,strong,True
+roi_0217,DSC_8636.JPG,Anemone vernalis L.,Anemone,moderate_with_genus_agreement,moderate,True
+roi_0218,DSC_8636.JPG,Lamium purpureum L.,Lamium,unvalidated,weak,False
+roi_0219,DSC_8636.JPG,Papaver alpinum L.,Papaver,good_confidence_local,strong,True
+roi_0220,DSC_8636.JPG,Papaver alpinum L.,Papaver,unvalidated,weak,False
+roi_0221,DSC_8636.JPG,Anemone pulsatilla L.,Anemone,unvalidated,weak,False
+roi_0222,DSC_8636.JPG,Papaver alpinum L.,Papaver,high_confidence_local,strong,True
+roi_0223,DSC_8636.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,strong,True
+roi_0224,DSC_8636.JPG,Trifolium pratense L.,Trifolium,unvalidated,weak,False
+roi_0225,DSC_8636.JPG,Lamium maculatum (L.) L.,Lamium,moderate_with_genus_agreement,moderate,True
+roi_0226,DSC_8637.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0227,DSC_8637.JPG,Papaver alpinum L.,Papaver,good_confidence_local,strong,True
+roi_0230,DSC_8637.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0231,DSC_8637.JPG,Lamium maculatum (L.) L.,Lamium,unvalidated,weak,False
+roi_0232,DSC_8637.JPG,Anemone pulsatilla L.,Anemone,unvalidated,weak,False
+roi_0233,DSC_8637.JPG,Trifolium alpinum L.,Trifolium,unvalidated,weak,False
+roi_0235,DSC_8638.JPG,Neolamarckia cadamba (Roxb.) Bosser,Neolamarckia,unvalidated,weak,False
+roi_0236,DSC_8638.JPG,Tradescantia pallida (Rose) D.R.Hunt,Tradescantia,high_confidence_local,strong,True
+roi_0237,DSC_8638.JPG,Anemone vernalis L.,Anemone,good_confidence_local,strong,True
+roi_0238,DSC_8638.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0239,DSC_8638.JPG,Tradescantia zebrina hort. ex Bosse,Tradescantia,unvalidated,weak,False
+roi_0240,DSC_8638.JPG,Entada gigas (L.) Fawc. & Rendle,Entada,unvalidated,weak,False
+roi_0242,DSC_8638.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0244,DSC_8639.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0245,DSC_8639.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0249,DSC_8639.JPG,Tradescantia pallida (Rose) D.R.Hunt,Tradescantia,unvalidated,weak,False
+roi_0251,DSC_8639.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,strong,True
+roi_0252,DSC_8639.JPG,Lamium amplexicaule L.,Lamium,moderate_with_genus_agreement,moderate,True
+roi_0253,DSC_8641.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0254,DSC_8642.JPG,Moehringia ciliata (Scop.) Dalla Torre,Moehringia,unvalidated,weak,False
+roi_0255,DSC_8642.JPG,Papaver alpinum L.,Papaver,unvalidated,weak,False
+roi_0256,DSC_8642.JPG,Papaver alpinum L.,Papaver,unvalidated,weak,False
+roi_0257,DSC_8642.JPG,Fragaria vesca L.,Fragaria,unvalidated,weak,False
+roi_0258,DSC_8643.JPG,Sedum villosum L.,Sedum,unvalidated,weak,False
+roi_0259,DSC_8644.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,high_confidence_local,strong,True
+roi_0262,DSC_8644.JPG,Anemone halleri All.,Anemone,moderate_with_genus_agreement,moderate,True
+roi_0264,DSC_8645.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora,unvalidated,weak,False
+roi_0267,DSC_8646.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0268,DSC_8646.JPG,Lupinus angustifolius L.,Lupinus,unvalidated,weak,False
+roi_0271,DSC_8647.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0275,DSC_8648.JPG,Sedum rupestre L.,Sedum,moderate_with_genus_agreement,moderate,True
+roi_0277,DSC_8650.JPG,Daucus carota L.,Daucus,high_confidence_local,strong,True
+roi_0278,DSC_8650.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0279,DSC_8650.JPG,Hyoscyamus albus L.,Hyoscyamus,good_confidence_local,strong,True
+roi_0280,DSC_8650.JPG,Lupinus arboreus Sims,Lupinus,unvalidated,weak,False
+roi_0281,DSC_8650.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0283,DSC_8651.JPG,Anemone alpina L.,Anemone,unvalidated,weak,False
+roi_0285,DSC_8651.JPG,Anemone alpina L.,Anemone,moderate_with_genus_agreement,moderate,True
+roi_0286,DSC_8651.JPG,Cucurbita moschata Duchesne,Cucurbita,unvalidated,weak,False
+roi_0288,DSC_8651.JPG,Anemone alpina L.,Anemone,good_confidence_local,strong,True
+roi_0289,DSC_8652.JPG,Anemone alpina L.,Anemone,high_confidence_local,strong,True
+roi_0290,DSC_8652.JPG,Sedum acre L.,Sedum,good_confidence_local,strong,True
+roi_0291,DSC_8652.JPG,Lamium galeobdolon (L.) L.,Lamium,high_confidence_local,strong,True
+roi_0292,DSC_8652.JPG,Cucurbita maxima Duchesne,Cucurbita,good_confidence_local,strong,True
+roi_0293,DSC_8652.JPG,Trifolium dubium Sibth.,Trifolium,unvalidated,weak,False
+roi_0294,DSC_8654.JPG,Trachelospermum jasminoides (Lindl.) Lem.,Trachelospermum,unvalidated,weak,False
+roi_0295,DSC_8654.JPG,Anemone alpina L.,Anemone,unvalidated,weak,False
+roi_0296,DSC_8654.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0297,DSC_8654.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0298,DSC_8654.JPG,Lupinus arboreus Sims,Lupinus,unvalidated,weak,False
+roi_0300,DSC_8654.JPG,Lamium galeobdolon (L.) L.,Lamium,high_confidence_local,strong,True
+roi_0301,DSC_8654.JPG,Lupinus arboreus Sims,Lupinus,unvalidated,weak,False
+roi_0303,DSC_8657.JPG,Anemone pulsatilla L.,Anemone,unvalidated,weak,False
+roi_0304,DSC_8658.JPG,Lavandula stoechas L.,Lavandula,unvalidated,weak,False
+roi_0305,DSC_8658.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora,good_confidence_local,strong,True
+roi_0306,DSC_8661.JPG,Anemone blanda Schott & Kotschy,Anemone,high_confidence_local,strong,True
+roi_0307,DSC_8661.JPG,Anemone blanda Schott & Kotschy,Anemone,unvalidated,weak,False
+roi_0308,DSC_8661.JPG,Tradescantia virginiana L.,Tradescantia,high_confidence_local,strong,True
+roi_0309,DSC_8661.JPG,Dalea purpurea Vent.,Dalea,unvalidated,weak,False
+roi_0310,DSC_8661.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0311,DSC_8661.JPG,Lavandula angustifolia Mill.,Lavandula,unvalidated,weak,False
+roi_0312,DSC_8711.JPG,Trifolium dubium Sibth.,Trifolium,high_confidence_local,strong,True
+roi_0313,DSC_8711.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0314,DSC_8747.JPG,Trifolium campestre Schreb.,Trifolium,unvalidated,weak,False
+roi_0315,DSC_8747.JPG,Trifolium badium Schreb.,Trifolium,good_confidence_local,strong,True
+roi_0316,DSC_8747.JPG,Hypericum patulum Thunb.,Hypericum,unvalidated,weak,False
+roi_0317,DSC_8747.JPG,Trifolium campestre Schreb.,Trifolium,moderate_with_genus_agreement,moderate,True
+roi_0318,DSC_8907.JPG,Alcea rosea L.,Alcea,unvalidated,weak,False
+roi_0319,DSC_8908.JPG,Trifolium incarnatum L.,Trifolium,high_confidence_local,strong,True
+roi_0320,DSC_8908.JPG,Alcea rosea L.,Alcea,high_confidence_local,strong,True
+roi_0321,DSC_8908.JPG,Daphne laureola L.,Daphne,unvalidated,weak,False
+roi_0322,DSC_8908.JPG,Barbarea rupicola Moris,Barbarea,moderate_with_genus_agreement,moderate,True
+roi_0323,DSC_8908.JPG,Calendula officinalis L.,Calendula,unvalidated,weak,False
+roi_0324,DSC_8908.JPG,Anemone pulsatilla L.,Anemone,unvalidated,weak,False
+roi_0325,DSC_8909.JPG,Sagotia racemosa Baill.,Sagotia,unvalidated,weak,False
+roi_0326,DSC_8909.JPG,Hypericum perforatum L.,Hypericum,unvalidated,weak,False
+roi_0327,DSC_8909.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0328,DSC_8910.JPG,Sedum acre L.,Sedum,high_confidence_local,strong,True
+roi_0329,DSC_8910.JPG,Pyracantha coccinea M.Roem.,Pyracantha,unvalidated,weak,False
+roi_0330,DSC_8915.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0332,DSC_8916.JPG,Tradescantia cerinthoides Kunth,Tradescantia,unvalidated,weak,False
+roi_0333,DSC_8916.JPG,Alocasia sanderiana W.Bull,Alocasia,unvalidated,weak,False
+roi_0334,DSC_8916.JPG,Trifolium campestre Schreb.,Trifolium,good_confidence_local,strong,True
+roi_0335,DSC_8916.JPG,Nymphoides peltata (S.G.Gmel.) Kuntze,Nymphoides,unvalidated,weak,False
+roi_0336,DSC_8917.JPG,Epipactis atrorubens (Hoffm.) Besser,Epipactis,unvalidated,weak,False
+roi_0337,DSC_8917.JPG,Epipactis atrorubens (Hoffm.) Besser,Epipactis,unvalidated,weak,False
+roi_0340,DSC_8918.JPG,Epipactis atrorubens (Hoffm.) Besser,Epipactis,good_confidence_local,strong,True
+roi_0342,DSC_8918.JPG,Epipactis atrorubens (Hoffm.) Besser,Epipactis,unvalidated,weak,False
+roi_0343,DSC_8920.JPG,Humulus lupulus L.,Humulus,good_confidence_local,strong,True
+roi_0353,DSC_8924.JPG,Acalypha virginica L.,Acalypha,high_confidence_local,strong,True
+roi_0354,DSC_8924.JPG,Liriodendron tulipifera L.,Liriodendron,unvalidated,weak,False
+roi_0355,DSC_8926.JPG,Trifolium dubium Sibth.,Trifolium,unvalidated,weak,False
+roi_0356,DSC_8926.JPG,Hackelia velutina (Piper) I.M. Johnst.,Hackelia,unvalidated,weak,False
+roi_0357,DSC_8926.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0358,DSC_8926.JPG,Barbarea vulgaris R.Br.,Barbarea,unvalidated,weak,False
+roi_0359,DSC_8926.JPG,Trifolium dubium Sibth.,Trifolium,unvalidated,weak,False
+roi_0360,DSC_8926.JPG,Tagetes erecta L.,Tagetes,unvalidated,weak,False
+roi_0361,DSC_8927.JPG,Fragaria vesca L.,Fragaria,high_confidence_local,strong,True
+roi_0362,DSC_8927.JPG,Fragaria vesca L.,Fragaria,unvalidated,weak,False
+roi_0363,DSC_8927.JPG,Tagetes tenuifolia Cav.,Tagetes,unvalidated,weak,False
+roi_0364,DSC_8927.JPG,Lavandula angustifolia Mill.,Lavandula,unvalidated,weak,False
+roi_0366,DSC_8928.JPG,Atocion rupestre (L.) B.Oxelman,Atocion,good_confidence_local,strong,True
+roi_0369,DSC_8929.JPG,Alliaria petiolata (M.Bieb.) Cavara & Grande,Alliaria,unvalidated,weak,False
+roi_0370,DSC_8929.JPG,Cirsium arvense (L.) Scop.,Cirsium,unvalidated,weak,False
+roi_0372,DSC_8929.JPG,Honckenya peploides (L.) Ehrh.,Honckenya,unvalidated,weak,False
+roi_0373,DSC_8930.JPG,Trifolium alpinum L.,Trifolium,unvalidated,weak,False
+roi_0377,DSC_8931.JPG,Lupinus angustifolius L.,Lupinus,good_confidence_local,strong,True
+roi_0378,DSC_8931.JPG,Anemone narcissiflora L.,Anemone,unvalidated,weak,False
+roi_0380,DSC_8931.JPG,Lactuca sativa L.,Lactuca,unvalidated,weak,False
+roi_0381,DSC_8931.JPG,Anemone alpina L.,Anemone,unvalidated,weak,False
+roi_0382,DSC_8931.JPG,Liriodendron tulipifera L.,Liriodendron,unvalidated,weak,False
+roi_0384,DSC_8931.JPG,Metasequoia glyptostroboides Hu & W.C.Cheng,Metasequoia,unvalidated,weak,False
+roi_0385,DSC_8931.JPG,Metasequoia glyptostroboides Hu & W.C.Cheng,Metasequoia,unvalidated,weak,False
+roi_0386,DSC_8932.JPG,Hypericum calycinum L.,Hypericum,unvalidated,weak,False
+roi_0387,DSC_8932.JPG,Cenchrus setaceus (Forssk.) Morrone,Cenchrus,good_confidence_local,strong,True
+roi_0388,DSC_8932.JPG,Barbarea vulgaris R.Br.,Barbarea,unvalidated,weak,False
+roi_0389,DSC_8934.JPG,Daphne cneorum L.,Daphne,high_confidence_local,strong,True
+roi_0390,DSC_8934.JPG,Pelargonium inquinans (L.) Aiton,Pelargonium,unvalidated,weak,False
+roi_0391,DSC_8934.JPG,Punica granatum L.,Punica,good_confidence_local,strong,True
+roi_0392,DSC_8936.JPG,Pelargonium inquinans (L.) Aiton,Pelargonium,unvalidated,weak,False
+roi_0393,DSC_8936.JPG,Barbarea vulgaris R.Br.,Barbarea,moderate_with_genus_agreement,moderate,True
+roi_0394,DSC_8936.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0395,DSC_8938.JPG,Daphne cneorum L.,Daphne,high_confidence_local,strong,True
+roi_0396,DSC_8938.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0397,DSC_8938.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,strong,True
+roi_0398,DSC_8940.JPG,Oldenlandia corymbosa L.,Oldenlandia,unvalidated,weak,False
+roi_0399,DSC_8940.JPG,Tradescantia virginiana L.,Tradescantia,unvalidated,weak,False
+roi_0400,DSC_8940.JPG,Hebe salicifolia (G.Forst.) Pennell,Hebe,unvalidated,weak,False
+roi_0401,DSC_8940.JPG,Daphne striata Tratt.,Daphne,unvalidated,weak,False
+roi_0402,DSC_8942.JPG,Daphne sericea Vahl,Daphne,unvalidated,weak,False
+roi_0403,DSC_8942.JPG,Trifolium alpinum L.,Trifolium,good_confidence_local,strong,True
+roi_0404,DSC_8942.JPG,Daphne mezereum L.,Daphne,unvalidated,weak,False
+roi_0405,DSC_8942.JPG,Noccaea rotundifolia (L.) Moench,Noccaea,good_confidence_local,strong,True
+roi_0406,DSC_8943.JPG,Lupinus arboreus Sims,Lupinus,unvalidated,weak,False
+roi_0407,DSC_8943.JPG,Sedum acre L.,Sedum,good_confidence_local,strong,True
+roi_0408,DSC_8943.JPG,Sedum rupestre L.,Sedum,unvalidated,weak,False
+roi_0409,DSC_8943.JPG,Lavandula angustifolia Mill.,Lavandula,high_confidence_local,strong,True
+roi_0410,DSC_8943.JPG,Sedum alpestre Vill.,Sedum,unvalidated,weak,False
+roi_0411,DSC_8943.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,strong,True
+roi_0415,DSC_8944.JPG,Sagittaria latifolia Willd.,Sagittaria,unvalidated,weak,False
+roi_0416,DSC_8945.JPG,Lavandula angustifolia Mill.,Lavandula,unvalidated,weak,False
+roi_0419,DSC_8945.JPG,Daphne striata Tratt.,Daphne,unvalidated,weak,False
+roi_0420,DSC_8946.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora,unvalidated,weak,False
+roi_0421,DSC_8946.JPG,Lavandula angustifolia Mill.,Lavandula,good_confidence_local,strong,True
+roi_0422,DSC_8946.JPG,Ophrys fusca Link,Ophrys,unvalidated,weak,False
+roi_0424,DSC_8947.JPG,Ophrys lutea Cav.,Ophrys,unvalidated,weak,False
+roi_0425,DSC_8948.JPG,Sedum album L.,Sedum,moderate_with_genus_agreement,moderate,True
+roi_0426,DSC_8948.JPG,Barbarea vulgaris R.Br.,Barbarea,high_confidence_local,strong,True
+roi_0427,DSC_8948.JPG,Sedum rupestre L.,Sedum,unvalidated,weak,False
+roi_0428,DSC_8949.JPG,Sedum rupestre L.,Sedum,unvalidated,weak,False
+roi_0433,DSC_8954.JPG,Pyracantha coccinea M.Roem.,Pyracantha,unvalidated,weak,False
+roi_0434,DSC_8955.JPG,Barbarea verna (Mill.) Asch.,Barbarea,unvalidated,weak,False
+roi_0437,DSC_8956.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0439,DSC_8957.JPG,Barbarea verna (Mill.) Asch.,Barbarea,unvalidated,weak,False
+roi_0442,DSC_8958.JPG,Lupinus arboreus Sims,Lupinus,unvalidated,weak,False
+roi_0443,DSC_8958.JPG,Acacia saligna (Labill.) H.L.Wendl.,Acacia,unvalidated,weak,False
+roi_0444,DSC_8958.JPG,Acalypha wilkesiana Müll.Arg.,Acalypha,unvalidated,weak,False
+roi_0445,DSC_8958.JPG,Lavandula angustifolia Mill.,Lavandula,unvalidated,weak,False
+roi_0446,DSC_8958.JPG,Sedum acre L.,Sedum,good_confidence_local,strong,True
+roi_0448,DSC_8958.JPG,Sedum makinoi Maxim.,Sedum,high_confidence_local,strong,True
+roi_0449,DSC_8962.JPG,Tradescantia pallida (Rose) D.R.Hunt,Tradescantia,unvalidated,weak,False
+roi_0450,DSC_8962.JPG,Cereus hexagonus (L.) Mill.,Cereus,moderate_with_genus_agreement,moderate,True
+roi_0451,DSC_8962.JPG,Cereus hexagonus (L.) Mill.,Cereus,unvalidated,weak,False
+roi_0452,DSC_8963.JPG,Lamium amplexicaule L.,Lamium,unvalidated,weak,False
+roi_0453,DSC_8963.JPG,Sedum acre L.,Sedum,moderate_with_genus_agreement,moderate,True
+roi_0456,DSC_8964.JPG,Pelargonium zonale (L.) L'Hér. ex Aiton,Pelargonium,unvalidated,weak,False
+roi_0457,DSC_8964.JPG,Lavandula stoechas L.,Lavandula,unvalidated,weak,False
+roi_0463,DSC_8967.JPG,Trifolium dubium Sibth.,Trifolium,good_confidence_local,strong,True
+roi_0465,DSC_8969.JPG,Trifolium alpinum L.,Trifolium,high_confidence_local,strong,True
+roi_0468,DSC_8971.JPG,Trachelospermum jasminoides (Lindl.) Lem.,Trachelospermum,good_confidence_local,strong,True
+roi_0470,DSC_8971.JPG,Alliaria petiolata (M.Bieb.) Cavara & Grande,Alliaria,high_confidence_local,strong,True
+roi_0474,DSC_8972.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0476,DSC_8976.JPG,Lupinus polyphyllus Lindl.,Lupinus,unvalidated,weak,False
+roi_0478,DSC_8977.JPG,Pyracantha coccinea M.Roem.,Pyracantha,unvalidated,weak,False
+roi_0479,DSC_8978.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora,high_confidence_local,strong,True
+roi_0480,DSC_8978.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora,high_confidence_local,strong,True
+roi_0481,DSC_8978.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora,unvalidated,weak,False
+roi_0482,DSC_8978.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0483,DSC_8979.JPG,Barbarea vulgaris R.Br.,Barbarea,good_confidence_local,strong,True
+roi_0484,DSC_8979.JPG,Trifolium dubium Sibth.,Trifolium,unvalidated,weak,False
+roi_0485,DSC_8979.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,unvalidated,weak,False
+roi_0486,DSC_8979.JPG,Trifolium dubium Sibth.,Trifolium,unvalidated,weak,False
+roi_0487,DSC_8979.JPG,Sedum spathulifolium Hook.,Sedum,unvalidated,weak,False
+roi_0494,DSC_9089.jpg,Anemone nemorosa L.,Anemone,unvalidated,weak,False
+roi_0497,DSC_9089.jpg,Asystasia gangetica (L.) T.Anderson,Asystasia,unvalidated,weak,False
+roi_0499,DSC_9090.jpg,Anemone apennina L.,Anemone,unvalidated,weak,False
+roi_0500,DSC_9090.jpg,Moehringia trinervia (L.) Clairv.,Moehringia,unvalidated,weak,False
+roi_0504,DSC_9468.JPG,Acacia mearnsii De Wild.,Acacia,good_confidence_local,strong,True
+roi_0505,DSC_9468.JPG,Acacia mearnsii De Wild.,Acacia,unvalidated,weak,False
+roi_0506,DSC_9468.JPG,Angelica sylvestris L.,Angelica,moderate_with_genus_agreement,moderate,True
+roi_0507,DSC_9468.JPG,Mercurialis perennis L.,Mercurialis,moderate_with_genus_agreement,moderate,True
+roi_0508,DSC_9468.JPG,Angelica sylvestris L.,Angelica,unvalidated,weak,False
+roi_0509,DSC_9638.JPG,Viscaria vulgaris Bernh.,Viscaria,unvalidated,weak,False
+roi_0510,DSC_9638.JPG,Daphne mezereum L.,Daphne,good_confidence_local,strong,True
+roi_0511,DSC_9652.JPG,Lapsana communis L.,Lapsana,unvalidated,weak,False
+roi_0512,DSC_9652.JPG,Calendula officinalis L.,Calendula,unvalidated,weak,False
+roi_0513,DSC_9652.JPG,Anemone baldensis L.,Anemone,unvalidated,weak,False
+roi_0514,DSC_9652.JPG,Anemone alpina L.,Anemone,unvalidated,weak,False
+roi_0515,DSC_9652.JPG,Anemone alpina L.,Anemone,good_confidence_local,strong,True
+roi_0516,DSC_9652.JPG,Helminthotheca echioides (L.) Holub,Helminthotheca,unvalidated,weak,False
+roi_0517,E. heracleoides.JPG,Sedum sediforme (Jacq.) Pau,Sedum,unvalidated,weak,False
+roi_0518,E. heracleoides.JPG,Centranthus calcitrapae (L.) Dufr.,Centranthus,good_confidence_local,strong,True
+roi_0519,E. heracleoides.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0520,E. heracleoides.JPG,Daucus carota L.,Daucus,unvalidated,weak,False
+roi_0521,E. heracleoides.JPG,Sedum album L.,Sedum,unvalidated,weak,False
+roi_0523,E. heracleoides.JPG,Trifolium campestre Schreb.,Trifolium,unvalidated,weak,False
+roi_0524,E. heracleoides.JPG,Sedum album L.,Sedum,unvalidated,weak,False
+roi_0525,E. heracleoides.JPG,Thapsia villosa L.,Thapsia,unvalidated,weak,False
+roi_0526,E. umbellatum var. stellatum-1.JPG,Acacia mearnsii De Wild.,Acacia,high_confidence_local,strong,True
+roi_0527,E. umbellatum var. stellatum-1.JPG,Trinia glauca (L.) Dumort.,Trinia,unvalidated,weak,False
+roi_0528,E. umbellatum var. stellatum-1.JPG,Mercurialis perennis L.,Mercurialis,unvalidated,weak,False
+roi_0529,E. umbellatum var. stellatum-1.JPG,Angelica archangelica L.,Angelica,moderate_with_genus_agreement,moderate,True
+roi_0530,E. umbellatum var. stellatum-2.JPG,Hypericum perforatum L.,Hypericum,unvalidated,weak,False
+roi_0536,E. umbellatum var. stellatum[2].JPG,Mercurialis annua L.,Mercurialis,moderate_with_genus_agreement,moderate,True
+roi_0537,E. umbellatum var. stellatum[2].JPG,Acacia mearnsii De Wild.,Acacia,unvalidated,weak,False
+roi_0538,E. umbellatumvar.bahiiforme(1).JPG,Daphne laureola L.,Daphne,unvalidated,weak,False
+roi_0539,E. umbellatumvar.bahiiforme(1).JPG,Acacia dealbata Link,Acacia,unvalidated,weak,False
+roi_0540,E. umbellatumvar.bahiiforme(2).JPG,Angelica archangelica L.,Angelica,unvalidated,weak,False
+roi_0542,E.umbellatum var. bahiiforme.JPG,Sedum kamtschaticum Fisch. & C.A.Mey.,Sedum,high_confidence_local,strong,True
+roi_0543,E.umbellatum var. bahiiforme.JPG,Angelica archangelica L.,Angelica,high_confidence_local,strong,True
+roi_0544,E.umbellatum var. bahiiforme.JPG,Angelica archangelica L.,Angelica,high_confidence_local,strong,True
+roi_0545,E.umbellatum var.stellatum(bendras vaizdas)-4.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0546,E.umbellatum var.stellatum(bendras vaizdas)-4.JPG,Ophrys insectifera L.,Ophrys,unvalidated,weak,False
+roi_0547,IMGP3799.jpg,Acacia saligna (Labill.) Wendl.,Acacia,unvalidated,weak,False
+roi_0559,P3240023.JPG m.jpg,Sedum sediforme (Jacq.) Pau,Sedum,moderate_with_genus_agreement,moderate,True
+roi_0560,P3240023.JPG m.jpg,Daucus carota L.,Daucus,unvalidated,weak,False
+roi_0561,P3240048.JPG,Dryopteris filix-mas (L.) Schott,Dryopteris,unvalidated,weak,False
+roi_0562,P3240048.JPG,Papaver orientale L.,Papaver,unvalidated,weak,False
+roi_0563,P3240048.JPG,Alcea rosea L.,Alcea,unvalidated,weak,False
+roi_0564,P3240048.JPG,Lavandula latifolia Medik.,Lavandula,unvalidated,weak,False
+roi_0566,P4240127-2.JPG,Tradescantia pallida (Rose) D.R.Hunt,Tradescantia,good_confidence_local,strong,True
+roi_0568,P4240127-2.JPG,Acacia dealbata Link,Acacia,good_confidence_local,strong,True
+roi_0570,P4240129-2.JPG,Cenchrus purpureus (Schumach.) Morrone,Cenchrus,unvalidated,weak,False
+roi_0571,P4240129-2.JPG,Lactuca sativa L.,Lactuca,unvalidated,weak,False
+roi_0572,P4240129-2.JPG,Cirsium vulgare (Savi) Ten.,Cirsium,high_confidence_local,strong,True
+roi_0573,P4240135-2.JPG,Anemone pulsatilla L.,Anemone,unvalidated,weak,False
+roi_0575,P4240139-2.JPG,Ophrys bertolonii Moretti,Ophrys,good_confidence_local,strong,True
+roi_0577,P4240139-2.JPG,Papaver rhoeas L.,Papaver,moderate_with_genus_agreement,moderate,True
+roi_0579,P4240142-2.JPG,Smilax rotundifolia L.,Smilax,good_confidence_local,strong,True
+roi_0580,P4240148-2.JPG,Guizotia abyssinica (L.f.) Cass.,Guizotia,unvalidated,weak,False
+roi_0581,P4240150-2.JPG,Smilax aspera L.,Smilax,high_confidence_local,strong,True
+roi_0583,P4240150-2.JPG,Anemone nemorosa L.,Anemone,unvalidated,weak,False
+roi_0584,P4240151-2.JPG,Calendula officinalis L.,Calendula,good_confidence_local,strong,True
+roi_0586,P4240160-2.JPG,Hackelia velutina (Piper) I.M. Johnst.,Hackelia,unvalidated,weak,False
+roi_0587,P4240164-2.JPG,Anemone hepatica L.,Anemone,good_confidence_local,strong,True
+roi_0589,P4240168-2.JPG,Lactuca sativa L.,Lactuca,good_confidence_local,strong,True
+roi_0590,P4240168-2.JPG,Lactuca sativa L.,Lactuca,unvalidated,weak,False
+roi_0591,P4240168-2.JPG,Acalypha integrifolia Willd.,Acalypha,unvalidated,weak,False
+roi_0592,P4240168-2.JPG,Mercurialis perennis L.,Mercurialis,unvalidated,weak,False
+roi_0593,P4240168-2.JPG,Mercurialis annua L.,Mercurialis,unvalidated,weak,False
+roi_0595,P4240169-2.JPG,Barbarea vulgaris W.T. Aiton,Barbarea,unvalidated,weak,False
+roi_0597,P4240172-2.JPG,Perovskia atriplicifolia Benth.,Perovskia,good_confidence_local,strong,True
+roi_0598,P4240177-2.JPG,Thapsia villosa L.,Thapsia,unvalidated,weak,False
+roi_0600,P4260001-2.JPG,Crotalaria juncea L.,Crotalaria,unvalidated,weak,False
+roi_0602,P4260002-2.JPG,Lupinus luteus L.,Lupinus,high_confidence_local,strong,True
+roi_0604,P4260005-2.JPG,Helminthotheca echioides (L.) Holub,Helminthotheca,unvalidated,weak,False
+roi_0606,P4260007-2.JPG,Trifolium arvense L.,Trifolium,unvalidated,weak,False
+roi_0608,P4260009-2(S).JPG,Lupinus angustifolius L.,Lupinus,good_confidence_local,strong,True
+roi_0609,P4260010-2.JPG,Helminthotheca echioides (L.) Holub,Helminthotheca,high_confidence_local,strong,True
+roi_0611,P4260013-2.JPG,Anemone nemorosa L.,Anemone,unvalidated,weak,False
+roi_0612,P4260013-2.JPG,Daphne laureola L.,Daphne,high_confidence_local,strong,True
+roi_0613,P4260013-2.JPG,Phedimus aizoon (L.) 't Hart,Phedimus,unvalidated,weak,False
+roi_0614,P4260013-2.JPG,Phedimus spurius (M.Bieb) 't Hart,Phedimus,high_confidence_local,strong,True
+roi_0615,P4260017-2.JPG,Cyanotis somaliensis C.B.Clarke,Cyanotis,good_confidence_local,strong,True
+roi_0616,P4260017-2.JPG,Cucurbita maxima Duchesne,Cucurbita,moderate_with_genus_agreement,moderate,True
+roi_0620,P4260022-2.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0622,P4260024-2.JPG,Cobaea scandens Cav.,Cobaea,unvalidated,weak,False
+roi_0624,P4260027-2.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,strong,True
+roi_0626,P4260029-2.JPG,Calendula officinalis L.,Calendula,unvalidated,weak,False
+roi_0628,P4260031-2.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0629,P4260031-2.JPG,Tradescantia pallida (Rose) D.R.Hunt,Tradescantia,unvalidated,weak,False
+roi_0630,P4260031-2.JPG,Lavandula stoechas L.,Lavandula,unvalidated,weak,False
+roi_0631,P4260034-2.JPG,Lactuca sativa L.,Lactuca,high_confidence_local,strong,True
+roi_0632,P4260034-2.JPG,Helicodiceros muscivorus (L.f.) Engl.,Helicodiceros,unvalidated,weak,False
+roi_0634,P4260035-2.JPG,Empetrum nigrum L.,Empetrum,unvalidated,weak,False
+roi_0635,P4260035-2.JPG,Sedum album L.,Sedum,unvalidated,weak,False
+roi_0637,P4260046-2(S).JPG,Calendula officinalis L.,Calendula,high_confidence_local,strong,True
+roi_0638,P4260050-2.JPG,Morinda citrifolia L.,Morinda,unvalidated,weak,False
+roi_0641,P4260053-2.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0643,P4260057-2.JPG,Honckenya peploides (L.) Ehrh.,Honckenya,unvalidated,weak,False
+roi_0644,P4260062-2.JPG,Mercurialis perennis L.,Mercurialis,unvalidated,weak,False
+roi_0645,P4260062-2.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0646,P4260062-2.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0647,P4260062-2.JPG,Punica granatum L.,Punica,unvalidated,weak,False
+roi_0650,P4260063-2.JPG,Lupinus angustifolius L.,Lupinus,good_confidence_local,strong,True
+roi_0651,P4260067-2.JPG,Cucurbita moschata Duchesne,Cucurbita,unvalidated,weak,False
+roi_0652,P4260067-2.JPG,Sedum acre L.,Sedum,unvalidated,weak,False
+roi_0653,P4260067-2.JPG,Sedum spathulifolium Hook.,Sedum,unvalidated,weak,False

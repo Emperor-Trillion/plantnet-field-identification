@@ -1,0 +1,4661 @@
+[
+  {
+    "image_id": "Albanin\u0117 \u0160ilag\u0117l\u0117.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        39.302005767822266,
+        22.606178283691406,
+        3681.47021484375,
+        2433.906982421875
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.311,
+        "bbox": [
+          39.3,
+          22.6,
+          3681.5,
+          2433.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF1430-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1431-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1441-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1442-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "apple",
+        "confidence": 0.68,
+        "bbox": [
+          1751.3,
+          543.4,
+          1895.5,
+          693.8
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "apple",
+        "confidence": 0.68,
+        "bbox": [
+          1751.3,
+          543.4,
+          1895.5,
+          693.8
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF1486-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1487-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1504-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1505-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1506-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1511-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1512-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1532-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1541-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1560-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1563-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        0.0,
+        74.5819320678711,
+        1769.296875,
+        1346.5263671875
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.491,
+        "bbox": [
+          0.0,
+          74.6,
+          1769.3,
+          1346.5
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF1564-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1571-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF1573-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.269,
+        "bbox": [
+          692.4,
+          968.9,
+          804.2,
+          1163.4
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.269,
+        "bbox": [
+          692.4,
+          968.9,
+          804.2,
+          1163.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF1575-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSCF8139-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 2,
+    "plant_boxes": [
+      [
+        283.13226318359375,
+        163.35093688964844,
+        4377.71240234375,
+        2591.681396484375
+      ],
+      [
+        1469.45263671875,
+        1038.185791015625,
+        2282.0361328125,
+        2681.123779296875
+      ]
+    ],
+    "other_objects": [
+      {
+        "class": "bowl",
+        "confidence": 0.88,
+        "bbox": [
+          1359.3,
+          2411.9,
+          2917.4,
+          2943.0
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.866,
+        "bbox": [
+          2576.6,
+          2143.1,
+          4087.4,
+          2936.1
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.498,
+        "bbox": [
+          2214.4,
+          2124.0,
+          2476.6,
+          2440.3
+        ]
+      },
+      {
+        "class": "cup",
+        "confidence": 0.484,
+        "bbox": [
+          2340.8,
+          1056.1,
+          3117.4,
+          2407.4
+        ]
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.384,
+        "bbox": [
+          6.8,
+          1510.8,
+          4199.5,
+          2919.5
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.325,
+        "bbox": [
+          1371.6,
+          2107.7,
+          2476.4,
+          2463.4
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.293,
+        "bbox": [
+          1012.3,
+          2092.3,
+          2448.9,
+          2935.4
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bowl",
+        "confidence": 0.88,
+        "bbox": [
+          1359.3,
+          2411.9,
+          2917.4,
+          2943.0
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.866,
+        "bbox": [
+          2576.6,
+          2143.1,
+          4087.4,
+          2936.1
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.592,
+        "bbox": [
+          283.1,
+          163.4,
+          4377.7,
+          2591.7
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.498,
+        "bbox": [
+          2214.4,
+          2124.0,
+          2476.6,
+          2440.3
+        ]
+      },
+      {
+        "class": "cup",
+        "confidence": 0.484,
+        "bbox": [
+          2340.8,
+          1056.1,
+          3117.4,
+          2407.4
+        ]
+      },
+      {
+        "class": "vase",
+        "confidence": 0.394,
+        "bbox": [
+          1469.5,
+          1038.2,
+          2282.0,
+          2681.1
+        ]
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.384,
+        "bbox": [
+          6.8,
+          1510.8,
+          4199.5,
+          2919.5
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.325,
+        "bbox": [
+          1371.6,
+          2107.7,
+          2476.4,
+          2463.4
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.293,
+        "bbox": [
+          1012.3,
+          2092.3,
+          2448.9,
+          2935.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8141-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bowl",
+        "confidence": 0.743,
+        "bbox": [
+          2229.8,
+          2710.7,
+          3894.7,
+          3353.3
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.66,
+        "bbox": [
+          352.8,
+          2728.3,
+          2039.4,
+          3348.6
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.259,
+        "bbox": [
+          1552.1,
+          2650.5,
+          2680.1,
+          3352.1
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bowl",
+        "confidence": 0.743,
+        "bbox": [
+          2229.8,
+          2710.7,
+          3894.7,
+          3353.3
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.66,
+        "bbox": [
+          352.8,
+          2728.3,
+          2039.4,
+          3348.6
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.259,
+        "bbox": [
+          1552.1,
+          2650.5,
+          2680.1,
+          3352.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8145-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bowl",
+        "confidence": 0.379,
+        "bbox": [
+          1803.8,
+          2393.7,
+          3437.3,
+          3062.4
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bowl",
+        "confidence": 0.379,
+        "bbox": [
+          1803.8,
+          2393.7,
+          3437.3,
+          3062.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8148-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 2,
+    "plant_boxes": [
+      [
+        0.7540777325630188,
+        331.9726257324219,
+        1034.5321044921875,
+        2515.30615234375
+      ],
+      [
+        0.0,
+        287.5319519042969,
+        1464.8895263671875,
+        2671.755615234375
+      ]
+    ],
+    "other_objects": [
+      {
+        "class": "bowl",
+        "confidence": 0.29,
+        "bbox": [
+          1954.2,
+          2738.9,
+          3108.2,
+          3238.7
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.386,
+        "bbox": [
+          0.8,
+          332.0,
+          1034.5,
+          2515.3
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.29,
+        "bbox": [
+          1954.2,
+          2738.9,
+          3108.2,
+          3238.7
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.28,
+        "bbox": [
+          0.0,
+          287.5,
+          1464.9,
+          2671.8
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8151-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        3.914017677307129,
+        1724.50537109375,
+        1461.2596435546875,
+        3028.42822265625
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.336,
+        "bbox": [
+          3.9,
+          1724.5,
+          1461.3,
+          3028.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8154-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        1.7753431797027588,
+        1099.3236083984375,
+        1002.525390625,
+        3082.314208984375
+      ]
+    ],
+    "other_objects": [
+      {
+        "class": "bowl",
+        "confidence": 0.264,
+        "bbox": [
+          2184.8,
+          3198.1,
+          3163.8,
+          3531.3
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bowl",
+        "confidence": 0.264,
+        "bbox": [
+          2184.8,
+          3198.1,
+          3163.8,
+          3531.3
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.263,
+        "bbox": [
+          1.8,
+          1099.3,
+          1002.5,
+          3082.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8155-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "cup",
+        "confidence": 0.794,
+        "bbox": [
+          1567.8,
+          4334.7,
+          2894.5,
+          5476.7
+        ]
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.456,
+        "bbox": [
+          13.8,
+          4516.5,
+          3680.4,
+          5544.0
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "cup",
+        "confidence": 0.794,
+        "bbox": [
+          1567.8,
+          4334.7,
+          2894.5,
+          5476.7
+        ]
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.456,
+        "bbox": [
+          13.8,
+          4516.5,
+          3680.4,
+          5544.0
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8157-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "cup",
+        "confidence": 0.69,
+        "bbox": [
+          1784.1,
+          5004.9,
+          3254.2,
+          5544.9
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "cup",
+        "confidence": 0.69,
+        "bbox": [
+          1784.1,
+          5004.9,
+          3254.2,
+          5544.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8158-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 3,
+    "plant_boxes": [
+      [
+        81.5591812133789,
+        1889.772705078125,
+        2063.263427734375,
+        5277.22265625
+      ],
+      [
+        774.3245849609375,
+        4698.236328125,
+        2040.9976806640625,
+        5281.2373046875
+      ],
+      [
+        5.983313083648682,
+        2108.782958984375,
+        859.4249877929688,
+        4784.88818359375
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.358,
+        "bbox": [
+          81.6,
+          1889.8,
+          2063.3,
+          5277.2
+        ]
+      },
+      {
+        "class": "vase",
+        "confidence": 0.305,
+        "bbox": [
+          774.3,
+          4698.2,
+          2041.0,
+          5281.2
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.26,
+        "bbox": [
+          6.0,
+          2108.8,
+          859.4,
+          4784.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8161-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 2,
+    "plant_boxes": [
+      [
+        2.9708399772644043,
+        1853.212646484375,
+        1058.7147216796875,
+        3768.63525390625
+      ],
+      [
+        216.66273498535156,
+        1627.563720703125,
+        1821.8302001953125,
+        5297.08203125
+      ]
+    ],
+    "other_objects": [
+      {
+        "class": "cup",
+        "confidence": 0.279,
+        "bbox": [
+          645.8,
+          4177.4,
+          1820.9,
+          5275.8
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.258,
+        "bbox": [
+          1943.1,
+          4187.5,
+          3118.2,
+          5272.2
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.68,
+        "bbox": [
+          3.0,
+          1853.2,
+          1058.7,
+          3768.6
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.325,
+        "bbox": [
+          216.7,
+          1627.6,
+          1821.8,
+          5297.1
+        ]
+      },
+      {
+        "class": "cup",
+        "confidence": 0.279,
+        "bbox": [
+          645.8,
+          4177.4,
+          1820.9,
+          5275.8
+        ]
+      },
+      {
+        "class": "bowl",
+        "confidence": 0.258,
+        "bbox": [
+          1943.1,
+          4187.5,
+          3118.2,
+          5272.2
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8163-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 2,
+    "plant_boxes": [
+      [
+        29.952709197998047,
+        532.88134765625,
+        2359.592529296875,
+        4363.90234375
+      ],
+      [
+        2.1361732482910156,
+        826.4842529296875,
+        1062.5474853515625,
+        2936.3193359375
+      ]
+    ],
+    "other_objects": [
+      {
+        "class": "bowl",
+        "confidence": 0.577,
+        "bbox": [
+          2317.6,
+          4062.9,
+          3581.1,
+          5237.1
+        ]
+      },
+      {
+        "class": "cup",
+        "confidence": 0.469,
+        "bbox": [
+          1008.6,
+          4109.7,
+          2243.6,
+          5276.6
+        ]
+      },
+      {
+        "class": "cup",
+        "confidence": 0.371,
+        "bbox": [
+          2316.5,
+          4064.3,
+          3583.3,
+          5236.9
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bowl",
+        "confidence": 0.577,
+        "bbox": [
+          2317.6,
+          4062.9,
+          3581.1,
+          5237.1
+        ]
+      },
+      {
+        "class": "cup",
+        "confidence": 0.469,
+        "bbox": [
+          1008.6,
+          4109.7,
+          2243.6,
+          5276.6
+        ]
+      },
+      {
+        "class": "cup",
+        "confidence": 0.371,
+        "bbox": [
+          2316.5,
+          4064.3,
+          3583.3,
+          5236.9
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.327,
+        "bbox": [
+          30.0,
+          532.9,
+          2359.6,
+          4363.9
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.294,
+        "bbox": [
+          2.1,
+          826.5,
+          1062.5,
+          2936.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSCF8165-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bowl",
+        "confidence": 0.792,
+        "bbox": [
+          1517.4,
+          2232.6,
+          4953.2,
+          3824.3
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bowl",
+        "confidence": 0.792,
+        "bbox": [
+          1517.4,
+          2232.6,
+          4953.2,
+          3824.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_0036.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5562[.jpg",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5566.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5575.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5677.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5680.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 2,
+    "plant_boxes": [
+      [
+        7.725261211395264,
+        188.7186737060547,
+        2007.12060546875,
+        2106.65380859375
+      ],
+      [
+        2293.75439453125,
+        488.4652099609375,
+        3634.489013671875,
+        2337.089111328125
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.627,
+        "bbox": [
+          7.7,
+          188.7,
+          2007.1,
+          2106.7
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.341,
+        "bbox": [
+          2293.8,
+          488.5,
+          3634.5,
+          2337.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_5681.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5682.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5683.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        108.1878433227539,
+        384.8270568847656,
+        1702.01953125,
+        2012.1240234375
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.415,
+        "bbox": [
+          108.2,
+          384.8,
+          1702.0,
+          2012.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_5687.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bench",
+        "confidence": 0.681,
+        "bbox": [
+          162.5,
+          2419.5,
+          1040.1,
+          3091.8
+        ]
+      },
+      {
+        "class": "traffic light",
+        "confidence": 0.368,
+        "bbox": [
+          673.6,
+          514.4,
+          1003.3,
+          1091.0
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.285,
+        "bbox": [
+          610.8,
+          2421.2,
+          1040.7,
+          3093.1
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bench",
+        "confidence": 0.681,
+        "bbox": [
+          162.5,
+          2419.5,
+          1040.1,
+          3091.8
+        ]
+      },
+      {
+        "class": "traffic light",
+        "confidence": 0.368,
+        "bbox": [
+          673.6,
+          514.4,
+          1003.3,
+          1091.0
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.285,
+        "bbox": [
+          610.8,
+          2421.2,
+          1040.7,
+          3093.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_5690.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5691.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5692.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5698.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5701.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5703.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5710.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5770.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5779.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_578325151.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_5783sds.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_839222.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8392666.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8394124.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bench",
+        "confidence": 0.331,
+        "bbox": [
+          684.7,
+          312.2,
+          912.8,
+          477.2
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bench",
+        "confidence": 0.331,
+        "bbox": [
+          684.7,
+          312.2,
+          912.8,
+          477.2
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8400.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        9.494487762451172,
+        17.027645111083984,
+        2459.251708984375,
+        2403.864501953125
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.343,
+        "bbox": [
+          9.5,
+          17.0,
+          2459.3,
+          2403.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8404.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8407.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8408.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "apple",
+        "confidence": 0.403,
+        "bbox": [
+          1489.5,
+          1206.5,
+          1642.5,
+          1324.5
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "apple",
+        "confidence": 0.403,
+        "bbox": [
+          1489.5,
+          1206.5,
+          1642.5,
+          1324.5
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8566.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        39.302005767822266,
+        22.606178283691406,
+        3681.47021484375,
+        2433.906982421875
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.311,
+        "bbox": [
+          39.3,
+          22.6,
+          3681.5,
+          2433.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8623.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.541,
+        "bbox": [
+          152.8,
+          1989.1,
+          343.0,
+          2185.8
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.381,
+        "bbox": [
+          2689.5,
+          1283.2,
+          2827.4,
+          1509.6
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.326,
+        "bbox": [
+          3623.8,
+          1394.7,
+          3694.6,
+          1593.4
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.285,
+        "bbox": [
+          760.7,
+          1019.8,
+          943.4,
+          1371.3
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.541,
+        "bbox": [
+          152.8,
+          1989.1,
+          343.0,
+          2185.8
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.381,
+        "bbox": [
+          2689.5,
+          1283.2,
+          2827.4,
+          1509.6
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.326,
+        "bbox": [
+          3623.8,
+          1394.7,
+          3694.6,
+          1593.4
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.285,
+        "bbox": [
+          760.7,
+          1019.8,
+          943.4,
+          1371.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8624.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.527,
+        "bbox": [
+          160.7,
+          1165.5,
+          291.3,
+          1406.6
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.358,
+        "bbox": [
+          2348.2,
+          672.7,
+          2486.1,
+          907.3
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.355,
+        "bbox": [
+          3142.2,
+          1140.9,
+          3308.0,
+          1351.7
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.527,
+        "bbox": [
+          160.7,
+          1165.5,
+          291.3,
+          1406.6
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.358,
+        "bbox": [
+          2348.2,
+          672.7,
+          2486.1,
+          907.3
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.355,
+        "bbox": [
+          3142.2,
+          1140.9,
+          3308.0,
+          1351.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8626.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.484,
+        "bbox": [
+          1.3,
+          483.7,
+          600.8,
+          1547.9
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.338,
+        "bbox": [
+          0.0,
+          491.2,
+          602.9,
+          1067.4
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.484,
+        "bbox": [
+          1.3,
+          483.7,
+          600.8,
+          1547.9
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.338,
+        "bbox": [
+          0.0,
+          491.2,
+          602.9,
+          1067.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8628.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.521,
+        "bbox": [
+          0.2,
+          1109.6,
+          896.6,
+          1489.9
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.521,
+        "bbox": [
+          0.2,
+          1109.6,
+          896.6,
+          1489.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8630.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8634.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8635.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8636.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        16.8343505859375,
+        9.914855003356934,
+        3691.86474609375,
+        2412.553955078125
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.36,
+        "bbox": [
+          16.8,
+          9.9,
+          3691.9,
+          2412.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8637.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        0.0,
+        34.18138122558594,
+        3679.914306640625,
+        2404.694580078125
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.35,
+        "bbox": [
+          0.0,
+          34.2,
+          3679.9,
+          2404.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8638.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        47.8051872253418,
+        18.40182113647461,
+        3683.72900390625,
+        2410.11328125
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.438,
+        "bbox": [
+          47.8,
+          18.4,
+          3683.7,
+          2410.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8639.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        48.14779281616211,
+        10.485516548156738,
+        3684.51708984375,
+        2413.95458984375
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.464,
+        "bbox": [
+          48.1,
+          10.5,
+          3684.5,
+          2414.0
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8641.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8642.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        84.17351531982422,
+        397.1888122558594,
+        3170.01904296875,
+        2416.7197265625
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.465,
+        "bbox": [
+          84.2,
+          397.2,
+          3170.0,
+          2416.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8643.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8644.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8645.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8646.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8647.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8648.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8650.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8651.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8652.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8654.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8657.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        1.1219816207885742,
+        672.2977294921875,
+        245.09617614746094,
+        1417.582275390625
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.339,
+        "bbox": [
+          1.1,
+          672.3,
+          245.1,
+          1417.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8658.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8661.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        17.783571243286133,
+        119.78206634521484,
+        2319.102294921875,
+        2385.95263671875
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.272,
+        "bbox": [
+          17.8,
+          119.8,
+          2319.1,
+          2386.0
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8711.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8747.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8907.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "apple",
+        "confidence": 0.422,
+        "bbox": [
+          2874.4,
+          1265.3,
+          2993.3,
+          1394.6
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "apple",
+        "confidence": 0.422,
+        "bbox": [
+          2874.4,
+          1265.3,
+          2993.3,
+          1394.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8908.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        0.9731918573379517,
+        47.198219299316406,
+        2443.74072265625,
+        3657.938720703125
+      ]
+    ],
+    "other_objects": [
+      {
+        "class": "apple",
+        "confidence": 0.474,
+        "bbox": [
+          2059.9,
+          3153.4,
+          2350.4,
+          3333.2
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.794,
+        "bbox": [
+          1.0,
+          47.2,
+          2443.7,
+          3657.9
+        ]
+      },
+      {
+        "class": "apple",
+        "confidence": 0.474,
+        "bbox": [
+          2059.9,
+          3153.4,
+          2350.4,
+          3333.2
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8909.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8910.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bench",
+        "confidence": 0.436,
+        "bbox": [
+          2492.8,
+          427.2,
+          2673.3,
+          551.7
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bench",
+        "confidence": 0.436,
+        "bbox": [
+          2492.8,
+          427.2,
+          2673.3,
+          551.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8915.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 3,
+    "plant_boxes": [
+      [
+        1254.1982421875,
+        1252.9793701171875,
+        1426.9442138671875,
+        1409.462890625
+      ],
+      [
+        1419.298583984375,
+        1225.3782958984375,
+        1536.063720703125,
+        1410.562255859375
+      ],
+      [
+        1421.1036376953125,
+        1194.32470703125,
+        1604.263916015625,
+        1410.5562744140625
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.565,
+        "bbox": [
+          1254.2,
+          1253.0,
+          1426.9,
+          1409.5
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.427,
+        "bbox": [
+          1419.3,
+          1225.4,
+          1536.1,
+          1410.6
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.328,
+        "bbox": [
+          1421.1,
+          1194.3,
+          1604.3,
+          1410.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8916.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        64.43104553222656,
+        830.9970703125,
+        2041.865234375,
+        2419.389404296875
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.303,
+        "bbox": [
+          64.4,
+          831.0,
+          2041.9,
+          2419.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8917.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8918.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        871.3782348632812,
+        355.67572021484375,
+        3491.447509765625,
+        2420.028076171875
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.325,
+        "bbox": [
+          871.4,
+          355.7,
+          3491.4,
+          2420.0
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8920.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.458,
+        "bbox": [
+          0.0,
+          42.1,
+          801.5,
+          1298.5
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.458,
+        "bbox": [
+          0.0,
+          42.1,
+          801.5,
+          1298.5
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8922.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bench",
+        "confidence": 0.928,
+        "bbox": [
+          3.4,
+          913.8,
+          838.2,
+          1662.0
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.879,
+        "bbox": [
+          3310.6,
+          738.2,
+          3694.3,
+          1113.3
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bench",
+        "confidence": 0.928,
+        "bbox": [
+          3.4,
+          913.8,
+          838.2,
+          1662.0
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.879,
+        "bbox": [
+          3310.6,
+          738.2,
+          3694.3,
+          1113.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8923.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bench",
+        "confidence": 0.892,
+        "bbox": [
+          20.6,
+          521.7,
+          1139.4,
+          1417.8
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bench",
+        "confidence": 0.892,
+        "bbox": [
+          20.6,
+          521.7,
+          1139.4,
+          1417.8
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8924.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        692.5243530273438,
+        1296.820556640625,
+        2426.093505859375,
+        2432.29052734375
+      ]
+    ],
+    "other_objects": [
+      {
+        "class": "boat",
+        "confidence": 0.274,
+        "bbox": [
+          0.6,
+          1419.4,
+          214.8,
+          1557.4
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.275,
+        "bbox": [
+          692.5,
+          1296.8,
+          2426.1,
+          2432.3
+        ]
+      },
+      {
+        "class": "boat",
+        "confidence": 0.274,
+        "bbox": [
+          0.6,
+          1419.4,
+          214.8,
+          1557.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8926.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8927.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8928.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8929.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8930.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8931.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8932.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bear",
+        "confidence": 0.255,
+        "bbox": [
+          3306.3,
+          568.9,
+          3695.4,
+          891.6
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bear",
+        "confidence": 0.255,
+        "bbox": [
+          3306.3,
+          568.9,
+          3695.4,
+          891.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8934.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8936.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8938.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.651,
+        "bbox": [
+          836.8,
+          434.4,
+          1305.3,
+          775.9
+        ]
+      },
+      {
+        "class": "fire hydrant",
+        "confidence": 0.274,
+        "bbox": [
+          2884.0,
+          315.5,
+          3150.9,
+          678.3
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.651,
+        "bbox": [
+          836.8,
+          434.4,
+          1305.3,
+          775.9
+        ]
+      },
+      {
+        "class": "fire hydrant",
+        "confidence": 0.274,
+        "bbox": [
+          2884.0,
+          315.5,
+          3150.9,
+          678.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8940.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8942.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8943.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8944.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8945.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.354,
+        "bbox": [
+          2247.7,
+          262.4,
+          2448.3,
+          547.9
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.347,
+        "bbox": [
+          1862.9,
+          498.5,
+          2233.0,
+          769.7
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.337,
+        "bbox": [
+          2112.3,
+          500.2,
+          2229.6,
+          643.6
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.321,
+        "bbox": [
+          683.8,
+          941.1,
+          1083.0,
+          1446.1
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.311,
+        "bbox": [
+          1141.5,
+          311.3,
+          1238.4,
+          447.3
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.296,
+        "bbox": [
+          1294.3,
+          268.3,
+          1384.7,
+          399.4
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.273,
+        "bbox": [
+          1890.0,
+          338.1,
+          2013.8,
+          466.0
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.264,
+        "bbox": [
+          2451.9,
+          450.1,
+          2542.4,
+          600.7
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.354,
+        "bbox": [
+          2247.7,
+          262.4,
+          2448.3,
+          547.9
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.347,
+        "bbox": [
+          1862.9,
+          498.5,
+          2233.0,
+          769.7
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.337,
+        "bbox": [
+          2112.3,
+          500.2,
+          2229.6,
+          643.6
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.321,
+        "bbox": [
+          683.8,
+          941.1,
+          1083.0,
+          1446.1
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.311,
+        "bbox": [
+          1141.5,
+          311.3,
+          1238.4,
+          447.3
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.296,
+        "bbox": [
+          1294.3,
+          268.3,
+          1384.7,
+          399.4
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.273,
+        "bbox": [
+          1890.0,
+          338.1,
+          2013.8,
+          466.0
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.264,
+        "bbox": [
+          2451.9,
+          450.1,
+          2542.4,
+          600.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8946.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.317,
+        "bbox": [
+          2412.7,
+          780.6,
+          2661.8,
+          1202.7
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.317,
+        "bbox": [
+          2412.7,
+          780.6,
+          2661.8,
+          1202.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8947.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.627,
+        "bbox": [
+          2852.8,
+          496.4,
+          3147.9,
+          1015.1
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.527,
+        "bbox": [
+          20.3,
+          184.7,
+          705.2,
+          827.5
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.26,
+        "bbox": [
+          724.4,
+          622.8,
+          964.6,
+          875.6
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.627,
+        "bbox": [
+          2852.8,
+          496.4,
+          3147.9,
+          1015.1
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.527,
+        "bbox": [
+          20.3,
+          184.7,
+          705.2,
+          827.5
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.26,
+        "bbox": [
+          724.4,
+          622.8,
+          964.6,
+          875.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8948.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8949.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8953.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.452,
+        "bbox": [
+          928.4,
+          1125.5,
+          1278.5,
+          1482.2
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.289,
+        "bbox": [
+          2186.3,
+          2249.1,
+          2450.8,
+          2445.8
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.452,
+        "bbox": [
+          928.4,
+          1125.5,
+          1278.5,
+          1482.2
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.289,
+        "bbox": [
+          2186.3,
+          2249.1,
+          2450.8,
+          2445.8
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8954.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.672,
+        "bbox": [
+          1734.9,
+          133.0,
+          2221.0,
+          519.7
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.672,
+        "bbox": [
+          1734.9,
+          133.0,
+          2221.0,
+          519.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8955.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8956.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8957.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8958.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bench",
+        "confidence": 0.866,
+        "bbox": [
+          1.0,
+          839.6,
+          294.9,
+          1093.8
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.757,
+        "bbox": [
+          337.4,
+          780.5,
+          716.5,
+          1030.5
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bench",
+        "confidence": 0.866,
+        "bbox": [
+          1.0,
+          839.6,
+          294.9,
+          1093.8
+        ]
+      },
+      {
+        "class": "bench",
+        "confidence": 0.757,
+        "bbox": [
+          337.4,
+          780.5,
+          716.5,
+          1030.5
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8959.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8960.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8961.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8962.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.773,
+        "bbox": [
+          2088.7,
+          265.2,
+          2772.0,
+          2408.1
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.386,
+        "bbox": [
+          2606.8,
+          756.6,
+          2887.7,
+          1567.2
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.358,
+        "bbox": [
+          1604.5,
+          19.1,
+          2237.9,
+          2420.6
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.291,
+        "bbox": [
+          2505.0,
+          1768.5,
+          2861.3,
+          2438.3
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.773,
+        "bbox": [
+          2088.7,
+          265.2,
+          2772.0,
+          2408.1
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.386,
+        "bbox": [
+          2606.8,
+          756.6,
+          2887.7,
+          1567.2
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.358,
+        "bbox": [
+          1604.5,
+          19.1,
+          2237.9,
+          2420.6
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.291,
+        "bbox": [
+          2505.0,
+          1768.5,
+          2861.3,
+          2438.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8963.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8964.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8965.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8966.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bench",
+        "confidence": 0.924,
+        "bbox": [
+          134.9,
+          2073.8,
+          1194.1,
+          2441.0
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bench",
+        "confidence": 0.924,
+        "bbox": [
+          134.9,
+          2073.8,
+          1194.1,
+          2441.0
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8967.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.289,
+        "bbox": [
+          612.7,
+          275.4,
+          909.4,
+          547.9
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bottle",
+        "confidence": 0.289,
+        "bbox": [
+          612.7,
+          275.4,
+          909.4,
+          547.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8969.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        201.8694610595703,
+        636.9778442382812,
+        3587.912353515625,
+        2413.88037109375
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.296,
+        "bbox": [
+          201.9,
+          637.0,
+          3587.9,
+          2413.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8970.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        236.8109588623047,
+        651.2706909179688,
+        3602.355224609375,
+        2412.597412109375
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.289,
+        "bbox": [
+          236.8,
+          651.3,
+          3602.4,
+          2412.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8971.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        19.575572967529297,
+        243.7822723388672,
+        3516.986572265625,
+        2415.088134765625
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "potted plant",
+        "confidence": 0.658,
+        "bbox": [
+          19.6,
+          243.8,
+          3517.0,
+          2415.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_8972.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8976.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8977.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8978.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8979.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8980.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_8981.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "broccoli",
+        "confidence": 0.394,
+        "bbox": [
+          31.7,
+          23.1,
+          3617.2,
+          2327.0
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "broccoli",
+        "confidence": 0.394,
+        "bbox": [
+          31.7,
+          23.1,
+          3617.2,
+          2327.0
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "DSC_9089.jpg",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_9090.jpg",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_9468.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_9638.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "DSC_9652.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 8,
+    "plant_boxes": [
+      [
+        2899.009765625,
+        1211.069091796875,
+        3538.7490234375,
+        2047.769775390625
+      ],
+      [
+        1593.195068359375,
+        1075.3236083984375,
+        2179.15869140625,
+        1848.201171875
+      ],
+      [
+        2496.45361328125,
+        5.183541774749756,
+        3694.977783203125,
+        2046.2078857421875
+      ],
+      [
+        1312.3375244140625,
+        17.00653648376465,
+        2392.371826171875,
+        1855.284912109375
+      ],
+      [
+        1.7525207996368408,
+        8.295570373535156,
+        1176.2459716796875,
+        1748.5621337890625
+      ],
+      [
+        350.2870178222656,
+        959.104736328125,
+        922.9739379882812,
+        1717.2811279296875
+      ],
+      [
+        2056.67626953125,
+        1109.997802734375,
+        3145.8876953125,
+        2425.184814453125
+      ],
+      [
+        971.2109375,
+        2288.1728515625,
+        1560.1689453125,
+        2443.74462890625
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "vase",
+        "confidence": 0.907,
+        "bbox": [
+          2899.0,
+          1211.1,
+          3538.7,
+          2047.8
+        ]
+      },
+      {
+        "class": "vase",
+        "confidence": 0.893,
+        "bbox": [
+          1593.2,
+          1075.3,
+          2179.2,
+          1848.2
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.874,
+        "bbox": [
+          2496.5,
+          5.2,
+          3695.0,
+          2046.2
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.705,
+        "bbox": [
+          1312.3,
+          17.0,
+          2392.4,
+          1855.3
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.658,
+        "bbox": [
+          1.8,
+          8.3,
+          1176.2,
+          1748.6
+        ]
+      },
+      {
+        "class": "vase",
+        "confidence": 0.599,
+        "bbox": [
+          350.3,
+          959.1,
+          923.0,
+          1717.3
+        ]
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.279,
+        "bbox": [
+          2056.7,
+          1110.0,
+          3145.9,
+          2425.2
+        ]
+      },
+      {
+        "class": "vase",
+        "confidence": 0.264,
+        "bbox": [
+          971.2,
+          2288.2,
+          1560.2,
+          2443.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "E. heracleoides.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E. umbellatum var. stellatum-1.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E. umbellatum var. stellatum-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E. umbellatum var. stellatum[1].JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E. umbellatum var. stellatum[2].JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E. umbellatumvar.bahiiforme(1).JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E. umbellatumvar.bahiiforme(2).JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "broccoli",
+        "confidence": 0.287,
+        "bbox": [
+          2630.3,
+          1837.3,
+          3455.4,
+          2432.6
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "broccoli",
+        "confidence": 0.287,
+        "bbox": [
+          2630.3,
+          1837.3,
+          3455.4,
+          2432.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "E.heracleoides ziedynas.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E.umbellatum var. bahiiforme.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "E.umbellatum var.stellatum(bendras vaizdas)-4.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "IMGP3799.jpg",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "IMGP6735.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "IMGP7230.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P3240023.JPG m.jpg",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P3240048.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.776,
+        "bbox": [
+          1.1,
+          701.1,
+          649.7,
+          1619.5
+        ]
+      },
+      {
+        "class": "sheep",
+        "confidence": 0.621,
+        "bbox": [
+          472.1,
+          1346.2,
+          1060.9,
+          1712.0
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.619,
+        "bbox": [
+          1422.5,
+          479.7,
+          2048.1,
+          1089.4
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.776,
+        "bbox": [
+          1.1,
+          701.1,
+          649.7,
+          1619.5
+        ]
+      },
+      {
+        "class": "sheep",
+        "confidence": 0.621,
+        "bbox": [
+          472.1,
+          1346.2,
+          1060.9,
+          1712.0
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.619,
+        "bbox": [
+          1422.5,
+          479.7,
+          2048.1,
+          1089.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4240127-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.691,
+        "bbox": [
+          5.2,
+          818.4,
+          908.7,
+          1482.8
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.691,
+        "bbox": [
+          5.2,
+          818.4,
+          908.7,
+          1482.8
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4240129-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4240135-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4240139-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4240142-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4240148-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.405,
+        "bbox": [
+          4.5,
+          1.4,
+          912.2,
+          645.6
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.405,
+        "bbox": [
+          4.5,
+          1.4,
+          912.2,
+          645.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4240150-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4240151-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4240160-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "orange",
+        "confidence": 0.484,
+        "bbox": [
+          1135.9,
+          105.0,
+          1886.4,
+          910.5
+        ]
+      },
+      {
+        "class": "apple",
+        "confidence": 0.354,
+        "bbox": [
+          1480.4,
+          1071.9,
+          2046.8,
+          2051.7
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.253,
+        "bbox": [
+          1506.4,
+          2309.8,
+          2044.4,
+          2729.0
+        ]
+      },
+      {
+        "class": "apple",
+        "confidence": 0.252,
+        "bbox": [
+          1307.5,
+          0.9,
+          1961.3,
+          236.4
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "orange",
+        "confidence": 0.484,
+        "bbox": [
+          1135.9,
+          105.0,
+          1886.4,
+          910.5
+        ]
+      },
+      {
+        "class": "apple",
+        "confidence": 0.354,
+        "bbox": [
+          1480.4,
+          1071.9,
+          2046.8,
+          2051.7
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.253,
+        "bbox": [
+          1506.4,
+          2309.8,
+          2044.4,
+          2729.0
+        ]
+      },
+      {
+        "class": "apple",
+        "confidence": 0.252,
+        "bbox": [
+          1307.5,
+          0.9,
+          1961.3,
+          236.4
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4240164-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.727,
+        "bbox": [
+          958.8,
+          94.4,
+          2044.9,
+          1322.3
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.727,
+        "bbox": [
+          958.8,
+          94.4,
+          2044.9,
+          1322.3
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4240168-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4240169-2.JPG",
+    "persons_detected": 1,
+    "person_boxes": [
+      [
+        0.9539551138877869,
+        459.7704772949219,
+        339.9568786621094,
+        1531.9393310546875
+      ]
+    ],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "person",
+        "confidence": 0.321,
+        "bbox": [
+          1.0,
+          459.8,
+          340.0,
+          1531.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4240172-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "cat",
+        "confidence": 0.364,
+        "bbox": [
+          775.0,
+          369.8,
+          1292.7,
+          866.7
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "cat",
+        "confidence": 0.364,
+        "bbox": [
+          775.0,
+          369.8,
+          1292.7,
+          866.7
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4240177-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.316,
+        "bbox": [
+          6.6,
+          8.3,
+          1727.4,
+          1499.4
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.278,
+        "bbox": [
+          899.9,
+          1.0,
+          1870.0,
+          426.6
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.316,
+        "bbox": [
+          6.6,
+          8.3,
+          1727.4,
+          1499.4
+        ]
+      },
+      {
+        "class": "banana",
+        "confidence": 0.278,
+        "bbox": [
+          899.9,
+          1.0,
+          1870.0,
+          426.6
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260001-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.496,
+        "bbox": [
+          347.0,
+          4.0,
+          2042.9,
+          1416.1
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.496,
+        "bbox": [
+          347.0,
+          4.0,
+          2042.9,
+          1416.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260002-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.84,
+        "bbox": [
+          300.4,
+          4.7,
+          2042.6,
+          1365.1
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.84,
+        "bbox": [
+          300.4,
+          4.7,
+          2042.6,
+          1365.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260005-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260007-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260009-2(S).JPG",
+    "persons_detected": 1,
+    "person_boxes": [
+      [
+        90.3492202758789,
+        1.856054663658142,
+        2045.479736328125,
+        1535.1949462890625
+      ]
+    ],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "bird",
+        "confidence": 0.531,
+        "bbox": [
+          70.7,
+          1.2,
+          2047.1,
+          1529.5
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "bird",
+        "confidence": 0.531,
+        "bbox": [
+          70.7,
+          1.2,
+          2047.1,
+          1529.5
+        ]
+      },
+      {
+        "class": "person",
+        "confidence": 0.34,
+        "bbox": [
+          90.3,
+          1.9,
+          2045.5,
+          1535.2
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260010-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260013-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260017-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260022-2.JPG",
+    "persons_detected": 1,
+    "person_boxes": [
+      [
+        3.8609375953674316,
+        4.408496379852295,
+        1921.8792724609375,
+        1533.1539306640625
+      ]
+    ],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "person",
+        "confidence": 0.372,
+        "bbox": [
+          3.9,
+          4.4,
+          1921.9,
+          1533.2
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260024-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "banana",
+        "confidence": 0.556,
+        "bbox": [
+          191.6,
+          5.1,
+          2007.5,
+          1509.5
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.309,
+        "bbox": [
+          1305.9,
+          1343.3,
+          1999.6,
+          1534.8
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "banana",
+        "confidence": 0.556,
+        "bbox": [
+          191.6,
+          5.1,
+          2007.5,
+          1509.5
+        ]
+      },
+      {
+        "class": "bird",
+        "confidence": 0.309,
+        "bbox": [
+          1305.9,
+          1343.3,
+          1999.6,
+          1534.8
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260027-2.JPG",
+    "persons_detected": 1,
+    "person_boxes": [
+      [
+        139.41172790527344,
+        2.584179639816284,
+        2025.783203125,
+        1529.989501953125
+      ]
+    ],
+    "plants_detected": 1,
+    "plant_boxes": [
+      [
+        120.3851547241211,
+        327.55548095703125,
+        1364.827392578125,
+        1512.1627197265625
+      ]
+    ],
+    "other_objects": [],
+    "all_detections": [
+      {
+        "class": "person",
+        "confidence": 0.694,
+        "bbox": [
+          139.4,
+          2.6,
+          2025.8,
+          1530.0
+        ]
+      },
+      {
+        "class": "vase",
+        "confidence": 0.463,
+        "bbox": [
+          120.4,
+          327.6,
+          1364.8,
+          1512.2
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260029-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260031-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260034-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260035-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260046-2(S).JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260050-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260053-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260057-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260062-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "P4260063-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [
+      {
+        "class": "giraffe",
+        "confidence": 0.342,
+        "bbox": [
+          129.3,
+          701.5,
+          774.2,
+          1534.1
+        ]
+      }
+    ],
+    "all_detections": [
+      {
+        "class": "giraffe",
+        "confidence": 0.342,
+        "bbox": [
+          129.3,
+          701.5,
+          774.2,
+          1534.1
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": "P4260067-2.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  },
+  {
+    "image_id": "SV106829.JPG",
+    "persons_detected": 0,
+    "person_boxes": [],
+    "plants_detected": 0,
+    "plant_boxes": [],
+    "other_objects": [],
+    "all_detections": []
+  }
+]

@@ -1,0 +1,10 @@
+Metric,Value
+Curated Raw Images (post-quality-filter),192.0
+Total ROIs Extracted,655.0
+ROIs After Deduplication,421.0
+Unique Species Predicted,169.0
+Unique Genera Predicted,92.0
+Images with Humans,4.0
+Images with Multiple Flower Types,144.0
+Mean Confidence Score,0.439
+Median Confidence Score,0.402

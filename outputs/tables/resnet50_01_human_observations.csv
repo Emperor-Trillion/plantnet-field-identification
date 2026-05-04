@@ -1,0 +1,304 @@
+image_id,file_path,contains_flowers,flower_count_approx,has_multiple_flower_types,contains_human,contains_rocks_stones,contains_other_objects,visual_duplicate_of,image_quality,notes
+Albaninė Šilagėlė.JPG,data/raw_images/Albaninė Šilagėlė.JPG,yes,many,no,no,yes,yes,,good,
+alpinariumas.JPG,data/raw_images/alpinariumas.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_0035.JPG,data/raw_images/DSC_0035.JPG,no,none,no,no,no,yes,,good,flower label
+DSC_0036.JPG,data/raw_images/DSC_0036.JPG,yes,1,no,no,no,no,,good,
+DSC_0066.JPG,data/raw_images/DSC_0066.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_0069.JPG,data/raw_images/DSC_0069.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_0082.JPG,data/raw_images/DSC_0082.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_0089.JPG,data/raw_images/DSC_0089.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_5562[.jpg,data/raw_images/DSC_5562[.jpg,yes,3,yes,no,yes,yes,,good,
+DSC_5566.JPG,data/raw_images/DSC_5566.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_5575.JPG,data/raw_images/DSC_5575.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_5658.JPG,data/raw_images/DSC_5658.JPG,no,none,no,no,no,yes,,good,flower label
+DSC_5664.JPG,data/raw_images/DSC_5664.JPG,no,none,no,no,no,yes,,good,flag
+DSC_5665.JPG,data/raw_images/DSC_5665.JPG,no,none,no,no,no,yes,DSC_5666,good,artificial design
+DSC_5666.JPG,data/raw_images/DSC_5666.JPG,no,none,no,no,no,yes,DSC_5665,good,artificial design
+DSC_5667.JPG,data/raw_images/DSC_5667.JPG,no,none,no,no,no,yes,DSC_5666,good,artificial design
+DSC_5668.JPG,data/raw_images/DSC_5668.JPG,no,none,no,no,no,yes,DSC_5664,good,flag
+DSC_5669.JPG,data/raw_images/DSC_5669.JPG,no,none,no,no,no,yes,DSC_5670,good,artificial design
+DSC_5670.JPG,data/raw_images/DSC_5670.JPG,no,none,no,no,no,yes,DSC_5669,good,artificial design
+DSC_5672.JPG,data/raw_images/DSC_5672.JPG,no,none,no,yes,no,yes,DSC_5666,good,artificial design
+DSC_5677.JPG,data/raw_images/DSC_5677.JPG,no,none,no,no,no,yes,DSC_5680,good,artificial design
+DSC_5678.JPG,data/raw_images/DSC_5678.JPG,no,none,no,no,no,yes,DSC_5679,good,artificial design
+DSC_5679.JPG,data/raw_images/DSC_5679.JPG,no,none,no,no,no,yes,DSC_5678,good,artificial design
+DSC_5680.JPG,data/raw_images/DSC_5680.JPG,no,none,no,no,no,yes,DSC_5677,good,artificial design
+DSC_5681.JPG,data/raw_images/DSC_5681.JPG,yes,many,yes,no,no,no,DSC_5680,good,
+DSC_5682.JPG,data/raw_images/DSC_5682.JPG,yes,many,yes,no,no,no,DSC_5681,good,
+DSC_5683.JPG,data/raw_images/DSC_5683.JPG,no,none,no,no,no,yes,DSC_5680,good,artificial design
+DSC_5684.JPG,data/raw_images/DSC_5684.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5686.JPG,data/raw_images/DSC_5686.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5687.JPG,data/raw_images/DSC_5687.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5688.JPG,data/raw_images/DSC_5688.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5690.JPG,data/raw_images/DSC_5690.JPG,yes,many,yes,no,no,no,,poor,
+DSC_5691.JPG,data/raw_images/DSC_5691.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5692.JPG,data/raw_images/DSC_5692.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5693.JPG,data/raw_images/DSC_5693.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5694.JPG,data/raw_images/DSC_5694.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5695.JPG,data/raw_images/DSC_5695.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5697.JPG,data/raw_images/DSC_5697.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5698.JPG,data/raw_images/DSC_5698.JPG,yes,many,no,no,no,no,,medium,
+DSC_5699.JPG,data/raw_images/DSC_5699.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5700.JPG,data/raw_images/DSC_5700.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5701.JPG,data/raw_images/DSC_5701.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5703.JPG,data/raw_images/DSC_5703.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5704.JPG,data/raw_images/DSC_5704.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5705.JPG,data/raw_images/DSC_5705.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5707.JPG,data/raw_images/DSC_5707.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5708.JPG,data/raw_images/DSC_5708.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5709.JPG,data/raw_images/DSC_5709.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5710.JPG,data/raw_images/DSC_5710.JPG,no,none,no,no,no,yes,,good,artificial design
+DSC_5712.JPG,data/raw_images/DSC_5712.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5714.JPG,data/raw_images/DSC_5714.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5715.JPG,data/raw_images/DSC_5715.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5716.JPG,data/raw_images/DSC_5716.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5717.JPG,data/raw_images/DSC_5717.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5718.JPG,data/raw_images/DSC_5718.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5726.JPG,data/raw_images/DSC_5726.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5727.JPG,data/raw_images/DSC_5727.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5728.JPG,data/raw_images/DSC_5728.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5731.JPG,data/raw_images/DSC_5731.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5736.JPG,data/raw_images/DSC_5736.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5737.JPG,data/raw_images/DSC_5737.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5752.JPG,data/raw_images/DSC_5752.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5759.JPG,data/raw_images/DSC_5759.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5760.JPG,data/raw_images/DSC_5760.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5763.JPG,data/raw_images/DSC_5763.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5765.JPG,data/raw_images/DSC_5765.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5767.JPG,data/raw_images/DSC_5767.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5768.JPG,data/raw_images/DSC_5768.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5770.JPG,data/raw_images/DSC_5770.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5773.JPG,data/raw_images/DSC_5773.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5774.JPG,data/raw_images/DSC_5774.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5779.JPG,data/raw_images/DSC_5779.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5783.JPG,data/raw_images/DSC_5783.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5784.JPG,data/raw_images/DSC_5784.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5788.JPG,data/raw_images/DSC_5788.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5799.JPG,data/raw_images/DSC_5799.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5804.JPG,data/raw_images/DSC_5804.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5805.JPG,data/raw_images/DSC_5805.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5812.JPG,data/raw_images/DSC_5812.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5813.JPG,data/raw_images/DSC_5813.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5817.JPG,data/raw_images/DSC_5817.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5818.JPG,data/raw_images/DSC_5818.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5823.JPG,data/raw_images/DSC_5823.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5824.JPG,data/raw_images/DSC_5824.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5828.JPG,data/raw_images/DSC_5828.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5829.JPG,data/raw_images/DSC_5829.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5830.JPG,data/raw_images/DSC_5830.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5832.JPG,data/raw_images/DSC_5832.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5833.JPG,data/raw_images/DSC_5833.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5836.JPG,data/raw_images/DSC_5836.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5837.JPG,data/raw_images/DSC_5837.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5838.JPG,data/raw_images/DSC_5838.JPG,yes,none,no,yes,no,yes,,poor,artificial design
+DSC_5844.JPG,data/raw_images/DSC_5844.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5845.JPG,data/raw_images/DSC_5845.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5878.JPG,data/raw_images/DSC_5878.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5885.JPG,data/raw_images/DSC_5885.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_5886.JPG,data/raw_images/DSC_5886.JPG,no,none,no,yes,no,yes,,good,artificial design
+DSC_8392.JPG,data/raw_images/DSC_8392.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8394.JPG,data/raw_images/DSC_8394.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8400.JPG,data/raw_images/DSC_8400.JPG,yes,many,no,no,no,yes,,good,
+DSC_8404.JPG,data/raw_images/DSC_8404.JPG,yes,2,no,no,yes,yes,,good,
+DSC_8407.JPG,data/raw_images/DSC_8407.JPG,yes,many,no,no,yes,yes,,good,
+DSC_8408.JPG,data/raw_images/DSC_8408.JPG,yes,many,no,no,yes,yes,,good,
+DSC_8566.JPG,data/raw_images/DSC_8566.JPG,yes,many,no,no,yes,yes,,good,
+DSC_8621.JPG,data/raw_images/DSC_8621.JPG,no,none,no,no,no,yes,,good,
+DSC_8623.JPG,data/raw_images/DSC_8623.JPG,yes,many,no,no,no,yes,,good,
+DSC_8624.JPG,data/raw_images/DSC_8624.JPG,yes,many,no,no,no,yes,,good,
+DSC_8626.JPG,data/raw_images/DSC_8626.JPG,yes,many,no,no,no,yes,,good,
+DSC_8628.JPG,data/raw_images/DSC_8628.JPG,yes,1,no,no,no,yes,,good,
+DSC_8630.JPG,data/raw_images/DSC_8630.JPG,yes,3,no,no,no,yes,,good,
+DSC_8634.JPG,data/raw_images/DSC_8634.JPG,yes,3,no,no,no,yes,,good,
+DSC_8635.JPG,data/raw_images/DSC_8635.JPG,yes,3,no,no,no,yes,,good,
+DSC_8636.JPG,data/raw_images/DSC_8636.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_8637.JPG,data/raw_images/DSC_8637.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_8638.JPG,data/raw_images/DSC_8638.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_8639.JPG,data/raw_images/DSC_8639.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_8641.JPG,data/raw_images/DSC_8641.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_8642.JPG,data/raw_images/DSC_8642.JPG,yes,many,yes,no,yes,yes,,good,
+DSC_8643.JPG,data/raw_images/DSC_8643.JPG,yes,many,yes,no,no,yes,,good,
+DSC_8644.JPG,data/raw_images/DSC_8644.JPG,yes,many,yes,no,no,no,,good,
+DSC_8645.JPG,data/raw_images/DSC_8645.JPG,yes,many,no,no,no,no,,good,
+DSC_8646.JPG,data/raw_images/DSC_8646.JPG,yes,many,no,no,no,no,,good,
+DSC_8647.JPG,data/raw_images/DSC_8647.JPG,yes,many,no,no,no,no,,good,
+DSC_8648.JPG,data/raw_images/DSC_8648.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8650.JPG,data/raw_images/DSC_8650.JPG,yes,many,yes,no,no,no,,good,
+DSC_8651.JPG,data/raw_images/DSC_8651.JPG,yes,many,no,no,no,no,,good,
+DSC_8652.JPG,data/raw_images/DSC_8652.JPG,yes,many,no,no,no,no,,good,
+DSC_8654.JPG,data/raw_images/DSC_8654.JPG,yes,many,no,no,no,no,,good,
+DSC_8657.JPG,data/raw_images/DSC_8657.JPG,yes,many,no,no,no,no,,good,
+DSC_8658.JPG,data/raw_images/DSC_8658.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8661.JPG,data/raw_images/DSC_8661.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8711.JPG,data/raw_images/DSC_8711.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8747.JPG,data/raw_images/DSC_8747.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8834 - Copy.JPG,data/raw_images/DSC_8834 - Copy.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8907.JPG,data/raw_images/DSC_8907.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8908.JPG,data/raw_images/DSC_8908.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8909.JPG,data/raw_images/DSC_8909.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8910.JPG,data/raw_images/DSC_8910.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8915.JPG,data/raw_images/DSC_8915.JPG,no,none,no,no,no,yes,,good,
+DSC_8916.JPG,data/raw_images/DSC_8916.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8917.JPG,data/raw_images/DSC_8917.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8918.JPG,data/raw_images/DSC_8918.JPG,yes,many,no,no,yes,no,,good,
+DSC_8920.JPG,data/raw_images/DSC_8920.JPG,yes,many,no,no,yes,no,,good,
+DSC_8922.JPG,data/raw_images/DSC_8922.JPG,yes,yes,yes,no,no,yes,,good,
+DSC_8923.JPG,data/raw_images/DSC_8923.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8924.JPG,data/raw_images/DSC_8924.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8926.JPG,data/raw_images/DSC_8926.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8927.JPG,data/raw_images/DSC_8927.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8928.JPG,data/raw_images/DSC_8928.JPG,yes,many,no,no,yes,no,,good,
+DSC_8929.JPG,data/raw_images/DSC_8929.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8930.JPG,data/raw_images/DSC_8930.JPG,yes,many,yes,no,no,no,,good,
+DSC_8931.JPG,data/raw_images/DSC_8931.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8932.JPG,data/raw_images/DSC_8932.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8934.JPG,data/raw_images/DSC_8934.JPG,yes,many,no,no,yes,no,,good,
+DSC_8936.JPG,data/raw_images/DSC_8936.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8938.JPG,data/raw_images/DSC_8938.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8940.JPG,data/raw_images/DSC_8940.JPG,yes,many,no,no,yes,no,,good,
+DSC_8942.JPG,data/raw_images/DSC_8942.JPG,yes,many,no,no,yes,no,,good,
+DSC_8943.JPG,data/raw_images/DSC_8943.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8944.JPG,data/raw_images/DSC_8944.JPG,yes,many,no,no,yes,no,,good,
+DSC_8945.JPG,data/raw_images/DSC_8945.JPG,yes,many,no,no,yes,no,,good,
+DSC_8946.JPG,data/raw_images/DSC_8946.JPG,yes,many,no,no,yes,no,,good,
+DSC_8947.JPG,data/raw_images/DSC_8947.JPG,yes,many,no,no,yes,no,,good,
+DSC_8948.JPG,data/raw_images/DSC_8948.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8949.JPG,data/raw_images/DSC_8949.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8953.JPG,data/raw_images/DSC_8953.JPG,yes,many,no,no,yes,no,,good,
+DSC_8954.JPG,data/raw_images/DSC_8954.JPG,no,none,no,no,yes,yes,,good,
+DSC_8955.JPG,data/raw_images/DSC_8955.JPG,yes,many,no,no,yes,no,,good,
+DSC_8956.JPG,data/raw_images/DSC_8956.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8957.JPG,data/raw_images/DSC_8957.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8958.JPG,data/raw_images/DSC_8958.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8959.JPG,data/raw_images/DSC_8959.JPG,yes,many,no,no,yes,no,,good,
+DSC_8960.JPG,data/raw_images/DSC_8960.JPG,yes,many,no,no,yes,no,,good,
+DSC_8961.JPG,data/raw_images/DSC_8961.JPG,yes,many,no,no,yes,no,,good,
+DSC_8962.JPG,data/raw_images/DSC_8962.JPG,yes,many,no,no,yes,no,,good,
+DSC_8963.JPG,data/raw_images/DSC_8963.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8964.JPG,data/raw_images/DSC_8964.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8965.JPG,data/raw_images/DSC_8965.JPG,yes,many,yes,no,yes,no,,good,
+DSC_8966.JPG,data/raw_images/DSC_8966.JPG,yes,many,yes,no,no,yes,,poor,
+DSC_8967.JPG,data/raw_images/DSC_8967.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8969.JPG,data/raw_images/DSC_8969.JPG,yes,many,yes,no,no,no,,medium,
+DSC_8970.JPG,data/raw_images/DSC_8970.JPG,yes,many,yes,no,no,no,,medium,
+DSC_8971.JPG,data/raw_images/DSC_8971.JPG,yes,many,no,no,no,no,,medium,
+DSC_8972.JPG,data/raw_images/DSC_8972.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8976.JPG,data/raw_images/DSC_8976.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8977.JPG,data/raw_images/DSC_8977.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8978.JPG,data/raw_images/DSC_8978.JPG,yes,many,no,no,yes,yes,,medium,
+DSC_8979.JPG,data/raw_images/DSC_8979.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8980.JPG,data/raw_images/DSC_8980.JPG,yes,many,yes,no,yes,yes,,medium,
+DSC_8981.JPG,data/raw_images/DSC_8981.JPG,yes,many,no,no,no,no,,poor,
+DSC_9089.JPG,data/raw_images/DSC_9089.JPG,yes,1,no,no,no,no,,good,
+DSC_9090.JPG,data/raw_images/DSC_9090.JPG,yes,2,no,no,no,no,,good,
+DSC_9468.JPG,data/raw_images/DSC_9468.JPG,yes,many,yes,no,no,yes,,poor,
+DSC_9475.JPG,data/raw_images/DSC_9475.JPG,yes,many,no,no,no,yes,,poor,
+DSC_9478.JPG,data/raw_images/DSC_9478.JPG,yes,many,no,no,no,yes,,poor,
+DSC_9622.JPG,data/raw_images/DSC_9622.JPG,yes,many,yes,yes,no,yes,,poor,
+DSC_9624.JPG,data/raw_images/DSC_9624.JPG,yes,many,yes,yes,no,yes,,poor,
+DSC_9625.JPG,data/raw_images/DSC_9625.JPG,yes,many,yes,yes,no,yes,,poor,
+DSC_9627.JPG,data/raw_images/DSC_9627.JPG,yes,many,yes,yes,no,yes,,poor,
+DSC_9630.JPG,data/raw_images/DSC_9630.JPG,yes,many,no,no,no,yes,,poor,
+DSC_9638.JPG,data/raw_images/DSC_9638.JPG,yes,many,no,no,no,yes,,poor,
+DSC_9646.JPG,data/raw_images/DSC_9646.JPG,yes,many,no,yes,no,yes,,poor,
+DSC_9651.JPG,data/raw_images/DSC_9651.JPG,yes,many,yes,yes,no,yes,,poor,
+DSC_9652.JPG,data/raw_images/DSC_9652.JPG,yes,5,no,no,no,yes,,good,
+DSCF1430-2.JPG,data/raw_images/DSCF1430-2.JPG,yes,1,no,no,no,no,,good,
+DSCF1431-2.JPG,data/raw_images/DSCF1431-2.JPG,yes,1,no,no,no,no,,good,
+DSCF1432-2.JPG,data/raw_images/DSCF1432-2.JPG,no,none,no,no,no,yes,,good,
+DSCF1441-2.JPG,data/raw_images/DSCF1441-2.JPG,yes,1,no,no,no,no,,good,
+DSCF1442-2.JPG,data/raw_images/DSCF1442-2.JPG,yes,1,no,no,no,no,,good,
+DSCF1443-2.JPG,data/raw_images/DSCF1443-2.JPG,no,none,no,no,no,yes,,good,
+DSCF1486-2.JPG,data/raw_images/DSCF1486-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1487-2.JPG,data/raw_images/DSCF1487-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1489-2.JPG,data/raw_images/DSCF1489-2.JPG,no,none,no,no,no,yes,,good,
+DSCF1504-2.JPG,data/raw_images/DSCF1504-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1505-2.JPG,data/raw_images/DSCF1505-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1506-2.JPG,data/raw_images/DSCF1506-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1508-2.JPG,data/raw_images/DSCF1508-2.JPG,no,none,no,no,no,yes,,good,
+DSCF1511-2.JPG,data/raw_images/DSCF1511-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1512-2.JPG,data/raw_images/DSCF1512-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1514-2.JPG,data/raw_images/DSCF1514-2.JPG,no,none,no,no,no,yes,,good,
+DSCF1532-2.JPG,data/raw_images/DSCF1532-2.JPG,yes,1,no,no,no,no,,good,
+DSCF1533-2.JPG,data/raw_images/DSCF1533-2.JPG,no,none,no,no,no,yes,,good,
+DSCF1541-2.JPG,data/raw_images/DSCF1541-2.JPG,yes,1,no,no,no,no,,good,
+DSCF1545-2.JPG,data/raw_images/DSCF1545-2.JPG,no,none,no,no,no,yes,,good,
+DSCF1560-2.JPG,data/raw_images/DSCF1560-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1563-2.JPG,data/raw_images/DSCF1563-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1564-2.JPG,data/raw_images/DSCF1564-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1565-2.JPG,data/raw_images/DSCF1565-2.JPG,yes,many,no,no,no,yes,,good,
+DSCF1571-2.JPG,data/raw_images/DSCF1571-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1573-2.JPG,data/raw_images/DSCF1573-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1575-2.JPG,data/raw_images/DSCF1575-2.JPG,yes,many,no,no,no,no,,good,
+DSCF1579-2.JPG,data/raw_images/DSCF1579-2.JPG,yes,4,no,no,no,yes,,good,
+DSCF8139-2.JPG,data/raw_images/DSCF8139-2.JPG,yes,2,no,no,no,yes,,good,
+DSCF8141-2.JPG,data/raw_images/DSCF8141-2.JPG,yes,2,no,no,no,yes,,good,
+DSCF8145-2.JPG,data/raw_images/DSCF8145-2.JPG,yes,1,no,no,no,yes,,good,
+DSCF8148-2.JPG,data/raw_images/DSCF8148-2.JPG,yes,1,no,no,no,yes,,good,
+DSCF8151-2.JPG,data/raw_images/DSCF8151-2.JPG,yes,1,no,no,no,yes,,good,
+DSCF8154-2.JPG,data/raw_images/DSCF8154-2.JPG,yes,1,no,no,no,yes,,good,
+DSCF8155-2.JPG,data/raw_images/DSCF8155-2.JPG,yes,1,no,no,no,yes,,good,
+DSCF8157-2.JPG,data/raw_images/DSCF8157-2.JPG,yes,1,no,no,no,yes,,good,
+DSCF8158-2.JPG,data/raw_images/DSCF8158-2.JPG,yes,2,no,no,no,yes,,good,
+DSCF8161-2.JPG,data/raw_images/DSCF8161-2.JPG,yes,2,no,no,no,no,,good,
+DSCF8163-2.JPG,data/raw_images/DSCF8163-2.JPG,yes,2,no,no,no,no,,good,
+DSCF8165-2.JPG,data/raw_images/DSCF8165-2.JPG,no,none,no,no,no,yes,,good,
+DSCF8166-2.JPG,data/raw_images/DSCF8166-2.JPG,no,none,no,no,no,yes,,good,
+E. heracleoides.JPG,data/raw_images/E. heracleoides.JPG,yes,many,no,no,no,no,,good,
+E. umbellatum var. stellatum.JPG,data/raw_images/E. umbellatum var. stellatum.JPG,yes,many,yes,no,no,no,,good,
+E. umbellatum var. stellatum[1].JPG,data/raw_images/E. umbellatum var. stellatum[1].JPG,yes,many,yes,no,no,no,,good,
+E. umbellatum var. stellatum[2].JPG,data/raw_images/E. umbellatum var. stellatum[2].JPG,yes,many,no,no,no,no,,good,
+E. umbellatumvar.bahiiforme(1).JPG,data/raw_images/E. umbellatumvar.bahiiforme(1).JPG,yes,many,yes,no,no,no,,good,
+E. umbellatumvar.bahiiforme(2).JPG,data/raw_images/E. umbellatumvar.bahiiforme(2).JPG,yes,many,yes,no,no,no,,good,
+E.heracleoides ziedynas.JPG,data/raw_images/E.heracleoides ziedynas.JPG,yes,1,no,no,no,no,,good,
+E.umbellatum var. bahiiforme.JPG,data/raw_images/E.umbellatum var. bahiiforme.JPG,yes,many,yes,no,yes,yes,,good,
+E.umbellatum var.stellatum(bendras vaizdas).JPG,data/raw_images/E.umbellatum var.stellatum(bendras vaizdas).JPG,yes,many,yes,no,yes,yes,,good,
+Eriogonum brevicaule var.nanum.JPG,data/raw_images/Eriogonum brevicaule var.nanum.JPG,no,none,no,no,no,yes,,good,
+IMG_20211002_144318.jpg,data/raw_images/IMG_20211002_144318.jpg,no,none,no,yes,no,yes,,good,
+IMG_20211002_145254.jpg,data/raw_images/IMG_20211002_145254.jpg,no,none,no,yes,no,yes,,good,
+IMG_20211002_145432.jpg,data/raw_images/IMG_20211002_145432.jpg,yes,many,yes,yes,no,yes,,poor,
+IMG_20211002_145455.jpg,data/raw_images/IMG_20211002_145455.jpg,no,none,no,yes,no,yes,,good,
+IMG_20211002_161354.jpg,data/raw_images/IMG_20211002_161354.jpg,no,none,no,yes,no,yes,,good,
+IMG_20211002_161427.jpg,data/raw_images/IMG_20211002_161427.jpg,no,none,no,yes,no,yes,,good,
+IMGP3799.jpg,data/raw_images/IMGP3799.jpg,yes,many,no,no,no,yes,,good,
+IMGP6735.JPG,data/raw_images/IMGP6735.JPG,no,none,no,no,no,yes,,good,
+IMGP7230.JPG,data/raw_images/IMGP7230.JPG,yes,many,no,no,no,yes,,good,
+P3240023.JPG m.jpg,data/raw_images/P3240023.JPG m.jpg,yes,many,no,no,no,no,,good,
+P3240048.JPG,data/raw_images/P3240048.JPG,yes,many,no,no,no,no,,good,
+P4240127-2.JPG,data/raw_images/P4240127-2.JPG,yes,1,no,no,no,no,,good,
+P4240129-2.JPG,data/raw_images/P4240129-2.JPG,yes,1,no,no,no,no,,good,
+P4240135-2.JPG,data/raw_images/P4240135-2.JPG,yes,1,no,no,no,no,,good,
+P4240139-2.JPG,data/raw_images/P4240139-2.JPG,yes,1,no,no,no,no,,good,
+P4240142-2.JPG,data/raw_images/P4240142-2.JPG,yes,1,no,no,no,no,,good,
+P4240148-2.JPG,data/raw_images/P4240148-2.JPG,yes,1,no,no,no,no,,good,
+P4240150-2.JPG,data/raw_images/P4240150-2.JPG,yes,1,no,no,no,no,,good,
+P4240151-2.JPG,data/raw_images/P4240151-2.JPG,yes,1,no,no,no,no,,good,
+P4240160-2.JPG,data/raw_images/P4240160-2.JPG,yes,1,no,no,no,no,,good,
+P4240164-2.JPG,data/raw_images/P4240164-2.JPG,yes,1,no,no,no,no,,good,
+P4240168-2.JPG,data/raw_images/P4240168-2.JPG,yes,1,no,no,no,no,,good,
+P4240169-2.JPG,data/raw_images/P4240169-2.JPG,yes,1,no,no,no,no,,good,
+P4240172-2.JPG,data/raw_images/P4240172-2.JPG,yes,1,no,no,no,no,,good,
+P4240177-2.JPG,data/raw_images/P4240177-2.JPG,yes,1,no,no,no,no,,good,
+P4260001-2.JPG,data/raw_images/P4260001-2.JPG,yes,1,no,no,no,no,,good,
+P4260002-2.JPG,data/raw_images/P4260002-2.JPG,yes,1,no,no,no,no,,good,
+P4260005-2.JPG,data/raw_images/P4260005-2.JPG,yes,1,no,no,no,no,,good,
+P4260007-2.JPG,data/raw_images/P4260007-2.JPG,yes,1,no,no,no,no,,good,
+P4260009-2(S).JPG,data/raw_images/P4260009-2(S).JPG,yes,3,no,no,no,no,,good,
+P4260010-2.JPG,data/raw_images/P4260010-2.JPG,yes,3,no,no,no,no,,good,
+P4260013-2.JPG,data/raw_images/P4260013-2.JPG,yes,1,no,no,no,no,,good,
+P4260017-2.JPG,data/raw_images/P4260017-2.JPG,yes,1,no,no,no,no,,good,
+P4260022-2.JPG,data/raw_images/P4260022-2.JPG,yes,1,no,no,no,no,,good,
+P4260024-2.JPG,data/raw_images/P4260024-2.JPG,yes,1,no,no,no,no,,good,
+P4260027-2.JPG,data/raw_images/P4260027-2.JPG,yes,1,no,no,no,no,,good,
+P4260029-2.JPG,data/raw_images/P4260029-2.JPG,yes,1,no,no,no,no,,good,
+P4260031-2.JPG,data/raw_images/P4260031-2.JPG,yes,1,no,no,no,no,,good,
+P4260034-2.JPG,data/raw_images/P4260034-2.JPG,yes,1,no,no,no,no,,good,
+P4260035-2.JPG,data/raw_images/P4260035-2.JPG,yes,many,no,no,no,no,,good,
+P4260046-2(S).JPG,data/raw_images/P4260046-2(S).JPG,yes,1,no,no,no,no,,good,
+P4260050-2.JPG,data/raw_images/P4260050-2.JPG,yes,3,no,no,no,no,,good,
+P4260053-2.JPG,data/raw_images/P4260053-2.JPG,yes,2,no,no,no,no,,good,
+P4260057-2.JPG,data/raw_images/P4260057-2.JPG,yes,1,no,no,no,no,,good,
+P4260062-2.JPG,data/raw_images/P4260062-2.JPG,yes,many,no,no,no,no,,good,
+P4260063-2.JPG,data/raw_images/P4260063-2.JPG,yes,1,no,no,no,no,,good,
+P4260067-2.JPG,data/raw_images/P4260067-2.JPG,yes,many,no,no,no,no,,good,
+SV106829.JPG,data/raw_images/SV106829.JPG,no,none,no,no,no,yes,,good,

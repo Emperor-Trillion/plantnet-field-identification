@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.virtualEnv/
+venv/
+.env
+
+# Image data — available on request, not stored in repo
+data/raw_images/*
+!data/raw_images/.gitkeep
+data/cropped_rois/*
+!data/cropped_rois/.gitkeep
+data/features/*
+!data/features/.gitkeep
+
+# Pretrained model weights — public, downloaded from PlantNet seafile
+models/*.tar
+models/*.pt
+models/*.json
+yolov8m.pt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp

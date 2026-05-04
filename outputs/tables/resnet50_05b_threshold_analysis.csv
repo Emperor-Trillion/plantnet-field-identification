@@ -1,0 +1,6 @@
+threshold,duplicate_pairs_found,unique_rois_remaining,rois_removed,removal_percentage
+0.9,69,386,69,15.2
+0.93,51,404,51,11.2
+0.95,38,417,38,8.4
+0.97,23,432,23,5.1
+0.99,11,444,11,2.4

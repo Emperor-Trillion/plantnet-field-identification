@@ -1,0 +1,437 @@
+roi_id,source_image,final_species,final_genus,label_source,label_confidence,confidence_tier,top1_confidence
+roi_0000,Albaninė Šilagėlė.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.5956
+roi_0001,Albaninė Šilagėlė.JPG,Hyoscyamus sp. (uncertain),Hyoscyamus,local_uncertain,low,TIER_3_MODERATE,0.476
+roi_0002,Albaninė Šilagėlė.JPG,Hyoscyamus sp. (uncertain),Hyoscyamus,local_uncertain,low,TIER_3_MODERATE,0.465
+roi_0003,Albaninė Šilagėlė.JPG,Anemone alpina L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.6564
+roi_0005,DSCF1430-2.JPG,Lactuca sp. (uncertain),Lactuca,local_uncertain,low,TIER_5_UNRELIABLE,0.075
+roi_0006,DSCF1430-2.JPG,Pyracantha sp. (uncertain),Pyracantha,local_uncertain,low,TIER_3_MODERATE,0.4227
+roi_0010,DSCF1431-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_MODERATE,0.4248
+roi_0016,DSCF1441-2.JPG,Trifolium pratense L.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.9665
+roi_0018,DSCF1442-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_GENUS_OK,0.5029
+roi_0019,DSCF1442-2.JPG,Smilax sp. (uncertain),Smilax,local_uncertain,low,TIER_4_LOW,0.3036
+roi_0022,DSCF1486-2.JPG,Nandina sp. (uncertain),Nandina,local_uncertain,low,TIER_3_MODERATE,0.4528
+roi_0023,DSCF1487-2.JPG,Calycanthus floridus L.,Calycanthus,high_confidence_local,high,TIER_1_HIGH,0.9041
+roi_0025,DSCF1504-2.JPG,Punica granatum L.,Punica,high_confidence_local,high,TIER_1_HIGH,0.9737
+roi_0026,DSCF1504-2.JPG,Punica granatum L.,Punica,high_confidence_local,high,TIER_1_HIGH,0.9997
+roi_0027,DSCF1505-2.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_4_LOW,0.2723
+roi_0029,DSCF1506-2.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_3_GENUS_OK,0.4392
+roi_0032,DSCF1511-2.JPG,Calendula officinalis L.,Calendula,good_confidence_local,high,TIER_2_GOOD,0.7741
+roi_0034,DSCF1512-2.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_4_LOW,0.2524
+roi_0035,DSCF1532-2.JPG,Punica granatum L.,Punica,good_confidence_local,high,TIER_2_GOOD,0.7939
+roi_0036,DSCF1532-2.JPG,Punica sp. (uncertain),Punica,local_uncertain,low,TIER_5_UNRELIABLE,0.1814
+roi_0037,DSCF1541-2.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_3_GENUS_OK,0.4037
+roi_0038,DSCF1560-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_5_UNRELIABLE,0.1675
+roi_0039,DSCF1560-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.2409
+roi_0040,DSCF1560-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.3293
+roi_0041,DSCF1560-2.JPG,Centranthus sp. (uncertain),Centranthus,local_uncertain,low,TIER_5_UNRELIABLE,0.1316
+roi_0042,DSCF1560-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.3186
+roi_0043,DSCF1560-2.JPG,Hebe sp. (uncertain),Hebe,local_uncertain,low,TIER_4_LOW,0.3915
+roi_0044,DSCF1563-2.JPG,Trachelospermum sp. (uncertain),Trachelospermum,local_uncertain,low,TIER_3_MODERATE,0.4844
+roi_0045,DSCF1563-2.JPG,Trifolium pratense L.,Trifolium,good_confidence_local,high,TIER_2_GOOD,0.6191
+roi_0046,DSCF1563-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_GENUS_OK,0.523
+roi_0047,DSCF1563-2.JPG,Daphne cneorum L.,Daphne,good_confidence_local,high,TIER_2_GOOD,0.6141
+roi_0050,DSCF1564-2.JPG,Calycanthus sp. (uncertain),Calycanthus,local_uncertain,low,TIER_3_MODERATE,0.539
+roi_0051,DSCF1564-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.3281
+roi_0054,DSCF1564-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.2172
+roi_0055,DSCF1571-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_GENUS_OK,0.4479
+roi_0056,DSCF1571-2.JPG,Neotinea sp. (uncertain),Neotinea,local_uncertain,low,TIER_3_MODERATE,0.5826
+roi_0057,DSCF1571-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.3812
+roi_0058,DSCF1573-2.JPG,Cobaea scandens Cav.,Cobaea,high_confidence_local,high,TIER_1_HIGH,0.8282
+roi_0059,DSCF1573-2.JPG,Calycanthus floridus L.,Calycanthus,high_confidence_local,high,TIER_1_HIGH,0.9039
+roi_0060,DSCF1573-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_GENUS_OK,0.4801
+roi_0061,DSCF1573-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_5_UNRELIABLE,0.1642
+roi_0062,DSCF1573-2.JPG,Trifolium pratense L.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.8804
+roi_0063,DSCF1575-2.JPG,Pereskia sp. (uncertain),Pereskia,local_uncertain,low,TIER_5_UNRELIABLE,0.102
+roi_0064,DSCF1575-2.JPG,Cobaea scandens Cav.,Cobaea,good_confidence_local,high,TIER_2_GOOD,0.6826
+roi_0065,DSCF1575-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_5_UNRELIABLE,0.0896
+roi_0066,DSCF1575-2.JPG,Neotinea sp. (uncertain),Neotinea,local_uncertain,low,TIER_4_LOW,0.2343
+roi_0067,DSCF1575-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.2741
+roi_0068,DSCF1575-2.JPG,Trachelospermum jasminoides (Lindl.) Lem.,Trachelospermum,high_confidence_local,high,TIER_1_HIGH,0.9166
+roi_0069,DSCF1575-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.2904
+roi_0073,DSCF8139-2.JPG,Garrya elliptica Douglas ex Lindl.,Garrya,good_confidence_local,high,TIER_2_GOOD,0.6335
+roi_0074,DSCF8139-2.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_5_UNRELIABLE,0.1993
+roi_0077,DSCF8141-2.JPG,Centranthus sp. (uncertain),Centranthus,local_uncertain,low,TIER_3_MODERATE,0.4535
+roi_0079,DSCF8141-2.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_3_MODERATE,0.4082
+roi_0080,DSCF8141-2.JPG,Daphne laureola L.,Daphne,good_confidence_local,high,TIER_2_GOOD,0.7967
+roi_0084,DSCF8145-2.JPG,Hyoscyamus albus L.,Hyoscyamus,high_confidence_local,high,TIER_1_HIGH,0.8045
+roi_0093,DSCF8151-2.JPG,Centranthus sp. (uncertain),Centranthus,local_uncertain,low,TIER_3_MODERATE,0.4416
+roi_0098,DSCF8154-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.288
+roi_0105,DSCF8155-2.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_3_MODERATE,0.4179
+roi_0111,DSCF8157-2.JPG,Lapsana sp. (uncertain),Lapsana,local_uncertain,low,TIER_5_UNRELIABLE,0.1718
+roi_0113,DSCF8158-2.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.5352
+roi_0114,DSCF8158-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_5_UNRELIABLE,0.0857
+roi_0119,DSCF8161-2.JPG,Schefflera sp. (uncertain),Schefflera,local_uncertain,low,TIER_4_LOW,0.3912
+roi_0120,DSCF8161-2.JPG,Moehringia sp. (uncertain),Moehringia,local_uncertain,low,TIER_4_LOW,0.2301
+roi_0123,DSCF8163-2.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_3_MODERATE,0.4533
+roi_0128,DSC_0036.JPG,Acacia sp. (uncertain),Acacia,local_uncertain,low,TIER_3_MODERATE,0.4185
+roi_0130,DSC_5562[.jpg,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_5_UNRELIABLE,0.1847
+roi_0131,DSC_5566.JPG,Lavandula sp. (uncertain),Lavandula,local_uncertain,low,TIER_4_LOW,0.2949
+roi_0132,DSC_5566.JPG,Cucurbita sp. (uncertain),Cucurbita,local_uncertain,low,TIER_4_LOW,0.3067
+roi_0133,DSC_5566.JPG,Hyoscyamus sp. (uncertain),Hyoscyamus,local_uncertain,low,TIER_3_MODERATE,0.418
+roi_0134,DSC_5566.JPG,Dalbergia melanoxylon Guill. & Perr.,Dalbergia,good_confidence_local,high,TIER_2_GOOD,0.771
+roi_0135,DSC_5566.JPG,Lactuca sp. (uncertain),Lactuca,local_uncertain,low,TIER_5_UNRELIABLE,0.1445
+roi_0136,DSC_5575.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_MODERATE,0.5819
+roi_0137,DSC_5575.JPG,Elodea sp. (uncertain),Elodea,local_uncertain,low,TIER_4_LOW,0.3375
+roi_0138,DSC_5575.JPG,Acacia baileyana F.Muell.,Acacia,high_confidence_local,high,TIER_1_HIGH,0.8348
+roi_0139,DSC_5575.JPG,Acacia sp. (uncertain),Acacia,local_uncertain,low,TIER_4_LOW,0.2286
+roi_0140,DSC_5575.JPG,Mercurialis sp. (uncertain),Mercurialis,local_uncertain,low,TIER_4_LOW,0.2162
+roi_0141,DSC_5677.JPG,Kniphofia sp. (uncertain),Kniphofia,local_uncertain,low,TIER_3_GENUS_OK,0.5428
+roi_0143,DSC_5680.JPG,Humulus lupulus L.,Humulus,good_confidence_local,high,TIER_2_GOOD,0.7473
+roi_0144,DSC_5681.JPG,Hypericum sp. (uncertain),Hypericum,local_uncertain,low,TIER_4_LOW,0.3581
+roi_0145,DSC_5681.JPG,Dryas octopetala L.,Dryas,good_confidence_local,high,TIER_2_GOOD,0.6958
+roi_0146,DSC_5681.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_4_LOW,0.3392
+roi_0152,DSC_5683.JPG,Pelargonium inquinans (L.) Aiton,Pelargonium,good_confidence_local,high,TIER_2_GOOD,0.6521
+roi_0154,DSC_5687.JPG,Holodiscus sp. (uncertain),Holodiscus,local_uncertain,low,TIER_5_UNRELIABLE,0.1857
+roi_0155,DSC_5687.JPG,Pyracantha sp. (uncertain),Pyracantha,local_uncertain,low,TIER_3_MODERATE,0.5729
+roi_0157,DSC_5690.JPG,Humulus lupulus L.,Humulus,good_confidence_local,high,TIER_2_GOOD,0.7917
+roi_0158,DSC_5691.JPG,Acacia saligna (Labill.) H.L.Wendl.,Acacia,good_confidence_local,high,TIER_2_GOOD,0.7267
+roi_0159,DSC_5691.JPG,Limbarda sp. (uncertain),Limbarda,local_uncertain,low,TIER_4_LOW,0.2486
+roi_0160,DSC_5691.JPG,Nothofagus sp. (uncertain),Nothofagus,local_uncertain,low,TIER_3_MODERATE,0.4038
+roi_0161,DSC_5692.JPG,Limbarda sp. (uncertain),Limbarda,local_uncertain,low,TIER_4_LOW,0.3982
+roi_0162,DSC_5692.JPG,Metasequoia sp. (uncertain),Metasequoia,local_uncertain,low,TIER_4_LOW,0.303
+roi_0163,DSC_5692.JPG,Cenchrus sp. (uncertain),Cenchrus,local_uncertain,low,TIER_3_MODERATE,0.5123
+roi_0164,DSC_5698.JPG,Lactuca alpina (L.) Benth. & Hook.f.,Lactuca,high_confidence_local,high,TIER_1_HIGH,0.8586
+roi_0165,DSC_5701.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.2046
+roi_0166,DSC_5703.JPG,Sedum caeruleum L.,Sedum,good_confidence_local,high,TIER_2_GOOD,0.7576
+roi_0167,DSC_5710.JPG,Acacia sp. (uncertain),Acacia,local_uncertain,low,TIER_4_LOW,0.3687
+roi_0168,DSC_5710.JPG,Nothofagus sp. (uncertain),Nothofagus,local_uncertain,low,TIER_5_UNRELIABLE,0.1876
+roi_0169,DSC_5710.JPG,Nothofagus sp. (uncertain),Nothofagus,local_uncertain,low,TIER_4_LOW,0.2221
+roi_0170,DSC_5710.JPG,Metasequoia sp. (uncertain),Metasequoia,local_uncertain,low,TIER_3_MODERATE,0.5608
+roi_0171,DSC_5710.JPG,Acacia sp. (uncertain),Acacia,local_uncertain,low,TIER_3_GENUS_OK,0.4775
+roi_0172,DSC_5770.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_MODERATE,0.4287
+roi_0173,DSC_5770.JPG,Sedum acre L.,Sedum,high_confidence_local,high,TIER_1_HIGH,0.8353
+roi_0176,DSC_5779.JPG,Meum athamanticum Jacq.,Meum,good_confidence_local,high,TIER_2_GOOD,0.7284
+roi_0178,DSC_5779.JPG,Meum sp. (uncertain),Meum,local_uncertain,low,TIER_3_MODERATE,0.5922
+roi_0179,DSC_578325151.JPG,Pyracantha sp. (uncertain),Pyracantha,local_uncertain,low,TIER_4_LOW,0.2901
+roi_0180,DSC_5783sds.JPG,Acacia dealbata Link,Acacia,good_confidence_local,high,TIER_2_GOOD,0.73
+roi_0181,DSC_5783sds.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_GENUS_OK,0.4064
+roi_0182,DSC_839222.JPG,Lavandula sp. (uncertain),Lavandula,local_uncertain,low,TIER_4_LOW,0.3389
+roi_0183,DSC_8392666.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.3603
+roi_0184,DSC_8394124.JPG,Acacia dealbata Link,Acacia,high_confidence_local,high,TIER_1_HIGH,0.9855
+roi_0185,DSC_8394124.JPG,Acacia dealbata Link,Acacia,good_confidence_local,high,TIER_2_GOOD,0.6146
+roi_0186,DSC_8394124.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_5_UNRELIABLE,0.191
+roi_0187,DSC_8400.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_MODERATE,0.4838
+roi_0188,DSC_8400.JPG,Anemone hepatica L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.9866
+roi_0189,DSC_8404.JPG,Myosoton aquaticum (L.) Moench,Myosoton,good_confidence_local,high,TIER_2_GOOD,0.7282
+roi_0191,DSC_8404.JPG,Phalaris sp. (uncertain),Phalaris,local_uncertain,low,TIER_4_LOW,0.2919
+roi_0194,DSC_8407.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_3_MODERATE,0.5585
+roi_0195,DSC_8407.JPG,Nymphoides peltata (S.G.Gmel.) Kuntze,Nymphoides,high_confidence_local,high,TIER_1_HIGH,0.9095
+roi_0197,DSC_8408.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.2826
+roi_0198,DSC_8408.JPG,Lavandula stoechas L.,Lavandula,good_confidence_local,high,TIER_2_GOOD,0.7748
+roi_0204,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.9253
+roi_0205,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.994
+roi_0206,DSC_8626.JPG,Lavandula sp. (uncertain),Lavandula,local_uncertain,low,TIER_4_LOW,0.309
+roi_0207,DSC_8626.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.6184
+roi_0208,DSC_8626.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_4_LOW,0.3684
+roi_0210,DSC_8628.JPG,Anemone alpina L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.9389
+roi_0211,DSC_8630.JPG,Phyllanthus sp. (uncertain),Phyllanthus,local_uncertain,low,TIER_5_UNRELIABLE,0.0713
+roi_0212,DSC_8630.JPG,Smilax sp. (uncertain),Smilax,local_uncertain,low,TIER_4_LOW,0.3188
+roi_0213,DSC_8630.JPG,Anemone alpina L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.994
+roi_0214,DSC_8634.JPG,Anemone alpina L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.9073
+roi_0215,DSC_8635.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_5_UNRELIABLE,0.1376
+roi_0216,DSC_8635.JPG,Anemone alpina L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.888
+roi_0217,DSC_8636.JPG,Anemone vernalis L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.6462
+roi_0218,DSC_8636.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.799
+roi_0219,DSC_8636.JPG,Papaver alpinum L.,Papaver,high_confidence_local,high,TIER_1_HIGH,0.8898
+roi_0220,DSC_8636.JPG,Trifolium montanum L.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.9311
+roi_0221,DSC_8636.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.8657
+roi_0222,DSC_8636.JPG,Papaver alpinum L.,Papaver,high_confidence_local,high,TIER_1_HIGH,0.9263
+roi_0223,DSC_8636.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.5274
+roi_0224,DSC_8636.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.4244
+roi_0225,DSC_8636.JPG,Lamium purpureum L.,Lamium,high_confidence_local,high,TIER_1_HIGH,0.9495
+roi_0226,DSC_8637.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.6044
+roi_0227,DSC_8637.JPG,Papaver alpinum L.,Papaver,good_confidence_local,high,TIER_2_GOOD,0.723
+roi_0228,DSC_8637.JPG,Papaver sp. (uncertain),Papaver,local_uncertain,low,TIER_4_LOW,0.3467
+roi_0229,DSC_8637.JPG,Papaver alpinum L.,Papaver,high_confidence_local,high,TIER_1_HIGH,0.8218
+roi_0230,DSC_8637.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.7864
+roi_0231,DSC_8637.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_4_LOW,0.2948
+roi_0232,DSC_8637.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.6832
+roi_0233,DSC_8637.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.7467
+roi_0235,DSC_8638.JPG,Papaver sp. (uncertain),Papaver,local_uncertain,low,TIER_3_GENUS_OK,0.484
+roi_0236,DSC_8638.JPG,Tradescantia sp. (uncertain),Tradescantia,local_uncertain,low,TIER_3_GENUS_OK,0.5743
+roi_0237,DSC_8638.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.4266
+roi_0238,DSC_8638.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,good_confidence_local,high,TIER_2_GOOD,0.6817
+roi_0239,DSC_8638.JPG,Tradescantia sp. (uncertain),Tradescantia,local_uncertain,low,TIER_4_LOW,0.3303
+roi_0240,DSC_8638.JPG,Cirsium sp. (uncertain),Cirsium,local_uncertain,low,TIER_5_UNRELIABLE,0.1257
+roi_0242,DSC_8638.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.9376
+roi_0244,DSC_8639.JPG,Sedum acre L.,Sedum,good_confidence_local,high,TIER_2_GOOD,0.7257
+roi_0245,DSC_8639.JPG,Trifolium campestre Schreb.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.9448
+roi_0248,DSC_8639.JPG,Cymbalaria sp. (uncertain),Cymbalaria,local_uncertain,low,TIER_4_LOW,0.3194
+roi_0249,DSC_8639.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.917
+roi_0250,DSC_8639.JPG,Papaver sp. (uncertain),Papaver,local_uncertain,low,TIER_5_UNRELIABLE,0.1211
+roi_0251,DSC_8639.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.8473
+roi_0252,DSC_8639.JPG,Lamium amplexicaule L.,Lamium,high_confidence_local,high,TIER_1_HIGH,0.9915
+roi_0253,DSC_8641.JPG,Cymbalaria sp. (uncertain),Cymbalaria,local_uncertain,low,TIER_3_MODERATE,0.5201
+roi_0254,DSC_8642.JPG,Lagenaria sp. (uncertain),Lagenaria,local_uncertain,low,TIER_3_MODERATE,0.456
+roi_0255,DSC_8642.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_4_LOW,0.3969
+roi_0256,DSC_8642.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_4_LOW,0.339
+roi_0257,DSC_8642.JPG,Fragaria sp. (uncertain),Fragaria,local_uncertain,low,TIER_4_LOW,0.3949
+roi_0258,DSC_8643.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.3099
+roi_0259,DSC_8644.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,good_confidence_local,high,TIER_2_GOOD,0.7814
+roi_0262,DSC_8644.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.4427
+roi_0263,DSC_8645.JPG,Trachelospermum sp. (uncertain),Trachelospermum,local_uncertain,low,TIER_3_MODERATE,0.4064
+roi_0264,DSC_8645.JPG,Galega sp. (uncertain),Galega,local_uncertain,low,TIER_3_MODERATE,0.4922
+roi_0265,DSC_8645.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.5997
+roi_0267,DSC_8646.JPG,Cymbalaria sp. (uncertain),Cymbalaria,local_uncertain,low,TIER_4_LOW,0.354
+roi_0268,DSC_8646.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_MODERATE,0.4492
+roi_0269,DSC_8646.JPG,Anemone halleri All.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.7768
+roi_0271,DSC_8647.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_MODERATE,0.4665
+roi_0275,DSC_8648.JPG,Acacia dealbata Link,Acacia,good_confidence_local,high,TIER_2_GOOD,0.6797
+roi_0277,DSC_8650.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_3_MODERATE,0.5107
+roi_0278,DSC_8650.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.5975
+roi_0279,DSC_8650.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.532
+roi_0280,DSC_8650.JPG,Lupinus sp. (uncertain),Lupinus,local_uncertain,low,TIER_4_LOW,0.2315
+roi_0281,DSC_8650.JPG,Hyoscyamus sp. (uncertain),Hyoscyamus,local_uncertain,low,TIER_4_LOW,0.3902
+roi_0283,DSC_8651.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_4_LOW,0.3069
+roi_0285,DSC_8651.JPG,Hyoscyamus albus L.,Hyoscyamus,good_confidence_local,high,TIER_2_GOOD,0.656
+roi_0286,DSC_8651.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_5_UNRELIABLE,0.1587
+roi_0288,DSC_8651.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_MODERATE,0.4035
+roi_0289,DSC_8652.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_MODERATE,0.5299
+roi_0290,DSC_8652.JPG,Trachelospermum sp. (uncertain),Trachelospermum,local_uncertain,low,TIER_4_LOW,0.2493
+roi_0291,DSC_8652.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.5471
+roi_0292,DSC_8652.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.5136
+roi_0293,DSC_8652.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_5_UNRELIABLE,0.0293
+roi_0294,DSC_8654.JPG,Ophrys sp. (uncertain),Ophrys,local_uncertain,low,TIER_5_UNRELIABLE,0.0864
+roi_0295,DSC_8654.JPG,Trachelospermum sp. (uncertain),Trachelospermum,local_uncertain,low,TIER_3_MODERATE,0.4086
+roi_0296,DSC_8654.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_5_UNRELIABLE,0.1115
+roi_0297,DSC_8654.JPG,Lamium galeobdolon (L.) L.,Lamium,good_confidence_local,high,TIER_2_GOOD,0.7105
+roi_0298,DSC_8654.JPG,Hyoscyamus sp. (uncertain),Hyoscyamus,local_uncertain,low,TIER_4_LOW,0.2538
+roi_0300,DSC_8654.JPG,Lamium galeobdolon (L.) L.,Lamium,good_confidence_local,high,TIER_2_GOOD,0.7307
+roi_0301,DSC_8654.JPG,Hyoscyamus albus L.,Hyoscyamus,high_confidence_local,high,TIER_1_HIGH,0.8303
+roi_0303,DSC_8657.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.751
+roi_0304,DSC_8658.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_4_LOW,0.2866
+roi_0305,DSC_8658.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.8194
+roi_0306,DSC_8661.JPG,Lavandula angustifolia Mill.,Lavandula,high_confidence_local,high,TIER_1_HIGH,0.8739
+roi_0307,DSC_8661.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.2204
+roi_0308,DSC_8661.JPG,Dalea purpurea Vent.,Dalea,good_confidence_local,high,TIER_2_GOOD,0.6741
+roi_0309,DSC_8661.JPG,Lavandula angustifolia Mill.,Lavandula,high_confidence_local,high,TIER_1_HIGH,0.9675
+roi_0310,DSC_8661.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_5_UNRELIABLE,0.1026
+roi_0311,DSC_8661.JPG,Dalea sp. (uncertain),Dalea,local_uncertain,low,TIER_4_LOW,0.2008
+roi_0312,DSC_8711.JPG,Trifolium dubium Sibth.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.9563
+roi_0313,DSC_8711.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_4_LOW,0.2207
+roi_0314,DSC_8747.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_MODERATE,0.5439
+roi_0315,DSC_8747.JPG,Trifolium campestre Schreb.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.9896
+roi_0316,DSC_8747.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_GENUS_OK,0.432
+roi_0317,DSC_8747.JPG,Trifolium campestre Schreb.,Trifolium,good_confidence_local,high,TIER_2_GOOD,0.646
+roi_0318,DSC_8907.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_5_UNRELIABLE,0.1339
+roi_0319,DSC_8908.JPG,Pelargonium sp. (uncertain),Pelargonium,local_uncertain,low,TIER_4_LOW,0.2421
+roi_0320,DSC_8908.JPG,Daphne mezereum L.,Daphne,good_confidence_local,high,TIER_2_GOOD,0.6738
+roi_0321,DSC_8908.JPG,Pyracantha sp. (uncertain),Pyracantha,local_uncertain,low,TIER_3_MODERATE,0.421
+roi_0322,DSC_8908.JPG,Barbarea vulgaris R.Br.,Barbarea,high_confidence_local,high,TIER_1_HIGH,0.8989
+roi_0323,DSC_8908.JPG,Barbarea verna (Mill.) Asch.,Barbarea,good_confidence_local,high,TIER_2_GOOD,0.6804
+roi_0324,DSC_8908.JPG,Smilax sp. (uncertain),Smilax,local_uncertain,low,TIER_4_LOW,0.2259
+roi_0325,DSC_8909.JPG,Sedum acre L.,Sedum,good_confidence_local,high,TIER_2_GOOD,0.7166
+roi_0326,DSC_8909.JPG,Hippophae sp. (uncertain),Hippophae,local_uncertain,low,TIER_4_LOW,0.2086
+roi_0327,DSC_8909.JPG,Sedum acre L.,Sedum,good_confidence_local,high,TIER_2_GOOD,0.6533
+roi_0328,DSC_8910.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_GENUS_OK,0.5115
+roi_0329,DSC_8910.JPG,Holodiscus sp. (uncertain),Holodiscus,local_uncertain,low,TIER_4_LOW,0.249
+roi_0330,DSC_8915.JPG,Lactuca sp. (uncertain),Lactuca,local_uncertain,low,TIER_3_MODERATE,0.5262
+roi_0332,DSC_8916.JPG,Tradescantia sp. (uncertain),Tradescantia,local_uncertain,low,TIER_4_LOW,0.2667
+roi_0333,DSC_8916.JPG,Daphne gnidium L.,Daphne,good_confidence_local,high,TIER_2_GOOD,0.6029
+roi_0334,DSC_8916.JPG,Trifolium campestre Schreb.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.8966
+roi_0335,DSC_8916.JPG,Melilotus sp. (uncertain),Melilotus,local_uncertain,low,TIER_5_UNRELIABLE,0.1448
+roi_0336,DSC_8917.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.3857
+roi_0337,DSC_8917.JPG,Tradescantia sp. (uncertain),Tradescantia,local_uncertain,low,TIER_3_MODERATE,0.4922
+roi_0340,DSC_8918.JPG,Neotinea sp. (uncertain),Neotinea,local_uncertain,low,TIER_4_LOW,0.2996
+roi_0341,DSC_8918.JPG,Tradescantia sp. (uncertain),Tradescantia,local_uncertain,low,TIER_3_MODERATE,0.4236
+roi_0342,DSC_8918.JPG,Neotinea sp. (uncertain),Neotinea,local_uncertain,low,TIER_3_MODERATE,0.4895
+roi_0343,DSC_8920.JPG,Melilotus albus Medik.,Melilotus,good_confidence_local,high,TIER_2_GOOD,0.6268
+roi_0353,DSC_8924.JPG,Punica sp. (uncertain),Punica,local_uncertain,low,TIER_4_LOW,0.2912
+roi_0354,DSC_8924.JPG,Anthericum sp. (uncertain),Anthericum,local_uncertain,low,TIER_3_MODERATE,0.5183
+roi_0355,DSC_8926.JPG,Fragaria sp. (uncertain),Fragaria,local_uncertain,low,TIER_3_MODERATE,0.5752
+roi_0356,DSC_8926.JPG,Eritrichium nanum (L.) Schrad. ex Gaudin,Eritrichium,good_confidence_local,high,TIER_2_GOOD,0.681
+roi_0357,DSC_8926.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Cymbalaria,good_confidence_local,high,TIER_2_GOOD,0.7918
+roi_0358,DSC_8926.JPG,Barbarea sp. (uncertain),Barbarea,local_uncertain,low,TIER_4_LOW,0.3386
+roi_0359,DSC_8926.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_MODERATE,0.4269
+roi_0360,DSC_8926.JPG,Hypericum sp. (uncertain),Hypericum,local_uncertain,low,TIER_5_UNRELIABLE,0.1897
+roi_0361,DSC_8927.JPG,Fragaria sp. (uncertain),Fragaria,local_uncertain,low,TIER_4_LOW,0.3044
+roi_0362,DSC_8927.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.5842
+roi_0363,DSC_8927.JPG,Lithodora sp. (uncertain),Lithodora,local_uncertain,low,TIER_3_MODERATE,0.5586
+roi_0364,DSC_8927.JPG,Hackelia sp. (uncertain),Hackelia,local_uncertain,low,TIER_4_LOW,0.2258
+roi_0366,DSC_8928.JPG,Alliaria sp. (uncertain),Alliaria,local_uncertain,low,TIER_5_UNRELIABLE,0.17
+roi_0369,DSC_8929.JPG,Alliaria sp. (uncertain),Alliaria,local_uncertain,low,TIER_4_LOW,0.3945
+roi_0370,DSC_8929.JPG,Honckenya sp. (uncertain),Honckenya,local_uncertain,low,TIER_5_UNRELIABLE,0.1131
+roi_0372,DSC_8929.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_5_UNRELIABLE,0.1863
+roi_0373,DSC_8930.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_MODERATE,0.4521
+roi_0377,DSC_8931.JPG,Sagittaria sp. (uncertain),Sagittaria,local_uncertain,low,TIER_3_MODERATE,0.4072
+roi_0378,DSC_8931.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.3419
+roi_0380,DSC_8931.JPG,Hypericum sp. (uncertain),Hypericum,local_uncertain,low,TIER_5_UNRELIABLE,0.0662
+roi_0381,DSC_8931.JPG,Lavandula sp. (uncertain),Lavandula,local_uncertain,low,TIER_4_LOW,0.252
+roi_0382,DSC_8931.JPG,Hypericum sp. (uncertain),Hypericum,local_uncertain,low,TIER_3_MODERATE,0.5134
+roi_0384,DSC_8931.JPG,Limbarda crithmoides (L.) Dumort.,Limbarda,high_confidence_local,high,TIER_1_HIGH,0.9765
+roi_0385,DSC_8931.JPG,Limbarda crithmoides (L.) Dumort.,Limbarda,high_confidence_local,high,TIER_1_HIGH,0.8459
+roi_0386,DSC_8932.JPG,Melilotus sp. (uncertain),Melilotus,local_uncertain,low,TIER_4_LOW,0.2221
+roi_0387,DSC_8932.JPG,Cenchrus setaceus (Forssk.) Morrone,Cenchrus,high_confidence_local,high,TIER_1_HIGH,0.9204
+roi_0388,DSC_8932.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_MODERATE,0.4122
+roi_0389,DSC_8934.JPG,Daphne cneorum L.,Daphne,high_confidence_local,high,TIER_1_HIGH,0.9971
+roi_0390,DSC_8934.JPG,Daphne cneorum L.,Daphne,high_confidence_local,high,TIER_1_HIGH,0.8993
+roi_0391,DSC_8934.JPG,Centranthus sp. (uncertain),Centranthus,local_uncertain,low,TIER_3_MODERATE,0.5529
+roi_0392,DSC_8936.JPG,Daphne cneorum L.,Daphne,high_confidence_local,high,TIER_1_HIGH,0.8843
+roi_0393,DSC_8936.JPG,Barbarea sp. (uncertain),Barbarea,local_uncertain,low,TIER_4_LOW,0.3518
+roi_0394,DSC_8936.JPG,Anemone pulsatilla L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.7842
+roi_0395,DSC_8938.JPG,Daphne cneorum L.,Daphne,high_confidence_local,high,TIER_1_HIGH,0.9487
+roi_0396,DSC_8938.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.9541
+roi_0397,DSC_8938.JPG,Anemone pulsatilla L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.9114
+roi_0398,DSC_8940.JPG,Punica granatum L.,Punica,high_confidence_local,high,TIER_1_HIGH,0.908
+roi_0399,DSC_8940.JPG,Trifolium alpinum L.,Trifolium,good_confidence_local,high,TIER_2_GOOD,0.6486
+roi_0400,DSC_8940.JPG,Trifolium alpinum L.,Trifolium,good_confidence_local,high,TIER_2_GOOD,0.7151
+roi_0401,DSC_8940.JPG,Noccaea sp. (uncertain),Noccaea,local_uncertain,low,TIER_3_MODERATE,0.4716
+roi_0402,DSC_8942.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_3_MODERATE,0.4003
+roi_0403,DSC_8942.JPG,Trifolium alpinum L.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.8239
+roi_0404,DSC_8942.JPG,Daphne mezereum L.,Daphne,high_confidence_local,high,TIER_1_HIGH,0.8039
+roi_0405,DSC_8942.JPG,Hebe sp. (uncertain),Hebe,local_uncertain,low,TIER_3_MODERATE,0.4007
+roi_0406,DSC_8943.JPG,Lupinus arboreus Sims,Lupinus,high_confidence_local,high,TIER_1_HIGH,0.8852
+roi_0407,DSC_8943.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_GENUS_OK,0.556
+roi_0408,DSC_8943.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_4_LOW,0.3199
+roi_0409,DSC_8943.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.4218
+roi_0410,DSC_8943.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_GENUS_OK,0.4114
+roi_0411,DSC_8943.JPG,Anemone vernalis L.,Anemone,good_confidence_local,high,TIER_2_GOOD,0.6012
+roi_0415,DSC_8944.JPG,Dryas sp. (uncertain),Dryas,local_uncertain,low,TIER_4_LOW,0.2895
+roi_0416,DSC_8945.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_3_MODERATE,0.4462
+roi_0419,DSC_8945.JPG,Centranthus ruber (L.) DC.,Centranthus,good_confidence_local,high,TIER_2_GOOD,0.6767
+roi_0420,DSC_8946.JPG,Hebe sp. (uncertain),Hebe,local_uncertain,low,TIER_4_LOW,0.3255
+roi_0421,DSC_8946.JPG,Centranthus sp. (uncertain),Centranthus,local_uncertain,low,TIER_3_MODERATE,0.5639
+roi_0422,DSC_8946.JPG,Lupinus sp. (uncertain),Lupinus,local_uncertain,low,TIER_4_LOW,0.207
+roi_0424,DSC_8947.JPG,Lupinus sp. (uncertain),Lupinus,local_uncertain,low,TIER_3_GENUS_OK,0.5471
+roi_0425,DSC_8948.JPG,Petiveria sp. (uncertain),Petiveria,local_uncertain,low,TIER_4_LOW,0.229
+roi_0426,DSC_8948.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_4_LOW,0.2225
+roi_0427,DSC_8948.JPG,Barbarea sp. (uncertain),Barbarea,local_uncertain,low,TIER_4_LOW,0.3023
+roi_0428,DSC_8949.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_5_UNRELIABLE,0.1614
+roi_0433,DSC_8954.JPG,Daphne laureola L.,Daphne,high_confidence_local,high,TIER_1_HIGH,0.8726
+roi_0434,DSC_8955.JPG,Barbarea sp. (uncertain),Barbarea,local_uncertain,low,TIER_5_UNRELIABLE,0.1965
+roi_0437,DSC_8956.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_4_LOW,0.3196
+roi_0439,DSC_8957.JPG,Barbarea vulgaris R.Br.,Barbarea,good_confidence_local,high,TIER_2_GOOD,0.6807
+roi_0442,DSC_8958.JPG,Elodea sp. (uncertain),Elodea,local_uncertain,low,TIER_4_LOW,0.3956
+roi_0443,DSC_8958.JPG,Elodea canadensis Michx.,Elodea,high_confidence_local,high,TIER_1_HIGH,0.9115
+roi_0444,DSC_8958.JPG,Aralia sp. (uncertain),Aralia,local_uncertain,low,TIER_3_MODERATE,0.4922
+roi_0445,DSC_8958.JPG,Limbarda crithmoides (L.) Dumort.,Limbarda,high_confidence_local,high,TIER_1_HIGH,0.9263
+roi_0446,DSC_8958.JPG,Elodea sp. (uncertain),Elodea,local_uncertain,low,TIER_4_LOW,0.2807
+roi_0448,DSC_8958.JPG,Astydamia sp. (uncertain),Astydamia,local_uncertain,low,TIER_5_UNRELIABLE,0.1656
+roi_0449,DSC_8962.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.3975
+roi_0450,DSC_8962.JPG,Pancratium maritimum L.,Pancratium,high_confidence_local,high,TIER_1_HIGH,0.9491
+roi_0451,DSC_8962.JPG,Pancratium maritimum L.,Pancratium,high_confidence_local,high,TIER_1_HIGH,0.9004
+roi_0452,DSC_8963.JPG,Diervilla sp. (uncertain),Diervilla,local_uncertain,low,TIER_4_LOW,0.2108
+roi_0453,DSC_8963.JPG,Elodea sp. (uncertain),Elodea,local_uncertain,low,TIER_5_UNRELIABLE,0.1754
+roi_0456,DSC_8964.JPG,Phedimus spurius (M.Bieb) 't Hart,Phedimus,good_confidence_local,high,TIER_2_GOOD,0.7104
+roi_0457,DSC_8964.JPG,Lavandula sp. (uncertain),Lavandula,local_uncertain,low,TIER_4_LOW,0.3333
+roi_0463,DSC_8967.JPG,Trifolium dubium Sibth.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.9216
+roi_0465,DSC_8969.JPG,Trifolium alpinum L.,Trifolium,high_confidence_local,high,TIER_1_HIGH,0.8132
+roi_0468,DSC_8971.JPG,Trachelospermum jasminoides (Lindl.) Lem.,Trachelospermum,high_confidence_local,high,TIER_1_HIGH,0.9928
+roi_0470,DSC_8971.JPG,Alliaria sp. (uncertain),Alliaria,local_uncertain,low,TIER_4_LOW,0.2748
+roi_0474,DSC_8972.JPG,Honckenya sp. (uncertain),Honckenya,local_uncertain,low,TIER_5_UNRELIABLE,0.1292
+roi_0476,DSC_8976.JPG,Dierama sp. (uncertain),Dierama,local_uncertain,low,TIER_4_LOW,0.3019
+roi_0478,DSC_8977.JPG,Centranthus ruber (L.) DC.,Centranthus,high_confidence_local,high,TIER_1_HIGH,0.8752
+roi_0479,DSC_8978.JPG,Lithodora sp. (uncertain),Lithodora,local_uncertain,low,TIER_3_MODERATE,0.4245
+roi_0480,DSC_8978.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora,high_confidence_local,high,TIER_1_HIGH,0.8625
+roi_0481,DSC_8978.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_4_LOW,0.2095
+roi_0482,DSC_8978.JPG,Eritrichium nanum (L.) Schrad. ex Gaudin,Eritrichium,high_confidence_local,high,TIER_1_HIGH,0.9308
+roi_0483,DSC_8979.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_3_MODERATE,0.4166
+roi_0484,DSC_8979.JPG,Lapsana sp. (uncertain),Lapsana,local_uncertain,low,TIER_3_MODERATE,0.5729
+roi_0485,DSC_8979.JPG,Lithodora sp. (uncertain),Lithodora,local_uncertain,low,TIER_4_LOW,0.3123
+roi_0486,DSC_8979.JPG,Hypericum perforatum L.,Hypericum,good_confidence_local,high,TIER_2_GOOD,0.6554
+roi_0487,DSC_8979.JPG,Cymbalaria sp. (uncertain),Cymbalaria,local_uncertain,low,TIER_3_MODERATE,0.5602
+roi_0494,DSC_9089.jpg,Trachelospermum jasminoides (Lindl.) Lem.,Trachelospermum,good_confidence_local,high,TIER_2_GOOD,0.7931
+roi_0497,DSC_9089.jpg,Anthericum ramosum L.,Anthericum,good_confidence_local,high,TIER_2_GOOD,0.6644
+roi_0499,DSC_9090.jpg,Moehringia sp. (uncertain),Moehringia,local_uncertain,low,TIER_3_MODERATE,0.4665
+roi_0500,DSC_9090.jpg,Trachelospermum sp. (uncertain),Trachelospermum,local_uncertain,low,TIER_4_LOW,0.254
+roi_0504,DSC_9468.JPG,Angelica sp. (uncertain),Angelica,local_uncertain,low,TIER_3_GENUS_OK,0.5444
+roi_0505,DSC_9468.JPG,Pyracantha sp. (uncertain),Pyracantha,local_uncertain,low,TIER_4_LOW,0.3866
+roi_0506,DSC_9468.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_4_LOW,0.3152
+roi_0507,DSC_9468.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_3_MODERATE,0.4937
+roi_0508,DSC_9468.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_5_UNRELIABLE,0.1585
+roi_0509,DSC_9638.JPG,Viscaria vulgaris Bernh.,Viscaria,good_confidence_local,high,TIER_2_GOOD,0.6811
+roi_0510,DSC_9638.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.2884
+roi_0511,DSC_9652.JPG,Petiveria alliacea L.,Petiveria,good_confidence_local,high,TIER_2_GOOD,0.7807
+roi_0512,DSC_9652.JPG,Liriodendron sp. (uncertain),Liriodendron,local_uncertain,low,TIER_5_UNRELIABLE,0.1457
+roi_0513,DSC_9652.JPG,Pereskia sp. (uncertain),Pereskia,local_uncertain,low,TIER_5_UNRELIABLE,0.1794
+roi_0514,DSC_9652.JPG,Liriodendron sp. (uncertain),Liriodendron,local_uncertain,low,TIER_4_LOW,0.3192
+roi_0515,DSC_9652.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_4_LOW,0.2414
+roi_0516,DSC_9652.JPG,Zamioculcas sp. (uncertain),Zamioculcas,local_uncertain,low,TIER_4_LOW,0.3593
+roi_0517,E. heracleoides.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_MODERATE,0.4857
+roi_0518,E. heracleoides.JPG,Centranthus sp. (uncertain),Centranthus,local_uncertain,low,TIER_4_LOW,0.3885
+roi_0519,E. heracleoides.JPG,Angelica sp. (uncertain),Angelica,local_uncertain,low,TIER_5_UNRELIABLE,0.152
+roi_0520,E. heracleoides.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_MODERATE,0.4621
+roi_0521,E. heracleoides.JPG,Chaerophyllum sp. (uncertain),Chaerophyllum,local_uncertain,low,TIER_4_LOW,0.2353
+roi_0523,E. heracleoides.JPG,Dryopteris sp. (uncertain),Dryopteris,local_uncertain,low,TIER_4_LOW,0.2106
+roi_0524,E. heracleoides.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_MODERATE,0.5151
+roi_0525,E. heracleoides.JPG,Chaerophyllum sp. (uncertain),Chaerophyllum,local_uncertain,low,TIER_3_MODERATE,0.4677
+roi_0526,E. umbellatum var. stellatum-1.JPG,Acacia sp. (uncertain),Acacia,local_uncertain,low,TIER_4_LOW,0.2676
+roi_0527,E. umbellatum var. stellatum-1.JPG,Acacia sp. (uncertain),Acacia,local_uncertain,low,TIER_5_UNRELIABLE,0.1629
+roi_0528,E. umbellatum var. stellatum-1.JPG,Melilotus sp. (uncertain),Melilotus,local_uncertain,low,TIER_4_LOW,0.2686
+roi_0529,E. umbellatum var. stellatum-1.JPG,Angelica sp. (uncertain),Angelica,local_uncertain,low,TIER_5_UNRELIABLE,0.1682
+roi_0530,E. umbellatum var. stellatum-2.JPG,Hypericum sp. (uncertain),Hypericum,local_uncertain,low,TIER_3_MODERATE,0.4472
+roi_0536,E. umbellatum var. stellatum[2].JPG,Meum sp. (uncertain),Meum,local_uncertain,low,TIER_3_MODERATE,0.4179
+roi_0537,E. umbellatum var. stellatum[2].JPG,Angelica sp. (uncertain),Angelica,local_uncertain,low,TIER_3_MODERATE,0.5989
+roi_0538,E. umbellatumvar.bahiiforme(1).JPG,Dryopteris sp. (uncertain),Dryopteris,local_uncertain,low,TIER_4_LOW,0.3921
+roi_0539,E. umbellatumvar.bahiiforme(1).JPG,Barbarea sp. (uncertain),Barbarea,local_uncertain,low,TIER_4_LOW,0.3444
+roi_0540,E. umbellatumvar.bahiiforme(2).JPG,Angelica sp. (uncertain),Angelica,local_uncertain,low,TIER_5_UNRELIABLE,0.1179
+roi_0542,E.umbellatum var. bahiiforme.JPG,Sedum kamtschaticum Fisch. & C.A.Mey.,Sedum,good_confidence_local,high,TIER_2_GOOD,0.6632
+roi_0543,E.umbellatum var. bahiiforme.JPG,Angelica archangelica L.,Angelica,high_confidence_local,high,TIER_1_HIGH,0.8508
+roi_0544,E.umbellatum var. bahiiforme.JPG,Angelica sp. (uncertain),Angelica,local_uncertain,low,TIER_3_MODERATE,0.4922
+roi_0545,E.umbellatum var.stellatum(bendras vaizdas)-4.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_3_MODERATE,0.5539
+roi_0546,E.umbellatum var.stellatum(bendras vaizdas)-4.JPG,Freesia sp. (uncertain),Freesia,local_uncertain,low,TIER_5_UNRELIABLE,0.1043
+roi_0547,IMGP3799.jpg,Sagittaria sp. (uncertain),Sagittaria,local_uncertain,low,TIER_3_MODERATE,0.5364
+roi_0559,P3240023.JPG m.jpg,Limbarda sp. (uncertain),Limbarda,local_uncertain,low,TIER_4_LOW,0.2755
+roi_0560,P3240023.JPG m.jpg,Berula sp. (uncertain),Berula,local_uncertain,low,TIER_3_MODERATE,0.495
+roi_0561,P3240048.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_3_GENUS_OK,0.469
+roi_0562,P3240048.JPG,Dryopteris filix-mas (L.) Schott,Dryopteris,good_confidence_local,high,TIER_2_GOOD,0.6935
+roi_0563,P3240048.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.4144
+roi_0564,P3240048.JPG,Casuarina sp. (uncertain),Casuarina,local_uncertain,low,TIER_3_MODERATE,0.5139
+roi_0566,P4240127-2.JPG,Tradescantia sp. (uncertain),Tradescantia,local_uncertain,low,TIER_3_GENUS_OK,0.5259
+roi_0568,P4240127-2.JPG,Acacia sp. (uncertain),Acacia,local_uncertain,low,TIER_4_LOW,0.3586
+roi_0570,P4240129-2.JPG,Cirsium sp. (uncertain),Cirsium,local_uncertain,low,TIER_4_LOW,0.3887
+roi_0571,P4240129-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.3879
+roi_0572,P4240129-2.JPG,Cirsium vulgare (Savi) Ten.,Cirsium,high_confidence_local,high,TIER_1_HIGH,0.8205
+roi_0573,P4240135-2.JPG,Lagenaria sp. (uncertain),Lagenaria,local_uncertain,low,TIER_5_UNRELIABLE,0.1394
+roi_0575,P4240139-2.JPG,Ophrys sp. (uncertain),Ophrys,local_uncertain,low,TIER_3_MODERATE,0.4329
+roi_0577,P4240139-2.JPG,Papaver sp. (uncertain),Papaver,local_uncertain,low,TIER_3_MODERATE,0.4219
+roi_0579,P4240142-2.JPG,Moehringia trinervia (L.) Clairv.,Moehringia,good_confidence_local,high,TIER_2_GOOD,0.623
+roi_0580,P4240148-2.JPG,Hypericum sp. (uncertain),Hypericum,local_uncertain,low,TIER_4_LOW,0.3699
+roi_0581,P4240150-2.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_4_LOW,0.3746
+roi_0583,P4240150-2.JPG,Anemone nemorosa L.,Anemone,high_confidence_local,high,TIER_1_HIGH,0.8101
+roi_0584,P4240151-2.JPG,Helminthotheca sp. (uncertain),Helminthotheca,local_uncertain,low,TIER_3_MODERATE,0.4513
+roi_0586,P4240160-2.JPG,Oncostema sp. (uncertain),Oncostema,local_uncertain,low,TIER_4_LOW,0.3279
+roi_0587,P4240164-2.JPG,Tradescantia virginiana L.,Tradescantia,good_confidence_local,high,TIER_2_GOOD,0.6455
+roi_0589,P4240168-2.JPG,Lamium purpureum L.,Lamium,high_confidence_local,high,TIER_1_HIGH,0.9154
+roi_0590,P4240168-2.JPG,Lamium purpureum L.,Lamium,good_confidence_local,high,TIER_2_GOOD,0.6225
+roi_0591,P4240168-2.JPG,Cyphostemma sp. (uncertain),Cyphostemma,local_uncertain,low,TIER_4_LOW,0.3633
+roi_0592,P4240168-2.JPG,Mercurialis perennis L.,Mercurialis,high_confidence_local,high,TIER_1_HIGH,0.8106
+roi_0593,P4240168-2.JPG,Mercurialis sp. (uncertain),Mercurialis,local_uncertain,low,TIER_4_LOW,0.3499
+roi_0595,P4240169-2.JPG,Sedum sediforme (Jacq.) Pau,Sedum,high_confidence_local,high,TIER_1_HIGH,0.9069
+roi_0597,P4240172-2.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_4_LOW,0.2616
+roi_0598,P4240177-2.JPG,Thapsia villosa L.,Thapsia,good_confidence_local,high,TIER_2_GOOD,0.6816
+roi_0600,P4260001-2.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_5_UNRELIABLE,0.1877
+roi_0602,P4260002-2.JPG,Lupinus luteus L.,Lupinus,good_confidence_local,high,TIER_2_GOOD,0.6405
+roi_0604,P4260005-2.JPG,Tagetes erecta L.,Tagetes,good_confidence_local,high,TIER_2_GOOD,0.7975
+roi_0606,P4260007-2.JPG,Cirsium sp. (uncertain),Cirsium,local_uncertain,low,TIER_4_LOW,0.3746
+roi_0608,P4260009-2(S).JPG,Strongylodon sp. (uncertain),Strongylodon,local_uncertain,low,TIER_4_LOW,0.2798
+roi_0609,P4260010-2.JPG,Helminthotheca echioides (L.) Holub,Helminthotheca,high_confidence_local,high,TIER_1_HIGH,0.8943
+roi_0611,P4260013-2.JPG,Melilotus albus Medik.,Melilotus,high_confidence_local,high,TIER_1_HIGH,0.9543
+roi_0612,P4260013-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.3457
+roi_0613,P4260013-2.JPG,Phedimus aizoon (L.) 't Hart,Phedimus,good_confidence_local,high,TIER_2_GOOD,0.601
+roi_0614,P4260013-2.JPG,Phedimus spurius (M.Bieb) 't Hart,Phedimus,high_confidence_local,high,TIER_1_HIGH,0.9257
+roi_0615,P4260017-2.JPG,Cyanotis sp. (uncertain),Cyanotis,local_uncertain,low,TIER_3_MODERATE,0.4647
+roi_0616,P4260017-2.JPG,Smilax sp. (uncertain),Smilax,local_uncertain,low,TIER_5_UNRELIABLE,0.1191
+roi_0620,P4260022-2.JPG,Daucus sp. (uncertain),Daucus,local_uncertain,low,TIER_4_LOW,0.3298
+roi_0622,P4260024-2.JPG,Tagetes sp. (uncertain),Tagetes,local_uncertain,low,TIER_5_UNRELIABLE,0.1671
+roi_0624,P4260027-2.JPG,Cobaea sp. (uncertain),Cobaea,local_uncertain,low,TIER_4_LOW,0.2544
+roi_0626,P4260029-2.JPG,Neolamarckia sp. (uncertain),Neolamarckia,local_uncertain,low,TIER_4_LOW,0.3757
+roi_0628,P4260031-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_5_UNRELIABLE,0.0468
+roi_0629,P4260031-2.JPG,Cirsium sp. (uncertain),Cirsium,local_uncertain,low,TIER_4_LOW,0.3798
+roi_0630,P4260031-2.JPG,Cirsium vulgare (Savi) Ten.,Cirsium,high_confidence_local,high,TIER_1_HIGH,0.9309
+roi_0631,P4260034-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.2898
+roi_0632,P4260034-2.JPG,Anemone sp. (uncertain),Anemone,local_uncertain,low,TIER_4_LOW,0.3992
+roi_0634,P4260035-2.JPG,Hebe sp. (uncertain),Hebe,local_uncertain,low,TIER_3_GENUS_OK,0.497
+roi_0635,P4260035-2.JPG,Honckenya peploides (L.) Ehrh.,Honckenya,high_confidence_local,high,TIER_1_HIGH,0.9375
+roi_0637,P4260046-2(S).JPG,Cirsium sp. (uncertain),Cirsium,local_uncertain,low,TIER_4_LOW,0.3591
+roi_0638,P4260050-2.JPG,Mercurialis sp. (uncertain),Mercurialis,local_uncertain,low,TIER_4_LOW,0.206
+roi_0641,P4260053-2.JPG,Sedum sp. (uncertain),Sedum,local_uncertain,low,TIER_4_LOW,0.3097
+roi_0643,P4260057-2.JPG,Honckenya peploides (L.) Ehrh.,Honckenya,good_confidence_local,high,TIER_2_GOOD,0.6212
+roi_0644,P4260062-2.JPG,Moehringia sp. (uncertain),Moehringia,local_uncertain,low,TIER_5_UNRELIABLE,0.1522
+roi_0645,P4260062-2.JPG,Bocoa sp. (uncertain),Bocoa,local_uncertain,low,TIER_3_MODERATE,0.4975
+roi_0646,P4260062-2.JPG,Thesium sp. (uncertain),Thesium,local_uncertain,low,TIER_3_MODERATE,0.4077
+roi_0647,P4260062-2.JPG,Daphne sp. (uncertain),Daphne,local_uncertain,low,TIER_4_LOW,0.2291
+roi_0650,P4260063-2.JPG,Alocasia sanderiana W.Bull,Alocasia,good_confidence_local,high,TIER_2_GOOD,0.6894
+roi_0651,P4260067-2.JPG,Lamium sp. (uncertain),Lamium,local_uncertain,low,TIER_3_MODERATE,0.4017
+roi_0652,P4260067-2.JPG,Smilax sp. (uncertain),Smilax,local_uncertain,low,TIER_4_LOW,0.3109
+roi_0653,P4260067-2.JPG,Trifolium sp. (uncertain),Trifolium,local_uncertain,low,TIER_4_LOW,0.3415

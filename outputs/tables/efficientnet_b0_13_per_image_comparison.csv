@@ -1,0 +1,71 @@
+image,true_species,full_image_pred,full_image_conf,full_image_correct,roi_pred,roi_conf,roi_correct
+Albaninė Šilagėlė.JPG,Anemone alpina L.,Anemone alpina L.,0.649,True,Anemone alpina L.,0.5956,True
+DSCF1441-2.JPG,Trifolium pratense L.,Trifolium pratense L.,0.5591,True,Trifolium pratense L.,0.9665,True
+DSCF1487-2.JPG,Calycanthus floridus L.,Calycanthus floridus L.,0.65,True,Calycanthus floridus L.,0.9041,True
+DSCF1504-2.JPG,Punica granatum L.,Punica granatum L.,0.9642,True,Punica granatum L.,0.9737,True
+DSCF1532-2.JPG,Punica granatum L.,Punica granatum L.,0.1808,True,Punica granatum L.,0.7939,True
+DSCF1563-2.JPG,Trifolium pratense L.,Hebe salicifolia (G.Forst.) Pennell,0.3413,False,Trachelospermum jasminoides (Lindl.) Lem.,0.4844,False
+DSCF1573-2.JPG,Cobaea scandens Cav.,Cryptostegia madagascariensis Bojer ex Decne.,0.1908,False,Cobaea scandens Cav.,0.8282,True
+DSCF1575-2.JPG,Cobaea scandens Cav.,Hebe salicifolia (G.Forst.) Pennell,0.2574,False,Pereskia grandifolia Haw.,0.102,False
+DSC_5566.JPG,Dalbergia melanoxylon Guill. & Perr.,Papaver alpinum L.,0.239,False,Lavandula angustifolia Mill.,0.2949,False
+DSC_5575.JPG,Acacia baileyana F.Muell.,Papaver alpinum L.,0.1634,False,Sedum morganianum E.Walther,0.5819,False
+DSC_5680.JPG,Humulus lupulus L.,Humulus lupulus L.,0.7308,True,Humulus lupulus L.,0.7473,True
+DSC_5681.JPG,Dryas octopetala L.,Anemone alpina L.,0.2837,False,Hypericum androsaemum L.,0.3581,False
+DSC_5690.JPG,Humulus lupulus L.,Humulus lupulus L.,0.6555,True,Humulus lupulus L.,0.7917,True
+DSC_5691.JPG,Acacia saligna (Labill.) H.L.Wendl.,Limbarda crithmoides (L.) Dumort.,0.5772,False,Acacia saligna (Labill.) H.L.Wendl.,0.7267,True
+DSC_5698.JPG,Lactuca alpina (L.) Benth. & Hook.f.,Lactuca alpina (L.) Benth. & Hook.f.,0.859,True,Lactuca alpina (L.) Benth. & Hook.f.,0.8586,True
+DSC_5703.JPG,Sedum caeruleum L.,Sedum caeruleum L.,0.7539,True,Sedum caeruleum L.,0.7576,True
+DSC_5770.JPG,Sedum acre L.,Sedum acre L.,0.4299,True,Sedum acre L.,0.4287,True
+DSC_5783sds.JPG,Acacia dealbata Link,Acacia dealbata Link,0.773,True,Acacia dealbata Link,0.73,True
+DSC_8394124.JPG,Acacia dealbata Link,Sedum acre L.,0.8179,False,Acacia dealbata Link,0.9855,True
+DSC_8400.JPG,Anemone hepatica L.,Anemone hepatica L.,0.9863,True,Anemone hepatica L.,0.4838,True
+DSC_8404.JPG,Myosoton aquaticum (L.) Moench,Mercurialis annua L.,0.2252,False,Myosoton aquaticum (L.) Moench,0.7282,True
+DSC_8408.JPG,Lavandula stoechas L.,Daphne cneorum L.,0.3624,False,Daphne cneorum L.,0.2826,False
+DSC_8626.JPG,Anemone pulsatilla L.,Anemone pulsatilla L.,0.9862,True,Anemone pulsatilla L.,0.9253,True
+DSC_8630.JPG,Anemone alpina L.,Anemone alpina L.,0.994,True,Phyllanthus phillyreifolius Poir.,0.0713,False
+DSC_8634.JPG,Anemone alpina L.,Anemone alpina L.,0.8475,True,Anemone alpina L.,0.9073,True
+DSC_8635.JPG,Anemone alpina L.,Anemone alpina L.,0.9152,True,Anemone alpina L.,0.1376,True
+DSC_8636.JPG,Anemone vernalis L.,Anemone pulsatilla L.,0.6021,False,Anemone vernalis L.,0.6462,True
+DSC_8637.JPG,Anemone pulsatilla L.,Anemone pulsatilla L.,0.6258,True,Anemone pulsatilla L.,0.6044,True
+DSC_8639.JPG,Sedum acre L.,Anemone pulsatilla L.,0.692,False,Sedum acre L.,0.7257,True
+DSC_8644.JPG,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",Anemone alpina L.,0.5142,False,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",0.7814,True
+DSC_8646.JPG,Anemone halleri All.,Anemone alpina L.,0.6326,False,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",0.354,False
+DSC_8654.JPG,Lamium galeobdolon (L.) L.,Lamium galeobdolon (L.) L.,0.8283,True,Ophrys fusca Link,0.0864,False
+DSC_8657.JPG,Anemone pulsatilla L.,Anemone pulsatilla L.,0.5338,True,Anemone pulsatilla L.,0.751,True
+DSC_8658.JPG,Anemone pulsatilla L.,Anemone pulsatilla L.,0.9788,True,Daucus carota L.,0.2866,False
+DSC_8661.JPG,Lavandula angustifolia Mill.,Lavandula angustifolia Mill.,0.7883,True,Lavandula angustifolia Mill.,0.8739,True
+DSC_8711.JPG,Trifolium dubium Sibth.,Sedum acre L.,0.3336,False,Trifolium dubium Sibth.,0.9563,True
+DSC_8747.JPG,Trifolium campestre Schreb.,Trifolium dubium Sibth.,0.2096,False,Trifolium campestre Schreb.,0.5439,True
+DSC_8908.JPG,Daphne mezereum L.,Barbarea vulgaris R.Br.,0.5492,False,Pelargonium inquinans (L.) Aiton,0.2421,False
+DSC_8909.JPG,Sedum acre L.,Nymphaea alba L.,0.5617,False,Sedum acre L.,0.7166,True
+DSC_8920.JPG,Melilotus albus Medik.,Phalaris canariensis L.,0.7168,False,Melilotus albus Medik.,0.6268,True
+DSC_8926.JPG,Eritrichium nanum (L.) Schrad. ex Gaudin,"Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",0.8793,False,Fragaria vesca L.,0.5752,False
+DSC_8931.JPG,Limbarda crithmoides (L.) Dumort.,Pyracantha coccinea M.Roem.,0.2572,False,Sagittaria sagittifolia L.,0.4072,False
+DSC_8932.JPG,Cenchrus setaceus (Forssk.) Morrone,Nymphoides peltata (S.G.Gmel.) Kuntze,0.2602,False,Melilotus officinalis (L.) Lam.,0.2221,False
+DSC_8934.JPG,Daphne cneorum L.,Daphne cneorum L.,0.9041,True,Daphne cneorum L.,0.9971,True
+DSC_8936.JPG,Daphne cneorum L.,Daphne cneorum L.,0.3264,True,Daphne cneorum L.,0.8843,True
+DSC_8938.JPG,Daphne cneorum L.,Daphne cneorum L.,0.9446,True,Daphne cneorum L.,0.9487,True
+DSC_8940.JPG,Punica granatum L.,Noccaea rotundifolia (L.) Moench,0.3793,False,Punica granatum L.,0.908,True
+DSC_8942.JPG,Trifolium alpinum L.,Hebe brachysiphon Summerh.,0.1996,False,Daphne mezereum L.,0.4003,False
+DSC_8943.JPG,Lupinus arboreus Sims,Papaver alpinum L.,0.1551,False,Lupinus arboreus Sims,0.8852,True
+DSC_8945.JPG,Centranthus ruber (L.) DC.,Lithodora fruticosa (L.) Griseb.,0.8841,False,Daphne mezereum L.,0.4462,False
+DSC_8958.JPG,Elodea canadensis Michx.,Sedum sediforme (Jacq.) Pau,0.2607,False,Elodea canadensis Michx.,0.3956,True
+DSC_8962.JPG,Pancratium maritimum L.,Pancratium maritimum L.,0.857,True,Daphne laureola L.,0.3975,False
+DSC_8964.JPG,Phedimus spurius (M.Bieb) 't Hart,Nymphoides peltata (S.G.Gmel.) Kuntze,0.2054,False,Phedimus spurius (M.Bieb) 't Hart,0.7104,True
+DSC_8971.JPG,Trachelospermum jasminoides (Lindl.) Lem.,Anemone narcissiflora L.,0.336,False,Trachelospermum jasminoides (Lindl.) Lem.,0.9928,True
+DSC_8978.JPG,Lithodora fruticosa (L.) Griseb.,Lithodora fruticosa (L.) Griseb.,0.7697,True,Lithodora fruticosa (L.) Griseb.,0.4245,True
+DSC_8979.JPG,Hypericum perforatum L.,Sedum acre L.,0.4255,False,Trifolium dubium Sibth.,0.4166,False
+DSC_9638.JPG,Viscaria vulgaris Bernh.,Daphne mezereum L.,0.2874,False,Viscaria vulgaris Bernh.,0.6811,True
+DSC_9652.JPG,Petiveria alliacea L.,Calendula officinalis L.,0.2742,False,Petiveria alliacea L.,0.7807,True
+E.umbellatum var. bahiiforme.JPG,Sedum kamtschaticum Fisch. & C.A.Mey.,Barbarea vulgaris R.Br.,0.6379,False,Sedum kamtschaticum Fisch. & C.A.Mey.,0.6632,True
+P3240048.JPG,Dryopteris filix-mas (L.) Schott,Anemone coronaria L.,0.9028,False,Anemone coronaria L.,0.469,False
+P4240129-2.JPG,Cirsium vulgare (Savi) Ten.,Lamium maculatum (L.) L.,0.5762,False,Cirsium arvense (L.) Scop.,0.3887,False
+P4240142-2.JPG,Moehringia trinervia (L.) Clairv.,Moehringia trinervia (L.) Clairv.,0.6192,True,Moehringia trinervia (L.) Clairv.,0.623,True
+P4240150-2.JPG,Anemone nemorosa L.,Anemone nemorosa L.,0.8178,True,Sedum album L.,0.3746,False
+P4240164-2.JPG,Tradescantia virginiana L.,Anemone hepatica L.,0.71,False,Tradescantia virginiana L.,0.6455,True
+P4240177-2.JPG,Thapsia villosa L.,Thapsia villosa L.,0.685,True,Thapsia villosa L.,0.6816,True
+P4260002-2.JPG,Lupinus luteus L.,Lupinus luteus L.,0.6493,True,Lupinus luteus L.,0.6405,True
+P4260005-2.JPG,Tagetes erecta L.,Tagetes erecta L.,0.796,True,Tagetes erecta L.,0.7975,True
+P4260010-2.JPG,Helminthotheca echioides (L.) Holub,Hyoscyamus albus L.,0.8853,False,Helminthotheca echioides (L.) Holub,0.8943,True
+P4260057-2.JPG,Honckenya peploides (L.) Ehrh.,Honckenya peploides (L.) Ehrh.,0.6113,True,Honckenya peploides (L.) Ehrh.,0.6212,True
+P4260063-2.JPG,Alocasia sanderiana W.Bull,Lupinus angustifolius L.,0.5471,False,Alocasia sanderiana W.Bull,0.6894,True
