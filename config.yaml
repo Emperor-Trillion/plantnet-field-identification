@@ -2,6 +2,7 @@ api:
   api_key:
   base_url: https://my-api.plantnet.org/v2/identify/all
   rate_limit_seconds: 0.5
+
 classification:
   confidence_tiers:
     tier1_min_conf: 0.8
@@ -11,6 +12,7 @@ classification:
     tier3_min_conf: 0.4
     tier4_min_conf: 0.2
   top_k: 5
+
 deduplication:
   analysis_thresholds:
   - 0.9
@@ -19,6 +21,7 @@ deduplication:
   - 0.97
   - 0.99
   primary_threshold: 0.95
+
 detection:
   flower_green_hue_range:
   - 35
@@ -28,6 +31,8 @@ detection:
   roi_padding: 20
   yolo_confidence: 0.25
   yolo_model: yolov8m.pt
+  use_clip_screening: true        # ← merged here, not a second detection block
+
 features:
   image_size: 224
   normalization_mean:
@@ -38,6 +43,7 @@ features:
   - 0.229
   - 0.224
   - 0.225
+
 paths:
   class_idx_to_species: models/class_idx_to_species_id.json
   cropped_rois: data/cropped_rois
@@ -49,9 +55,11 @@ paths:
   raw_images: data/raw_images
   species_id_to_name: models/plantnet300K_species_id_2_name.json
   tables: outputs/tables
+
 project:
   name: plantnet-field-identification
   seed: 42
+
 visualization:
   dbscan_eps: 0.2
   dbscan_min_samples: 5

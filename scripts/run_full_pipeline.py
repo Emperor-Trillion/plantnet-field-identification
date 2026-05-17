@@ -33,30 +33,33 @@ def run_stage_1():
     print_banner(1, "MULTI-OBJECT DETECTION")
 
     csvs = CONFIG["paths"]["csvs"]
+    obs_path = f"{csvs}/01_human_observations.csv"
 
     # Step 1.2: Generate observation template
     print("── Step 1.2: Generating observation template ──")
     from src.stage1_detection.observation_template import generate_observation_template
-
-    obs_path = f"{csvs}/01_human_observations.csv"
 
     if not Path(obs_path).exists():
         generate_observation_template(CONFIG["paths"]["raw_images"], obs_path)
         print("\n⚠️  IMPORTANT: Fill in the observation CSV before continuing!")
         print(f"   File: {obs_path}")
         print("   Open it, look at each image, fill in Yes/No columns.")
+        print("   Columns to fill: contains_flowers, contains_human")
+        print("   (contains_human=yes → image will be excluded from pipeline)")
 
         response = input("\n   Have you filled in the observations? (y/n): ")
         if response.lower() != "y":
             print("   Please fill in observations first, then re-run.")
             print(
-                "   You can restart from Stage 1 with: python scripts/run_full_pipeline.py --stage 1"
+                "   You can restart from Stage 1 with: "
+                "python scripts/run_full_pipeline.py --stage 1"
             )
             sys.exit(0)
     else:
         print(f"   Observations file already exists: {obs_path}")
 
     # Step 1.3: YOLO detection
+    # FIX: pass observations_csv so images with humans/no flowers are skipped
     print("\n── Step 1.3: Running YOLO object detection ──")
     from src.stage1_detection.yolo_detection import run_yolo_detection
 
@@ -65,23 +68,39 @@ def run_stage_1():
         f"{csvs}/02_yolo_detections.json",
         CONFIG["detection"]["yolo_model"],
         CONFIG["detection"]["yolo_confidence"],
+        observations_csv=obs_path,  # ← NEW
     )
 
     # Step 1.4: Flower segmentation
+    # FIX: pass yolo_json_path so person boxes suppress overlapping ROIs
     print("\n── Step 1.4: Segmenting flower regions ──")
     from src.stage1_detection.flower_segmentation import segment_all_images
+
+    use_clip = CONFIG.get("detection", {}).get("use_clip_screening", False)
+    if use_clip:
+        print("   CLIP botanical screening: ENABLED")
+    else:
+        print(
+            "   CLIP botanical screening: disabled  "
+            "(set detection.use_clip_screening=true in config to enable)"
+        )
 
     segment_all_images(
         CONFIG["paths"]["raw_images"],
         CONFIG["paths"]["cropped_rois"],
         f"{csvs}/03_flower_rois.csv",
         CONFIG,
+        yolo_json_path=f"{csvs}/02_yolo_detections.json",  # ← NEW
+        use_clip=use_clip,  # ← NEW
+        observations_csv=obs_path,  # ← NEW
     )
 
     # Step 1.5: Merge all detections
     print("\n── Step 1.5: Merging detection results ──")
+    from src.stage1_detection.merge_detections import merge_all_detections
+
     merge_all_detections(
-        f"{csvs}/01_human_observations.csv",
+        obs_path,
         f"{csvs}/02_yolo_detections.json",
         f"{csvs}/03_flower_rois.csv",
         f"{csvs}/04_master_image_table.csv",
