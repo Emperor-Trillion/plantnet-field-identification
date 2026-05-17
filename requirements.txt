@@ -91,3 +91,4 @@ ultralytics==8.4.41
 ultralytics-thop==2.0.19
 umap-learn==0.5.12
 urllib3==2.6.3
+git+https://github.com/openai/CLIP.git
